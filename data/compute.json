@@ -1,0 +1,721 @@
+[
+  {
+    "service": {
+      "name": "Shared Web hosting",
+      "ref": "http://#",
+      "Properties": [ "Number of instance templates available", "GPU acceleration", "Custom instance creation feature", "CPU Limits", "Memory Limits", "Temporary Storage Limits" ]
+    },
+    "aws": [
+      {
+        "name": "",
+        "ref": "",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure shared App Services",
+        "ref": "https://azure.microsoft.com/en-in/services/app-service/web/",
+        "icon": "Azure App Service - Web App (was Websites).png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "",
+        "ref": "",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "",
+        "ref": "",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "",
+        "ref": "",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Web Hosting",
+        "ref": "https://www.alibabacloud.com/product/hosting",
+        "icon": "ecs.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Simple Application Server",
+        "ref": "https://www.alibabacloud.com/product/swas",
+        "icon": "ecs.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Virtual Server",
+      "ref": "http://#",
+      "Properties": [ "Number of instance templates available", "GPU acceleration", "Custom instance creation feature", "CPU Limits", "Memory Limits", "Temporary Storage Limits" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon EC2",
+        "ref": "https://aws.amazon.com/ec2/",
+        "icon": "Compute_AmazonEC2.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Virtual Machine",
+        "ref": "https://docs.microsoft.com/en-us/azure/virtual-machines/",
+        "icon": "Azure Virtual Machine.png",
+        "Properties": [ "18", "No", "Yes", "1 Shared � 32 dedicated CPU", "0,6 � 208 GB", "3 TB" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Compute Engine",
+        "ref": "https://cloud.google.com/compute/",
+        "icon": "Compute-Engine.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Virtual Server Infrastructure (VSi)",
+        "ref": "https://www.ibm.com/cloud/virtual-servers",
+        "icon": "virtual-server.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Compute",
+        "ref": "https://cloud.oracle.com/en_US/compute",
+        "icon": "compute.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Alibaba ECS",
+        "ref": "https://www.alibabacloud.com/product/ecs",
+        "icon": "ecs.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Bare Metal Server",
+      "ref": "http://#",
+      "Properties": [ "Number of instance templates available", "GPU acceleration", "Custom instance creation feature", "CPU Limits", "Memory Limits", "Temporary Storage Limits" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon EC2 Bare Metal Instance (Preview)",
+        "ref": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-bare-metal-instances-with-direct-access-to-hardware/",
+        "icon": "aws.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Bare Metal Servers (Large Instance Only for SAP Hana)",
+        "ref": "https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-overview-architecture",
+        "icon": "Azure Virtual Machine.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ],
+    "google": [
+     {
+        "name": "None",
+        "ref": "http://#",
+        "icon": "none.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Bare Metal Servers",
+        "ref": "https://console.bluemix.net/docs/bare-metal/about.html#about",
+        "icon": "ibm-baremetal.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+       {
+        "name": "Bare Metal Servers",
+        "ref": "https://cloud.oracle.com/compute/bare-metal/features",
+        "icon": "compute.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "ECS Bare Metal Instance",
+        "ref": "https://www.alibabacloud.com/product/ebm",
+        "icon": "ecs.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Virtual Dedicated Host",
+      "ref": "http://#",
+      "Properties": [ "Number of instance templates available", "GPU acceleration", "Custom instance creation feature", "CPU Limits", "Memory Limits", "Temporary Storage Limits" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon EC2 Dedicated Hosts",
+        "ref": "https://aws.amazon.com/ec2/dedicated-hosts/",
+        "icon": "aws.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "None",
+        "ref": "http://#",
+        "icon": "none.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ],
+    "google": [
+     {
+        "name": "Sole Tenant Node (Beta)",
+        "ref": "https://cloud.google.com/compute/docs/nodes/",
+        "icon": "Compute-Engine.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Dedicated Virtual Servers Infrastructure (VSi)",
+        "ref": "https://console.bluemix.net/docs/vsi/vsi_dedicated_host.html#dedicated-hosts-and-dedicated-instances",
+        "icon": "virtual-server.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+       {
+        "name": "Dedicated Compute Classic",
+        "ref": "https://cloud.oracle.com/compute-classic/dedicated/features",
+        "icon": "compute.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Dedicated Host",
+        "ref": "https://www.alibabacloud.com/product/ddh",
+        "icon": "alibaba.png",
+        "Properties": [ "39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Container Registration Service",
+      "ref": "http://#",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon EC2 Container Registry",
+        "ref": "https://aws.amazon.com/ecr/",
+        "icon": "aws.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Container Registry ",
+        "ref": "https://azure.microsoft.com/en-in/services/container-registry/",
+        "icon": "Microsoft Azure.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Container Registry",
+        "ref": "https://cloud.google.com/container-registry/",
+        "icon": "Container-Registry.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "IBM Cloud Container Registry",
+        "ref": "https://www.ibm.com/cloud/container-registry",
+        "icon": "registry_icon.svg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Oracle Cloud Infrastructure Registry",
+        "ref": "https://cloud.oracle.com/containers/registry",
+        "icon": "compute.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Container Registry",
+        "ref": "https://www.alibabacloud.com/product/container-registry",
+        "icon": "ContainerServi.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Container Management Service",
+      "ref": "http://#",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon EC2 Container Service",
+        "ref": "https://aws.amazon.com/ecs/",
+        "icon": "Compute_AmazonECS.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Amazon Elastic Container Service for Kubernetes (EKS)",
+        "ref": "https://aws.amazon.com/eks/",
+        "icon": "Compute_AmazonECS.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Kubernetes Service (AKS)",
+        "ref": "https://azure.microsoft.com/services/kubernetes-service/",
+        "icon": "Azure Kubernetes Service.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Azure Container Instances",
+        "ref": "https://azure.microsoft.com/en-in/services/container-instances/",
+        "icon": "Azure Container Service.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Kubernetes Engine",
+        "ref": "https://cloud.google.com/kubernetes-engine/",
+        "icon": "Container-Engine.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "IBM Cloud Kubernetes Service",
+        "ref": "https://www.ibm.com/cloud/container-service",
+        "icon": "containerServiceIcon.svg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Container Engine for Kubernetes (OKE)",
+        "ref": "https://cloud.oracle.com/containers/kubernetes-engine",
+        "icon": "oracle.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Container Service",
+        "ref": "https://www.alibabacloud.com/product/container-service",
+        "icon": "ContainerServi.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Container Service for Kubernetes",
+        "ref": "https://www.alibabacloud.com/product/kubernetes",
+        "icon": "ContainerServi.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Micro Services App Development Platform",
+      "ref": "http://#",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "AWS Lambda",
+        "ref": "https://aws.amazon.com/lambda/",
+        "icon": "Compute_AWSLambda.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Service Fabric",
+        "ref": "https://azure.microsoft.com/en-in/services/service-fabric/",
+        "icon": "Azure Service Fabric.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Azure Functions",
+        "ref": "https://azure.microsoft.com/en-in/services/functions/",
+        "icon": "Azure Functions.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Event Grid",
+        "ref": "https://azure.microsoft.com/en-us/services/event-grid/",
+        "icon": "Azure Event Grid.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Google Cloud Functions",
+        "ref": "https://cloud.google.com/functions/",
+        "icon": "Cloud-Functions.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "IBM Cloud Functions",
+        "ref": "https://www.ibm.com/cloud/functions",
+        "icon": "ibm-cloud-functions.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Oracle Functions",
+        "ref": "https://#",
+        "icon": "compute.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Function Compute",
+        "ref": "https://www.alibabacloud.com/product/function-compute",
+        "icon": "ecs.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Virtual Private Servers",
+      "ref": "http://#",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon Lightsail",
+        "ref": "https://amazonlightsail.com/",
+        "icon": "aws.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure App Service Environment",
+        "ref": "https://docs.microsoft.com/en-us/azure/app-service-web/app-service-app-service-environment-intro",
+        "icon": "Azure App Service - Web App (was Websites).png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "",
+        "ref": "http://#",
+        "icon": "none.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Virtual Server Infrastructure (VSi)",
+        "ref": "https://www.ibm.com/cloud/virtual-servers",
+        "icon": "virtual-server.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "",
+        "ref": "https://#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Simple Application Server",
+        "ref": "https://www.alibabacloud.com/product/swas#product-details",
+        "icon": "alibaba.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Auto Scaling",
+      "ref": "http://#",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Auto Scaling",
+        "ref": "https://aws.amazon.com/autoscaling/",
+        "icon": "aws.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Autoscale",
+        "ref": "https://azure.microsoft.com/en-us/features/autoscale/",
+        "icon": "Azure App Service - Web App (was Websites).png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Virtual Machine Scale Sets",
+        "ref": "https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-overview",
+        "icon": "Azure VM Scale Set.png",
+        "Properties": [ "40", "No", "No", "1 � 32 CPU", "0,75 � 448 GB", "2 TB" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Auto Scaler",
+        "ref": "https://cloud.google.com/compute/docs/autoscaler/",
+        "icon": "Blue-Hexagon.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Auto Scaling",
+        "ref": "https://www.ibm.com/cloud/auto-scaling",
+        "icon": "auto-scaling.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Auto Scaling",
+        "ref": "https://docs.oracle.com/en/cloud/paas/psmon/automatic-scaling.html",
+        "icon": "oracle.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Auto Scaling",
+        "ref": "https://www.alibabacloud.com/product/auto-scaling",
+        "icon": "alibaba.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Batch Jobs",
+      "ref": "https://en.wikipedia.org/wiki/Batch_processing",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "AWS Batch",
+        "ref": "https://aws.amazon.com/batch/",
+        "icon": "aws.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Batch",
+        "ref": "https://azure.microsoft.com/en-in/services/batch/",
+        "icon": "Azure Batch.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Preemptible VMs",
+        "ref": "https://cloud.google.com/preemptible-vms/",
+        "icon": "Compute-Engine.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Workload Scheduler",
+        "ref": "https://console.bluemix.net/catalog/services/workload-scheduler",
+        "icon": "workload_scheduler.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "",
+        "ref": "https://#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Batch Compute",
+        "ref": "https://www.alibabacloud.com/product/batch-compute",
+        "icon": "alibaba.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "App Development/ Deployment (Java /.Net /PHP /Python)",
+      "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "AWS Elastic Beanstalk",
+        "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
+        "icon": "Compute_AWSElasticBeanstalk_application.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Web Apps",
+        "ref": "https://azure.microsoft.com/en-in/services/batch/",
+        "icon": "Azure App Service - Web App (was Websites).png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Azure Cloud Services",
+        "ref": "https://azure.microsoft.com/en-in/services/cloud-services/",
+        "icon": "Azure Cloud Services - Web roles.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Google App engine",
+        "ref": "https://cloud.google.com/appengine/",
+        "icon": "App-Engine.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Cloud Foundry Apps",
+        "ref": "https://www.ibm.com/cloud/cloud-foundry",
+        "icon": "cloud-foundry-apps.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Application Container Cloud",
+        "ref": "https://cloud.oracle.com/acc",
+        "icon": "applicationcontainer.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      },
+  {
+        "name": "Java Cloud Service",
+        "ref": "https://cloud.oracle.com/en_US/java",
+        "icon": "applicationcontainer.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Enterprise Distributed Application Service",
+        "ref": "https://www.alibabacloud.com/product/edas",
+        "icon": "alibaba.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Event Driven Computing",
+      "ref": "https://#",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "AWS Lambda",
+        "ref": "#",
+        "icon": "Compute_AWSLambda.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Functions",
+        "ref": "https://azure.microsoft.com/en-in/services/functions/",
+        "icon": "Azure Functions.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },{
+        "name": "Event Grid",
+        "ref": "https://azure.microsoft.com/en-us/services/event-grid/",
+        "icon": "Azure Event Grid.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Cloud Functions",
+        "ref": "https://cloud.google.com/functions/",
+        "icon": "Cloud-Functions.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "IBM Cloud Functions",
+        "ref": "https://www.ibm.com/cloud/functions",
+        "icon": "ibm-cloud-functions.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Oracle Functions",
+        "ref": "https://#",
+        "icon": "compute.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Function Compute",
+        "ref": "https://www.alibabacloud.com/product/function-compute",
+        "icon": "ecs.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  }
+]

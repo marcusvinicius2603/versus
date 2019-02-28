@@ -1,0 +1,128 @@
+[
+    {
+        "service": "Service 1 Example",
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 1,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 2,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 3,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 4,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 5,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 6,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 7,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 8,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 9,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 10,
+        "ibm": "ibm-prod",
+        "aws": "aws-prod",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 11,
+        "ibm": "ibm-prod1",
+        "aws": "aws-prod1",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 12,
+        "ibm": "ibm-prod2",
+        "aws": "aws-prod2",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    },
+    {
+        "service": 13,
+        "ibm": "ibm-prod3",
+        "aws": "aws-prod3",
+        "azure": "azure-prod",
+        "google": "google-prod",
+        "oracle": "oracle-prod",
+        "alibaba": "alibaba-prod"
+    }
+]

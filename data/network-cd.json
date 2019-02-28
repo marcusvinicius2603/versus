@@ -1,0 +1,406 @@
+[
+  {
+    "service": {
+      "name": "Virtual Networking",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon VPC",
+        "ref": "https://aws.amazon.com/vpc/",
+        "icon": "Networking_AmazonVPC.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure VNet",
+        "ref": "https://azure.microsoft.com/en-in/services/virtual-network/",
+        "icon": "Azure App Service - Web App (was Websites).png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Cloud Virtual Network",
+        "ref": "https://cloud.google.com/products/networking/",
+        "icon": "Cloud-Virtual-Network.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "",
+        "ref": "https://#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Oracle Virtual Cloud Network",
+        "ref": "https://cloud.oracle.com/networking",
+        "icon": "service-virtual-cloud-network.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Virtual Private Cloud",
+        "ref": "https://www.alibabacloud.com/product/vpc",
+        "icon": "vpc.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+
+  {
+    "service": {
+      "name": "Network Gateway",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon VPN",
+        "ref": "http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpn-connections.html/",
+        "icon": "aws.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure VPN Gateway",
+        "ref": "https://azure.microsoft.com/en-in/pricing/details/vpn-gateway/",
+        "icon": "Azure VPN Gateway.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Cloud VPN",
+        "ref": "https://cloud.google.com/products/networking/",
+        "icon": "Cloud-Virtual-Network.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "VPN",
+        "ref": "http://knowledgelayer.softlayer.com/learning/introduction-vpn",
+        "icon": "ibmcloud.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Oracle IPSec VPN",
+        "ref": "https://docs.us-phoenix-1.oraclecloud.com/Content/Network/Tasks/managingIPsec.htm",
+        "icon": "oracle.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "VPN Gateway",
+        "ref": "https://www.alibabacloud.com/product/vpn-gateway",
+        "icon": "alibaba.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Content Delivery Network",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon CloudFront",
+        "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
+        "icon": "Storage-Content-Delivery_AmazonCloudFront.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure CDN",
+        "ref": "https://azure.microsoft.com/en-in/services/cdn/",
+        "icon": "Azure Content Delivery Network (CDN).png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Cloud CDN",
+        "ref": "https://cloud.google.com/cdn/",
+        "icon": "Cloud-CDN.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Content Delivery Network",
+        "ref": "https://console.bluemix.net/catalog/infrastructure/cdn-powered-by-akamai",
+        "icon": "cdn.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Edge Services",
+        "ref": "https://cloud.oracle.com/en_US/edge",
+        "icon": "EdgeServices.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Alibaba Content Delivery Network",
+        "ref": "https://www.alibabacloud.com/product/cdn",
+        "icon": "cdn.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Networking & Content Delivery",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon Route 53",
+        "ref": "https://aws.amazon.com/route53/",
+        "icon": "Networking_AmazonRoute53.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure DNS",
+        "ref": "https://azure.microsoft.com/en-in/services/dns/",
+        "icon": "Azure DNS.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Cloud DNS",
+        "ref": "https://cloud.google.com/dns/",
+        "icon": "Cloud-DNS.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Internet Services",
+        "ref": "https://console.bluemix.net/catalog/services/internet-services",
+        "icon": "internet-services.svg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Oracle DNS",
+        "ref": "https://cloud.oracle.com/edge/dns/features",
+        "icon": "EdgeServices.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Alibaba Cloud DNS",
+        "ref": "https://www.alibabacloud.com/product/dns",
+        "icon": "DNS.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+ {
+    "service": {
+      "name": "Global Traffic Management",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon Route 53 Traffic Flow",
+        "ref": "https://aws.amazon.com/blogs/aws/new-route-53-traffic-flow/",
+        "icon": "Networking_AmazonRoute53.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Traffic Manager",
+        "ref": "https://azure.microsoft.com/en-in/services/traffic-manager/",
+        "icon": "Azure Traffic Manager.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "",
+        "ref": "#",
+        "icon": "none.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Internet Services",
+        "ref": "https://console.bluemix.net/catalog/services/internet-services",
+        "icon": "internet-services.svg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "",
+        "ref": "#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "",
+        "ref": "#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Private Connectivity",
+      "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "AWS Direct Connect",
+        "ref": "https://aws.amazon.com/directconnect/",
+        "icon": "Networking_AWSDirectConnect.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "AWS Private Link",
+        "ref": "https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-privatelink-in-the-eu-paris-region/",
+        "icon": "Networking_AWSDirectConnect.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Express Route",
+        "ref": "https://azure.microsoft.com/en-in/services/expressroute/",
+        "icon": "Azure ExpressRoute.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Cloud InterConnect",
+        "ref": "https://cloud.google.com/interconnect/",
+        "icon": "Cloud-Interconnect.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Direct Link",
+        "ref": "https://www.ibm.com/cloud-computing/bluemix/direct-link",
+        "icon": "direct-link.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Fast Connect",
+        "ref": "https://cloud.oracle.com/fastconnect",
+        "icon": "service-fastconnect.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Express Connect",
+        "ref": "https://www.alibabacloud.com/product/express-connect",
+        "icon": "expressconnect.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Load Balancers",
+      "ref": "https://en.wikipedia.org/wiki/Load_balancing_(computing)",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Elastic Load Balancing",
+        "ref": "https://aws.amazon.com/elasticloadbalancing/",
+        "icon": "aws.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Load Balancer",
+        "ref": "https://azure.microsoft.com/en-in/services/load-balancer/",
+        "icon": "Azure load balancer (automatic).png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Cloud Load Balancing",
+        "ref": "https://cloud.google.com/load-balancing/",
+        "icon": "Cloud-Load-Balancing.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Local Load Balancing",
+        "ref": "https://console.bluemix.net/catalog/infrastructure/load-balancer-group",
+        "icon": "ibmcloud.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "IBM Cloud Load Balancing",
+        "ref": "https://console.bluemix.net/catalog/infrastructure/load-balancer-group",
+        "icon": "ibmcloud.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Citrix NetScaler VPX",
+        "ref": "https://console.bluemix.net/catalog/infrastructure/load-balancer-group",
+        "icon": "ibmcloud.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Oracle Load Balancer",
+        "ref": "https://cloud.oracle.com/load-balancing",
+        "icon": "LoadBalancing.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Server Load Balancer",
+        "ref": "https://www.alibabacloud.com/product/server-load-balancer",
+        "icon": "SLB.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  }
+]

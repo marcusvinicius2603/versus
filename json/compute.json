@@ -1,0 +1,86 @@
+[{
+    
+    "service": {
+      "name": "Shared Web hosting",
+      "ref": "http://#"
+    },
+    "aws": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png"
+    }],
+    "azure": [{
+      "name": "Azure shared App Services",
+      "ref": "https://azure.microsoft.com/en-in/services/app-service/web/",
+      "icon": "Azure App Service - Web App (was Websites).png"
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png"
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png"
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png"
+    }],
+    "alibaba": [{
+        "name": "Web Hosting",
+        "ref": "https://www.alibabacloud.com/product/hosting",
+        "icon": "ecs.png"
+      },
+      {
+        "name": "Simple Application Server",
+        "ref": "https://www.alibabacloud.com/product/swas",
+        "icon": "ecs.png"
+      }
+    ]
+  },
+  {
+    
+    "service": {
+      "name": "Virtual Server",
+      "ref": "http://#"
+    },
+    "aws": [{
+      "name": "Amazon EC2",
+      "ref": "https://aws.amazon.com/ec2/",
+      "icon": "Compute_AmazonEC2.png"
+    }],
+    "azure": [{
+      "name": "Azure Virtual Machine",
+      "ref": "https://docs.microsoft.com/en-us/azure/virtual-machines/",
+      "icon": "Azure Virtual Machine.png"
+    }],
+    "google": [{
+      "name": "Compute Engine",
+      "ref": "https://cloud.google.com/compute/",
+      "icon": "Compute-Engine.png"
+    }],
+    "ibm": [{
+      "name": "Virtual Server Infrastructure (VSi)",
+      "ref": "https://cloud.ibm.com/catalog/infrastructure/virtual-server-group",
+      "icon": "virtual-server.png"
+    }],
+    "oracle": [{
+      "name": "Compute",
+      "ref": "https://cloud.oracle.com/en_US/compute",
+      "icon": "compute.png"
+    }],
+    "alibaba": [{
+        "name": "Alibaba ECS",
+        "ref": "https://www.alibabacloud.com/product/ecs",
+        "icon": "ecs.png"
+      },
+      {
+        "name": "ECS Bare Metal Instance",
+        "ref": "https://www.alibabacloud.com/product/ebm",
+        "icon": "ecs.png"
+      }
+    ]
+  }]

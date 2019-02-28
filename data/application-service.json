@@ -1,0 +1,563 @@
+[
+{
+    "service": {
+      "name": "API Management Service",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon API Gateway",
+        "ref": "",
+        "icon": "Application-Services_AmazonAPIGateway.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure API Management",
+        "ref": "",
+        "icon": "Azure API Management.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Apigee API Platform",
+        "ref": "https://cloud.google.com/apigee-api-management/",
+        "icon": "Blue-Hexagon.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "API Monitization",
+        "ref": "https://cloud.google.com/api-monetization/",
+        "icon": "Blue-Hexagon.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "API Analytics",
+        "ref": "https://cloud.google.com/api-analytics/",
+        "icon": "Blue-Hexagon.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Apigee Sense",
+        "ref": "https://cloud.google.com/apigee-sense/",
+        "icon": "Blue-Hexagon.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Cloud Endpoints",
+        "ref": "https://cloud.google.com/endpoints/",
+        "icon": "Blue-Hexagon.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Api connect",
+        "ref": "https://console.bluemix.net/catalog/services/api-connect",
+        "icon": "api-connect.svg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "",
+        "ref": "https://#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "",
+        "ref": "https://#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Media Transcoders",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon Elastic Transcoder",
+        "ref": "",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "AWS Elemental MediaConvert",
+        "ref": "https://aws.amazon.com/mediaconvert/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "AWS Elemental MediaLive",
+        "ref": "https://aws.amazon.com/medialive/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "AWS Elemental MediaPackage",
+        "ref": "https://aws.amazon.com/mediapackage/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "AWS Elemental MediaStore",
+        "ref": "https://aws.amazon.com/mediastore/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "AWS Elemental MediaTailor",
+        "ref": "https://aws.amazon.com/MediaTailor/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Amazon Kinesis Video Streams",
+        "ref": "https://aws.amazon.com/kinesis/video-streams/",
+        "icon": "Application-Services_AmazonElasticTranscoder.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Media Services",
+        "ref": "https://azure.microsoft.com/en-us/services/media-services",
+        "icon": "Azure Media Services.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Live On Demand Streaming",
+        "ref": "",
+        "icon": "Azure Media Services.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Azure Media Player",
+        "ref": "",
+        "icon": "Azure Media Services.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Content Protection",
+        "ref": "",
+        "icon": "Azure Media Services.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Media Analytics",
+        "ref": "",
+        "icon": "Azure Media Services.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "",
+        "ref": "",
+        "icon": "none.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Digital Transcoding",
+        "ref": "https://console.bluemix.net/docs/infrastructure/digital-transcoding/tc_index.html#getting-started-with-digital-transcoding",
+        "icon": "ibmcloud.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "",
+        "ref": "https://#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "ApsaraVideo Live",
+        "ref": "https://www.alibabacloud.com/product/apsaravideo-for-live",
+        "icon": "video.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Queuing Services",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon SQS",
+        "ref": "",
+        "icon": "Application-Services_AmazonSQS.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Amazon MQ",
+        "ref": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-mq/",
+        "icon": "aws.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Service Bus queues",
+        "ref": "",
+        "icon": "Azure Service Bus Queues.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Queue Storage",
+        "ref": "",
+        "icon": "Azure Service Bus Queues.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Service Bus topics",
+        "ref": "",
+        "icon": "Azure Service Bus Topics.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Service Bus relay",
+        "ref": "",
+        "icon": "Azure Service Bus Relay.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Cloud Pub/Sub",
+        "ref": "",
+        "icon": "Cloud-PubSub.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Message Hub",
+        "ref": "https://console.bluemix.net/catalog/services/message-hub",
+        "icon": "message-hub.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Integration",
+        "ref": "https://cloud.oracle.com/integration",
+        "icon": "integration.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Messaging",
+        "ref": "https://cloud.oracle.com/messaging",
+        "icon": "messaging.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Message Queue",
+        "ref": "https://www.alibabacloud.com/product/mq?spm=a3c0i.11270126.209577.68.6c8668dctRiorX",
+        "icon": "API.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Mobile Analytics",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon Pinpoint",
+        "ref": "",
+        "icon": "aws.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Mobile Engagement",
+        "ref": "",
+        "icon": "Azure Mobile Engagement.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "",
+        "ref": "",
+        "icon": "none.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Mobile Analytics",
+        "ref": "https://console.bluemix.net/catalog/services/mobile-analytics",
+        "icon": "ibmcloud.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "",
+        "ref": "https://#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "",
+        "ref": "https://#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Email Services",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon SES",
+        "ref": "",
+        "icon": "Application-Services_AmazonSES_email.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "",
+        "ref": "",
+        "icon": "none.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "",
+        "ref": "",
+        "icon": "none.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Sendgrid",
+        "ref": "https://console.bluemix.net/catalog/services/sendgrid",
+        "icon": "sendgrid.jpg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Edge Services",
+        "ref": "https://cloud.oracle.com/edge",
+        "icon": "developer.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Direct Mail",
+        "ref": "https://www.alibabacloud.com/product/directmail",
+        "icon": "directmail.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Notification Services",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon SNS",
+        "ref": "",
+        "icon": "Mobile-Services_AmazonSNS.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Notification Services",
+        "ref": "",
+        "icon": "Azure Notification Hubs.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Firebase Cloud Messaging",
+        "ref": "https://firebase.google.com/docs/cloud-messaging/",
+        "icon": "Google-Cloud-Platform.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Push notification",
+        "ref": "https://console.bluemix.net/catalog/services/push-notifications",
+        "icon": "push_notification.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "",
+        "ref": "https://#",
+        "icon": "none.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Short Message Service (SMS)",
+        "ref": "https://www.alibabacloud.com/product/short-message-service",
+        "icon": "alibaba.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+
+  {
+    "service": {
+      "name": "Blockchain Services",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Amazon Managed Blockchain (Preview)",
+        "ref": "https://aws.amazon.com/managed-blockchain/",
+        "icon": "Blockchain-Services_AmazonManagedBlockchain.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Blockchain",
+        "ref": "https://azure.microsoft.com/en-us/solutions/blockchain/",
+        "icon": "Azure subscription.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      },
+      {
+        "name": "Blockchain Workbench",
+        "ref": "https://azure.microsoft.com/en-us/features/blockchain-workbench/",
+        "icon": "Azure subscription.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "",
+        "ref": "",
+        "icon": "none.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Blockchain",
+        "ref": "https://console.ng.bluemix.net/catalog/services/blockchain/",
+        "icon": "blockchain.svg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Blockchain (Coming Soon)",
+        "ref": "https://cloud.oracle.com/en_US/blockchain",
+        "icon": "oracle.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Blockchain",
+        "ref": "https://console.ng.bluemix.net/catalog/services/blockchain/",
+        "icon": "alibaba.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  },
+  {
+    "service": {
+      "name": "Chatbot",
+      "ref": "",
+      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+    },
+    "aws": [
+      {
+        "name": "Lex Chatbots",
+        "ref": "",
+        "icon": "aws.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "azure": [
+      {
+        "name": "Azure Bot Service",
+        "ref": "https://azure.microsoft.com/en-us/services/bot-service/",
+        "icon": "Azure subscription.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "google": [
+      {
+        "name": "Dialogflow",
+        "ref": "https://dialogflow.com/",
+        "icon": "none.png",
+        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "ibm": [
+      {
+        "name": "Watson Assistant",
+        "ref": "https://console.bluemix.net/catalog/services/watson-assistant-formerly-conversation",
+        "icon": "watson-assistant.svg",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "oracle": [
+      {
+        "name": "Oracle Chatbots",
+        "ref": "https://cloud.oracle.com/en_US/blockchain",
+        "icon": "oracle.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ],
+    "alibaba": [
+      {
+        "name": "Intelligent Service Robot",
+        "ref": "https://www.alibabacloud.com/product/bot",
+        "icon": "alibaba.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,316 @@
+[{
+    "service": {
+      "name": "Language Processing AI",
+      "ref": "",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    },
+    "aws": [{
+        "name": "Amazon Lex",
+        "ref": "https://aws.amazon.com/lex/",
+        "icon": "aws.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Amazon Comprehend",
+        "ref": "https://aws.amazon.com/comprehend/",
+        "icon": "aws.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+
+    ],
+    "azure": [{
+        "name": "LUIS (Language Understanding Intelligent Service)",
+        "ref": "https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/",
+        "icon": "Azure Cognative Services - luis_COLOR.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Azure Bot Service",
+        "ref": "https://azure.microsoft.com/en-us/services/bot-service/",
+        "icon": "Azure Cognative Services - Speech_COLOR.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Azure Speech Recognition API",
+        "ref": "https://azure.microsoft.com/en-in/services/cognitive-services/speech/",
+        "icon": "Azure Cognative Services - Speech_COLOR.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "google": [{
+        "name": "Natural Language API",
+        "ref": "https://cloud.google.com/natural-language/",
+        "icon": "Natural-Language-API.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Cloud Text-to-Speech (Beta)",
+        "ref": "https://cloud.google.com/text-to-speech/",
+        "icon": "Natural-Language-API.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "DialogFlow Enterprise Edition (Beta)",
+        "ref": "https://cloud.google.com/dialogflow-enterprise/",
+        "icon": "Natural-Language-API.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "ibm": [{
+        "name": "Natural Language Classifier",
+        "ref": "https://console.ng.bluemix.net/catalog/services/natural-language-classifier/",
+        "icon": "natural-language-classifier.svg",
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Language Translator",
+        "ref": "https://console.ng.bluemix.net/catalog/services/language-translator/",
+        "icon": "language-translator.svg",
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Watson Assistant",
+        "ref": "https://console.bluemix.net/catalog/services/watson-assistant-formerly-conversation",
+        "icon": "watson-assistant.svg",
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Discovery",
+        "ref": "https://console.ng.bluemix.net/catalog/services/discovery/",
+        "icon": "discovery.svg",
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Knowledge Studio",
+        "ref": "https://console.bluemix.net/catalog/services/knowledge-studio",
+        "icon": "knowledge-studio.svg",
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": " Text to Speech",
+        "ref": "https://console.bluemix.net/catalog/services/text-to-speech",
+        "icon": "text-to-speech.svg",
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Personality Insights",
+        "ref": "https://console.ng.bluemix.net/catalog/services/personality-insights/",
+        "icon": "personality-insights.svg",
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
+  },
+  {
+    "service": {
+      "name": "Speech Recognition AI",
+      "ref": "",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    },
+    "aws": [{
+        "name": "Amazon Polly",
+        "ref": "",
+        "icon": "aws.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Amazon Transcribe",
+        "ref": "https://aws.amazon.com/transcribe/",
+        "icon": "aws.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Amazon Translate",
+        "ref": "https://aws.amazon.com/translate/",
+        "icon": "aws.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "azure": [{
+      "name": "Bing Speech API",
+      "ref": "",
+      "icon": "Azure Cognative Services - Speech_COLOR.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+        "name": "Translation API",
+        "ref": "https://cloud.google.com/translate/",
+        "icon": "Speech-API.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Speech API",
+        "ref": "https://cloud.google.com/speech/",
+        "icon": "Speech-API.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "ibm": [{
+      "name": "Speech to Text",
+      "ref": "https://console.bluemix.net/catalog/services/speech-to-text",
+      "icon": "speech-to-text.svg",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
+  },
+  {
+    "service": {
+      "name": "Image Recognition AI",
+      "ref": "",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    },
+    "aws": [{
+      "name": "Amazon Rekognition",
+      "ref": "",
+      "icon": "aws.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+        "name": "Emotion API",
+        "ref": "https://azure.microsoft.com/en-us/services/cognitive-services/emotion/",
+        "icon": "Azure Cognative Services - emotion_COLOR.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Face API",
+        "ref": "https://azure.microsoft.com/en-us/services/cognitive-services/face/",
+        "icon": "Azure Cognative Services - emotion_COLOR.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Computer Vision API",
+        "ref": "",
+        "icon": "Azure Cognative Services - emotion_COLOR.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "google": [{
+        "name": "Vision API",
+        "ref": "",
+        "icon": "Vision-API.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Cloud Video Intelligence",
+        "ref": "https://cloud.google.com/video-intelligence/",
+        "icon": "Vision-API.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "ibm": [{
+      "name": "Visual Recognition",
+      "ref": "https://console.ng.bluemix.net/catalog/services/visual-recognition/",
+      "icon": "visual-recognition.svg",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Image Search",
+      "ref": "https://www.alibabacloud.com/product/imagesearch",
+      "icon": "alibaba.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
+  },
+  {
+    "service": {
+      "name": "Machine Learning",
+      "ref": "",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    },
+    "aws": [{
+        "name": "Amazon Machine Learning",
+        "ref": "",
+        "icon": "Analytics_AmazonMachineLearning.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Amazon Sage​Maker",
+        "ref": "https://aws.amazon.com/sagemaker/",
+        "icon": "Analytics_AmazonMachineLearning.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "azure": [{
+        "name": "Azure Machine Learning",
+        "ref": "https://studio.azureml.net/",
+        "icon": "Azure Machine Learning.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Azure Machine Learning Workbench",
+        "ref": "https://docs.microsoft.com/en-in/azure/machine-learning/preview/quickstart-installation",
+        "icon": "Azure Machine Learning.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }, {
+        "name": "Azure Machine Learning Model Management",
+        "ref": "https://docs.microsoft.com/en-in/azure/machine-learning/preview/model-management-overview",
+        "icon": "Azure Machine Learning.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "google": [{
+        "name": "Cloud DataLab",
+        "ref": "",
+        "icon": "Cloud-Datalab.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Cloud AutoML (Alpha)",
+        "ref": "https://cloud.google.com/automl/",
+        "icon": "Cloud-Datalab.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      },
+      {
+        "name": "Cloud Machine Learning Services",
+        "ref": "",
+        "icon": "Cloud-Machine-Learning.png",
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      }
+    ],
+    "ibm": [{
+      "name": "Machine Learning",
+      "ref": "https://console.bluemix.net/catalog/services/machine-learning",
+      "icon": "machine-learning.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Machine Learning Platform For AI",
+      "ref": "https://www.alibabacloud.com/product/machine-learning",
+      "icon": "alibaba.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
+  }
+]
