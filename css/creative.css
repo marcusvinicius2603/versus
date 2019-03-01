@@ -137,7 +137,7 @@ dl {
 
 ul {
   list-style-type: none;
-  padding: 0;
+  padding-left: 0px;
 }
 
 ol ol,
@@ -301,11 +301,6 @@ th {
   vertical-align: middle !important;
   min-width: 160px !important;
   max-width: 160px !important;
-}
-
-td {
-  text-align: center;
-  vertical-align: middle !important;
 }
 
 label {
@@ -6216,7 +6211,7 @@ a.badge-dark.focus {
 .list-group-item-action {
   width: 100%;
   color: #495057;
-  text-align: inherit;
+  text-align: left;
 }
 
 .list-group-item-action:hover,

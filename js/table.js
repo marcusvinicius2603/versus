@@ -43,15 +43,14 @@ function dataprocessor(input, type) {
     if (input.length > 1) {
         trHTML += '<td><ul>';
         for (var i in input) {
-            trHTML += '<li><br><a style="color: white" href="' + input[i].ref + '">' + input[i].name +
-                '</a></li>';
+            trHTML += '<li style="margin-bottom: 15px"><a style="color: white" href="' + input[i].ref + '">' + input[i].name +' </a><i class="fas fa-map-marked-alt" style="color: dodgerblue"></i></li>';
         }
         trHTML += '</ul></td>';
     } else {
         if (input[0].name === "") {
             trHTML += '<td>' + "-" + '</td>'
         } else {
-            trHTML += '<td><a style="color: white" href="' + input[0].ref + '">' + input[0].name + '</a></td>';
+            trHTML += '<td><a style="color: white" href="' + input[0].ref + '">' + input[0].name + ' </a><i class="fas fa-map-marked-alt" style="color: dodgerblue"></i></td>';
         }
     }
     return trHTML;
