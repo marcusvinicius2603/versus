@@ -51,7 +51,7 @@ function dataprocessor(input, type) {
             trHTML += '<td>' + '<i class="fas fa-ban" style="color: red; font-size: 24px"></i>' + '</td>'
         } else {
             // trHTML += '<td><ul><li><img src="../img/icons/cloudproviders/ibm/blockchain.svg" class="img-responsive img-icons"><a style="color: white" href="' + input[0].ref + '"> ' + input[0].name + ' </a><i class="fas fa-map-marked-alt" style="color: dodgerblue"></i></li></ul></td>';
-            trHTML += '<td><ul><li><img src="../img/icons/cloudproviders/' + type +'/' + input[0].icon +'" class="img-responsive img-icons"><a style="color: black" href="' + input[0].ref + '"> ' + input[0].name + '</a><i class="fas fa-map-marked-alt" style="color: dodgerblue; margin: 6px"></i></li></ul></td>';
+            trHTML += '<td><ul><li><img src="../img/icons/cloudproviders/' + type +'/' + input[0].icon +'" class="img-responsive img-icons"><a style="color: black" href="' + input[0].ref + '">' + input[0].name + '</a><i class="fas fa-map-marked-alt" style="color: dodgerblue; margin: 6px"></i></li></ul></td>';
         }
     }
     return trHTML;
