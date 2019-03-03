@@ -48,7 +48,7 @@ function dataprocessor(input, type) {
         trHTML += '</ul></td>';
     } else {
         if (input[0].name === "") {
-            trHTML += '<td>' + '<i class="fas fa-times x-icon" style="color: red; font-size: 30px; text-align: center !important"></i>' + '</td>'
+            trHTML += '<td>' + '<i class="fas fa-ban" style="color: red; font-size: 24px; text-align: center !important"></i>' + '</td>'
         } else {
             trHTML += '<td><a style="color: white" href="' + input[0].ref + '">' + input[0].name + ' </a><i class="fas fa-map-marked-alt" style="color: dodgerblue"></i></td>';
         }
