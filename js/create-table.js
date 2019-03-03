@@ -5,7 +5,7 @@ function tableCreate(name, id) {
     sec.setAttribute("id", "sec-" + id);
 
     var cont = document.createElement("div");
-    cont.setAttribute("class", "container");
+    cont.setAttribute("class", "container-fluid");
 
     var h2 = document.createElement("h2");
     h2.setAttribute("class", "text-center mt-0 serv-title");
@@ -15,15 +15,15 @@ function tableCreate(name, id) {
     divider.setAttribute("class", "divider my-4");
 
     var cont2 = document.createElement("div");
-    cont2.setAttribute("class", "table-container");
+    cont2.setAttribute("class", "container-fluid");
 
     var table = document.createElement("table");
-    table.setAttribute("class", " table table-bordered table-striped table-dark");
+    table.setAttribute("class", "comparetable table table-bordered table-striped table-dark");
     table.setAttribute("id", id);
     table.setAttribute("style", "max-height: 30px !important");
 
     var head = document.createElement("thead");
-    head.setAttribute("style", "background-color: #b8cee2;");
+    head.setAttribute("style", "background-color: #b8cee2");
 
     var tr = document.createElement("tr");
 
@@ -35,37 +35,37 @@ function tableCreate(name, id) {
     var img1 = document.createElement("img");
     img1.setAttribute("src", "img/logos/aws.png");
     img1.setAttribute("alt", "icon");
-    img1.setAttribute("style", "height: 50%; width: 80%;");
+    img1.setAttribute("style", "height: 50%; width: 70%;");
 
     var th3 = document.createElement("th");
     var img2 = document.createElement("img");
     img2.setAttribute("src", "img/logos/msazure.png");
     img2.setAttribute("alt", "icon");
-    img2.setAttribute("style", "height: 40%; width: 80%;");
+    img2.setAttribute("style", "height: 45%; width: 65%;");
 
     var th4 = document.createElement("th");
     var img3 = document.createElement("img");
     img3.setAttribute("src", "img/logos/google.png");
     img3.setAttribute("alt", "icon");
-    img3.setAttribute("style", "height: 50%; width: 100%;");
+    img3.setAttribute("style", "height: 50%; width: 80%;");
 
     var th5 = document.createElement("th");
     var img4 = document.createElement("img");
     img4.setAttribute("src", "img/logos/IBM-Cloud.png");
     img4.setAttribute("alt", "icon");
-    img4.setAttribute("style", "height: 35%; width: 100%;");
+    img4.setAttribute("style", "height: 35%; width: 70%;");
 
     var th6 = document.createElement("th");
     var img5 = document.createElement("img");
     img5.setAttribute("src", "img/logos/oracle.png");
     img5.setAttribute("alt", "icon");
-    img5.setAttribute("style", "height: 60%; width: 80%;");
+    img5.setAttribute("style", "height: 60%; width: 60%;");
 
     var th7 = document.createElement("th");
     var img6 = document.createElement("img");
     img6.setAttribute("src", "img/logos/alibaba.png");
     img6.setAttribute("alt", "icon");
-    img6.setAttribute("style", "height: 40%; width: 80%;");
+    img6.setAttribute("style", "height: 45%; width: 60%;");
 
     th7.appendChild(img6);
     th6.appendChild(img5);
@@ -127,10 +127,3 @@ function tableCreate(name, id) {
 //     </div>
 // </div>
 // </section> */
-
-
-
-
-
-
-

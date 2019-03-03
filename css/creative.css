@@ -299,8 +299,6 @@ caption {
 th {
   text-align: center;
   vertical-align: middle !important;
-  min-width: 160px !important;
-  max-width: 160px !important;
 }
 
 label {
@@ -1982,8 +1980,8 @@ pre code {
 }
 
 .table {
-  width: 100%;
-  /* margin-bottom: 1rem; */
+  table-layout: fixed !important;
+  width: 100% !important;
   color: #212529;
 }
 
@@ -1997,8 +1995,8 @@ pre code {
 }
 
 .img-icons {
-  height: 22px;
-  width: 22px;
+  height: 24px;
+  width: 24px;
   margin-right: 4px;
 }
 
@@ -2012,6 +2010,8 @@ pre code {
   vertical-align: middle;
   text-align: center;
   border-top: 1px solid #dee2e6;
+  word-wrap: break-word;
+  word-break: break-all;
 }
 
 .table thead th {
@@ -2261,8 +2261,8 @@ pre code {
 }
 
 .table-dark {
-  color: #fff;
-  background-color: #343a40;
+  color: black;
+  background-color: white;
 }
 
 .table-dark th,
@@ -2272,7 +2272,7 @@ pre code {
 }
 
 .table-dark th {
-  background-color: white;
+  background-color: whitesmoke;
   color: black;
 }
 
