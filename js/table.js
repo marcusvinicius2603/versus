@@ -43,14 +43,15 @@ function dataprocessor(input, type) {
     if (input.length > 1) {
         trHTML += '<td><ul>';
         for (var i in input) {
-            trHTML += '<li style="margin: 0 0 3px 0;"><a style="color: white" href="' + input[i].ref + '">' + input[i].name +' </a><i class="fas fa-map-marked-alt" style="color: dodgerblue"></i></li>';
+            trHTML += '<li><img src="../img/icons/cloudproviders/' + type +'/' + input[i].icon +'" class="img-responsive img-icons"><a style="color: white" href="' + input[i].ref + '">' + input[i].name + '</a><i class="fas fa-map-marked-alt" style="color: dodgerblue; margin: 6px"></i></li>';
         }
         trHTML += '</ul></td>';
     } else {
         if (input[0].name === "") {
             trHTML += '<td>' + '<i class="fas fa-ban" style="color: red; font-size: 24px"></i>' + '</td>'
         } else {
-            trHTML += '<td><ul><li><a style="color: white" href="' + input[0].ref + '">' + input[0].name + ' </a><i class="fas fa-map-marked-alt" style="color: dodgerblue"></i></li></ul></td>';
+            // trHTML += '<td><ul><li><img src="../img/icons/cloudproviders/ibm/blockchain.svg" class="img-responsive img-icons"><a style="color: white" href="' + input[0].ref + '"> ' + input[0].name + ' </a><i class="fas fa-map-marked-alt" style="color: dodgerblue"></i></li></ul></td>';
+            trHTML += '<td><ul><li><img src="../img/icons/cloudproviders/' + type +'/' + input[0].icon +'" class="img-responsive img-icons"><a style="color: white" href="' + input[0].ref + '"> ' + input[0].name + '</a><i class="fas fa-map-marked-alt" style="color: dodgerblue; margin: 6px"></i></li></ul></td>';
         }
     }
     return trHTML;

@@ -1987,6 +1987,25 @@ pre code {
   color: #212529;
 }
 
+.img-responsive,
+.thumbnail>img,
+.thumbnail a>img,
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-icons {
+  height: 22px;
+  width: 22px;
+  margin-right: 4px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
 .table th,
 .table td {
   padding: 0.75rem;
