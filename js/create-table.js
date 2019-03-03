@@ -18,7 +18,7 @@ function tableCreate(name, id) {
     cont2.setAttribute("class", "container-fluid");
 
     var table = document.createElement("table");
-    table.setAttribute("class", "comparetable table table-bordered table-striped table-dark");
+    table.setAttribute("class", "table table-bordered table-striped table-dark");
     table.setAttribute("id", id);
     table.setAttribute("style", "max-height: 30px !important");
 
@@ -53,7 +53,7 @@ function tableCreate(name, id) {
     var img4 = document.createElement("img");
     img4.setAttribute("src", "img/logos/IBM-Cloud.png");
     img4.setAttribute("alt", "icon");
-    img4.setAttribute("style", "height: 35%; width: 70%;");
+    img4.setAttribute("style", "height: 34%; width: 75%;");
 
     var th6 = document.createElement("th");
     var img5 = document.createElement("img");

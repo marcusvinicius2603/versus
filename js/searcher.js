@@ -23,6 +23,7 @@ document.getElementById("searcher").addEventListener("keydown", function (e) {
         finder($("#searcher").val(), "storage");
         finder($("#searcher").val(), "other");
         target = 0;
+        $("#searcher").val("");
     }
 }, false);
 
@@ -43,6 +44,7 @@ document.getElementById("btn-searcher").addEventListener("click", function () {
     finder($("#searcher").val(), "storage");
     finder($("#searcher").val(), "other");
     target = 0;
+    $("#searcher").val("");
 })
 
 function finder(input, tableid) {
@@ -61,10 +63,10 @@ function finder(input, tableid) {
                 if (txtValue.toUpperCase().indexOf(filter) > -1 && target != 1) {
                     document.getElementById('sec-' + tableid).scrollIntoView();
                     target = 1
-                    console.log("achei");
+                    console.log("find");
                 } else {
                     target = 0;
-                    console.log("não achei");
+                    console.log("not find");
                 }
             }
         }
