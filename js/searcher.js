@@ -1,3 +1,5 @@
+// Search feature function
+
 var target = 0
 
 document.getElementById("searcher").addEventListener("keydown", function (e) {
@@ -5,7 +7,7 @@ document.getElementById("searcher").addEventListener("keydown", function (e) {
         var e = window.event;
     }
 
-    // Enter is pressed
+    // When Enter key is pressed
     if (e.keyCode == 13) {
         console.log($("#searcher").val());
         finder($("#searcher").val(), "ai");

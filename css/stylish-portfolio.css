@@ -1,3 +1,5 @@
+/* Side menu and toggle buttons css */
+
 body,
 html {
   width: 100%;
@@ -67,7 +69,7 @@ li {
   height: 50px;
   text-align: center;
   color: white; 
-  background: rgba(52, 58, 64, 0.5);
+  background: #343a40;
   line-height: 45px;
 }
 
@@ -77,7 +79,7 @@ li {
 }
 
 .scroll-to-top:hover {
-  background: #343a40;
+  background: #353b48;
 }
 
 .scroll-to-top i {

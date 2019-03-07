@@ -1,3 +1,6 @@
+// Table header and structure build function
+// This function is called by main.js
+
 function tableCreate(name, id) {
     var main = document.getElementById("create-table");
     var sec = document.createElement("section");
@@ -65,7 +68,7 @@ function tableCreate(name, id) {
     var img6 = document.createElement("img");
     img6.setAttribute("src", "img/logos/alibaba.png");
     img6.setAttribute("alt", "icon");
-    img6.setAttribute("style", "height: 45%; width: 60%;");
+    img6.setAttribute("style", "height: 40%; width: 60%;");
 
     th7.appendChild(img6);
     th6.appendChild(img5);
@@ -91,39 +94,3 @@ function tableCreate(name, id) {
     main.appendChild(sec);
 
 }
-
-// /* <section class="page-section">
-// <div class="container">
-//     <h2 class="text-center mt-0 serv-title">Artificial Intelligence</h2>
-//     <hr class="divider my-4">
-//     <div class="table-container">
-//         <table id="ai" class="comparetable table-bordered table-striped table table-dark" style="max-height: 30px !important">
-//             <thead style="background-color: #b8cee2;">
-//                 <tr>
-//                     <th><b>Service</b></th>
-//                     <th>
-//                         <img src='img/logos/aws.png' alt='icon' style="height: 50%; width: 80%;" />
-//                     </th>
-//                     <th>
-//                         <img src='img/logos/msazure.png' alt='icon' style="height: 40%; width: 80%;" />
-//                     </th>
-//                     <th>
-//                         <img src='img/logos/google.png' alt='icon' style="height: 50%; width: 100%;" />
-//                     </th>
-//                     <th>
-//                         <img src='img/logos/IBM-Cloud.png' alt='icon' style="height: 35%; width: 100%;" />
-//                     </th>
-//                     <th>
-//                         <img src='img/logos/oracle.png' alt='icon' style="height: 60%; width: 80%;" />
-//                     </th>
-//                     <th>
-//                         <img src='img/logos/alibaba.png' alt='icon' style="height: 40%; width: 80%;" />
-//                     </th>
-//                 </tr>
-//             </thead>
-//             <tbody>
-//             </tbody>
-//         </table>
-//     </div>
-// </div>
-// </section> */

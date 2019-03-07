@@ -1,3 +1,5 @@
+// Table build main file
+
 document.addEventListener("DOMContentLoaded", function () {
     tableCreate("Artificial Intelligence", "ai");
     tableCreate("Application Service", "application-service");
