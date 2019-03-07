@@ -1,5 +1,4 @@
-[
-    {
+[{
         "service": "Service 1 Example",
         "ibm": "ibm-prod",
         "aws": "aws-prod",

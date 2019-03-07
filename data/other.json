@@ -1,179 +1,143 @@
-[
-  {
+[{
     "service": {
       "name": "Office Document Solutions",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
+    "aws": [{
         "name": "Amazon WorkDocs",
         "ref": "",
         "icon": "Enterprise-Applications_AmazonWorkDocs.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Amazon WorkMail",
         "ref": "",
         "icon": "Enterprise-Applications_AmazonWorkMail.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Amazon WorkSpaces",
         "ref": "",
         "icon": "Enterprise-Applications_AmazonWorkSpaces.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "azure": [
-      {
-        "name": "Microsoft Office 365",
-        "ref": "",
-        "icon": "Office 365.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "G Suite",
-        "ref": "",
-        "icon": "GSuite.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "azure": [{
+      "name": "Microsoft Office 365",
+      "ref": "",
+      "icon": "Office 365.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "G Suite",
+      "ref": "",
+      "icon": "GSuite.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Desktop Application Streaming",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "Amazon AppStream 2.0",
-        "ref": "",
-        "icon": "Application-Services_AmazonAppStream.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "Amazon AppStream 2.0",
+      "ref": "",
+      "icon": "Application-Services_AmazonAppStream.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Cloud Marketplace",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Marketplace",
-        "ref": "",
-        "icon": "aws.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure MarketPlace",
-        "ref": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps",
-        "icon": "Azure Store_Marketplace.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "Cloud Launcher",
-        "ref": "https://cloud.google.com/launcher/",
-        "icon": "Google-Cloud-Platform.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "IBM Marketplace",
-        "ref": "https://www.ibm.com/bn-en/marketplace/cloud-platform",
-        "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Oracle Cloud Market Place",
-        "ref": "https://cloudmarketplace.oracle.com/marketplace/bmcs",
-        "icon": "oracle.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Alibaba Cloud Marketplace",
-        "ref": "https://www.alibabacloud.com/marketplace",
-        "icon": "alibaba.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Marketplace",
+      "ref": "",
+      "icon": "aws.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure MarketPlace",
+      "ref": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps",
+      "icon": "Azure Store_Marketplace.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "Cloud Launcher",
+      "ref": "https://cloud.google.com/launcher/",
+      "icon": "Google-Cloud-Platform.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "IBM Marketplace",
+      "ref": "https://www.ibm.com/bn-en/marketplace/cloud-platform",
+      "icon": "ibmcloud.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Oracle Cloud Market Place",
+      "ref": "https://cloudmarketplace.oracle.com/marketplace/bmcs",
+      "icon": "oracle.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Alibaba Cloud Marketplace",
+      "ref": "https://www.alibabacloud.com/marketplace",
+      "icon": "alibaba.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   }
 ]

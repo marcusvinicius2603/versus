@@ -1,446 +1,369 @@
-[
- {
+[{
     "service": {
       "name": "Big Data Query as a Service",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "Amazon Athena",
-        "ref": "https://aws.amazon.com/athena/",
-        "icon": "aws.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure Data Lake Analytics",
-        "ref": "https://azure.microsoft.com/en-in/services/data-lake-analytics/",
-        "icon": "Azure Data Lake Analytics.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "BigQuery",
-        "ref": "https://cloud.google.com/bigquery/",
-        "icon": "BigQuery.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "SQL Query",
-        "ref": "https://console.bluemix.net/catalog/services/sql-query",
-        "icon": "sql-query.svg",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "E-MapReduce Service",
-        "ref": "https://www.alibabacloud.com/product/e-mapreduce",
-        "icon": "emr.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "Amazon Athena",
+      "ref": "https://aws.amazon.com/athena/",
+      "icon": "aws.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure Data Lake Analytics",
+      "ref": "https://azure.microsoft.com/en-in/services/data-lake-analytics/",
+      "icon": "Azure Data Lake Analytics.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "BigQuery",
+      "ref": "https://cloud.google.com/bigquery/",
+      "icon": "BigQuery.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "SQL Query",
+      "ref": "https://console.bluemix.net/catalog/services/sql-query",
+      "icon": "sql-query.svg",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "E-MapReduce Service",
+      "ref": "https://www.alibabacloud.com/product/e-mapreduce",
+      "icon": "emr.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Big Data Managed Cluster as a Service",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "Amazon EMR",
-        "ref": "https://aws.amazon.com/emr/",
-        "icon": "Analytics_AmazonEMR.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure HDInsight",
-        "ref": "https://azure.microsoft.com/en-in/services/hdinsight/",
-        "icon": "Azure HDInsight.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "Cloud DataProc",
-        "ref": "https://cloud.google.com/dataproc/",
-        "icon": "Cloud-Dataproc.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "BigInsights for Apache Hadoop",
-        "ref": "https://console.ng.bluemix.net/catalog/services/biginsights-for-apache-hadoop/",
-        "icon": "biginsights.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Big Data",
-        "ref": "https://cloud.oracle.com/bigdata",
-        "icon": "bigdata.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "E-MapReduce Service",
-        "ref": "https://www.alibabacloud.com/product/e-mapreduce",
-        "icon": "emr.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "Amazon EMR",
+      "ref": "https://aws.amazon.com/emr/",
+      "icon": "Analytics_AmazonEMR.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure HDInsight",
+      "ref": "https://azure.microsoft.com/en-in/services/hdinsight/",
+      "icon": "Azure HDInsight.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "Cloud DataProc",
+      "ref": "https://cloud.google.com/dataproc/",
+      "icon": "Cloud-Dataproc.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "BigInsights for Apache Hadoop",
+      "ref": "https://console.ng.bluemix.net/catalog/services/biginsights-for-apache-hadoop/",
+      "icon": "biginsights.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Big Data",
+      "ref": "https://cloud.oracle.com/bigdata",
+      "icon": "bigdata.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "E-MapReduce Service",
+      "ref": "https://www.alibabacloud.com/product/e-mapreduce",
+      "icon": "emr.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Cloud Search",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
+    "aws": [{
         "name": "Amazon CloudSearch",
         "ref": "https://aws.amazon.com/cloudsearch/",
         "icon": "Application-Services_AmazonCloudSearch.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Amazon Elastic Search Service",
         "ref": "https://aws.amazon.com/cloudsearch/",
         "icon": "Application-Services_AmazonCloudSearch.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "azure": [
-      {
-        "name": "Azure Search",
-        "ref": "",
-        "icon": "Azure Search.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Compose for Elasticsearch",
-        "ref": "https://console.bluemix.net/catalog/services/compose-for-elasticsearch",
-        "icon": "compose-elastic.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "azure": [{
+      "name": "Azure Search",
+      "ref": "",
+      "icon": "Azure Search.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Compose for Elasticsearch",
+      "ref": "https://console.bluemix.net/catalog/services/compose-for-elasticsearch",
+      "icon": "compose-elastic.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Streaming Service",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
+    "aws": [{
         "name": "Amazon Kinesis",
         "ref": "https://aws.amazon.com/kinesis/streams/",
         "icon": "Analytics_AmazonKinesis.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Amazon Kinesis Video Streams",
         "ref": "https://aws.amazon.com/blogs/aws/amazon-kinesis-video-streams-serverless-video-ingestion-and-storage-for-vision-enabled-apps/",
         "icon": "Analytics_AmazonKinesis.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "azure": [
-      {
+    "azure": [{
         "name": "Azure Stream Analytics",
         "ref": "https://azure.microsoft.com/en-us/services/stream-analytics/",
         "icon": "Azure Stream Analytics.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Azure Event Hub",
         "ref": "https://azure.microsoft.com/en-us/services/stream-analytics/",
         "icon": "Azure Event Hubs.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "google": [
-      {
-        "name": "Cloud Dataflow",
-        "ref": "https://cloud.google.com/dataflow/",
-        "icon": "Cloud-Dataflow.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Streaming Analytics",
-        "ref": "https://console.ng.bluemix.net/catalog/services/streaming-analytics/",
-        "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Event Hub (Apache Kafka as a Service)",
-        "ref": "https://cloud.oracle.com/en_US/event-hub",
-        "icon": "storage.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "google": [{
+      "name": "Cloud Dataflow",
+      "ref": "https://cloud.google.com/dataflow/",
+      "icon": "Cloud-Dataflow.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Streaming Analytics",
+      "ref": "https://console.ng.bluemix.net/catalog/services/streaming-analytics/",
+      "icon": "ibmcloud.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Event Hub (Apache Kafka as a Service)",
+      "ref": "https://cloud.oracle.com/en_US/event-hub",
+      "icon": "storage.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Data Warehouse",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "Amazon Redshift",
-        "ref": "https://aws.amazon.com/redshift/",
-        "icon": "Database_AmazonRedshift.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure SQL Data Warehouse",
-        "ref": "https://azure.microsoft.com/en-in/services/sql-data-warehouse/",
-        "icon": "Azure Data Warehouse.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "Big Query",
-        "ref": "https://cloud.google.com/bigquery/",
-        "icon": "BigQuery.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Db2 Warehouse",
-        "ref": "https://console.bluemix.net/catalog/services/db2-warehouse",
-        "icon": "db2-warehouse.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Alibaba MaxCompute ODPS",
-        "ref": "https://www.alibabacloud.com/product/maxcompute",
-        "icon": "MaxCompute.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "Amazon Redshift",
+      "ref": "https://aws.amazon.com/redshift/",
+      "icon": "Database_AmazonRedshift.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure SQL Data Warehouse",
+      "ref": "https://azure.microsoft.com/en-in/services/sql-data-warehouse/",
+      "icon": "Azure Data Warehouse.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "Big Query",
+      "ref": "https://cloud.google.com/bigquery/",
+      "icon": "BigQuery.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Db2 Warehouse",
+      "ref": "https://console.bluemix.net/catalog/services/db2-warehouse",
+      "icon": "db2-warehouse.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Alibaba MaxCompute ODPS",
+      "ref": "https://www.alibabacloud.com/product/maxcompute",
+      "icon": "MaxCompute.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Business Intelligence & Data Visualization",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "Amazon QuickSight",
-        "ref": "https://quicksight.aws/",
-        "icon": "Analytics_AmazonQuickSight.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "PowerBI",
-        "ref": "https://powerbi.microsoft.com/en-us/",
-        "icon": "Power BI Embedded.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "Google Data Studio (Beta)",
-        "ref": "https://cloud.google.com/data-studio/",
-        "icon": "Data-Studio.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Watson studio",
-        "ref": "https://console.bluemix.net/catalog/services/watson-studio",
-        "icon": "watson-studio.svg",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
+    "aws": [{
+      "name": "Amazon QuickSight",
+      "ref": "https://quicksight.aws/",
+      "icon": "Analytics_AmazonQuickSight.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "PowerBI",
+      "ref": "https://powerbi.microsoft.com/en-us/",
+      "icon": "Power BI Embedded.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "Google Data Studio (Beta)",
+      "ref": "https://cloud.google.com/data-studio/",
+      "icon": "Data-Studio.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Watson studio",
+      "ref": "https://console.bluemix.net/catalog/services/watson-studio",
+      "icon": "watson-studio.svg",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
         "name": "Data Visualization",
         "ref": "https://cloud.oracle.com/en_US/data-visualization/features",
         "icon": "oracle.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Business Intelligence",
         "ref": "https://cloud.oracle.com/en_US/business-intelligence/features",
         "icon": "oracle.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "alibaba": [
-      {
-        "name": "Data IDE",
-        "ref": "https://www.alibabacloud.com/product/ide",
-        "icon": "IDE.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "alibaba": [{
+      "name": "Data IDE",
+      "ref": "https://www.alibabacloud.com/product/ide",
+      "icon": "IDE.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Cloud ETL",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
+    "aws": [{
         "name": "AWS Data Pipeline",
         "ref": "https://aws.amazon.com/datapipeline/",
         "icon": "Analytics_AWSDataPipeline.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "AWS Glue",
         "ref": "https://aws.amazon.com/glue/",
         "icon": "aws.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Amazon Simple Workflow Service (SWF)",
         "ref": "https://aws.amazon.com/swf/",
         "icon": "aws.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "azure": [
-      {
+    "azure": [{
         "name": "Azure Data Factory",
         "ref": "https://azure.microsoft.com/en-in/services/data-factory/",
         "icon": "Azure Data Factory.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Azure Data Catalog",
         "ref": "https://azure.microsoft.com/en-in/services/data-catalog/",
         "icon": "Azure Data Catalog.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Logic Apps",
         "ref": "https://azure.microsoft.com/en-in/services/logic-apps/",
         "icon": "Azure App Service - Logic App.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "google": [
-      {
+    "google": [{
         "name": "Cloud DataPrep (Private Beta)",
         "ref": "https://cloud.google.com/dataprep/",
         "icon": "Cloud-Dataprep.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Cloud Composer (Beta)",
         "ref": "https://cloud.google.com/composer/",
         "icon": "Cloud-Dataprep.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "ibm": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Data Integrator",
-        "ref": "https://cloud.oracle.com/en_US/data-integrator",
-        "icon": "integration.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Data Integrator",
+      "ref": "https://cloud.oracle.com/en_US/data-integrator",
+      "icon": "integration.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
         "name": "DataWorks",
         "ref": "https://www.alibabacloud.com/product/ide",
         "icon": "alibaba.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Data Integration",
         "ref": "https://www.alibabacloud.com/product/data-integration",
         "icon": "alibaba.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
       }
     ]
   }

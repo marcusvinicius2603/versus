@@ -1,606 +1,491 @@
-[
-  {
+[{
     "service": {
       "name": "Identity & Access Management",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Identity and Access Management (IAM)",
-        "ref": "https://aws.amazon.com/documentation/iam/",
-        "icon": "Security-Identity_AWSIAM.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure Active Directory",
-        "ref": "https://azure.microsoft.com/en-in/services/active-directory/",
-        "icon": "Azure Active Directory.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
+    "aws": [{
+      "name": "AWS Identity and Access Management (IAM)",
+      "ref": "https://aws.amazon.com/documentation/iam/",
+      "icon": "Security-Identity_AWSIAM.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure Active Directory",
+      "ref": "https://azure.microsoft.com/en-in/services/active-directory/",
+      "icon": "Azure Active Directory.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
         "name": "Cloud IAM",
         "ref": "https://cloud.google.com/iam/",
         "icon": "Cloud-IAM.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Cloud Identity-Aware Proxy",
         "ref": "https://cloud.google.com/iap/",
         "icon": "Cloud-Identity-Aware-Proxy.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "ibm": [
-      {
-        "name": "Identity & Access Management",
-        "ref": "https://console.bluemix.net/docs/iam/quickstart.html#getstarted",
-        "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Identity",
-        "ref": "https://cloud.oracle.com/en_US/identity/features",
-        "icon": "oracle.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Resource Access Management        ",
-        "ref": "https://www.alibabacloud.com/product/ram",
-        "icon": "ram.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "ibm": [{
+      "name": "Identity & Access Management",
+      "ref": "https://console.bluemix.net/docs/iam/quickstart.html#getstarted",
+      "icon": "ibmcloud.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Identity",
+      "ref": "https://cloud.oracle.com/en_US/identity/features",
+      "icon": "oracle.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Resource Access Management        ",
+      "ref": "https://www.alibabacloud.com/product/ram",
+      "icon": "ram.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Cloud Security Assesment Service",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
+    "aws": [{
         "name": "Amazon Inspector",
         "ref": "https://aws.amazon.com/inspector/",
         "icon": "Security-Identity_AmazonInspector.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Gaurd Duty",
         "ref": "https://aws.amazon.com/guardduty/",
         "icon": "Security-Identity_AmazonInspector.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "azure": [
-      {
-        "name": "Azure Security Center",
-        "ref": "https://azure.microsoft.com/en-in/services/security-center/",
-        "icon": "Azure Security Center.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
+    "azure": [{
+      "name": "Azure Security Center",
+      "ref": "https://azure.microsoft.com/en-in/services/security-center/",
+      "icon": "Azure Security Center.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
         "name": "Infrastructure Vulnerability Scan",
         "ref": "https://console.bluemix.net/docs/infrastructure/SLmonitoring/vuln_scan.html#vulnerability-scans",
         "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Application Vulnerability Scan",
         "ref": "https://console.bluemix.net/docs/services/ApplicationSecurityonCloud/index.html",
         "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "oracle": [
-      {
-        "name": "Configuration and Compliance Service",
-        "ref": "https://cloud.oracle.com/compliance",
-        "icon": "oracle.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "oracle": [{
+      "name": "Configuration and Compliance Service",
+      "ref": "https://cloud.oracle.com/compliance",
+      "icon": "oracle.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Secured Socket Layer (SSL) Certificates",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Certificate Manager",
-        "ref": "https://aws.amazon.com/certificate-manager/",
-        "icon": "Security-Identity_ACM_certificate-manager.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "App Service Certificate",
-        "ref": "https://azure.microsoft.com/en-us/updates/introducing-app-service-certificates/",
-        "icon": "Azure App Service.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "SSL Certificates",
-        "ref": "https://console.bluemix.net/docs/infrastructure/ssl-certificates/index.html#getting-started-with-ssl-certificates",
-        "icon": "ssl-certificates.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "SSL Certificates",
-        "ref": "https://www.alibabacloud.com/product/certificates",
-        "icon": "SSL.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Certificate Manager",
+      "ref": "https://aws.amazon.com/certificate-manager/",
+      "icon": "Security-Identity_ACM_certificate-manager.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "App Service Certificate",
+      "ref": "https://azure.microsoft.com/en-us/updates/introducing-app-service-certificates/",
+      "icon": "Azure App Service.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "SSL Certificates",
+      "ref": "https://console.bluemix.net/docs/infrastructure/ssl-certificates/index.html#getting-started-with-ssl-certificates",
+      "icon": "ssl-certificates.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "SSL Certificates",
+      "ref": "https://www.alibabacloud.com/product/certificates",
+      "icon": "SSL.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Hardware Based Security Module",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
+    "aws": [{
         "name": "AWS CloudHSM",
         "ref": "https://aws.amazon.com/cloudhsm/",
         "icon": "Security-Identity_AWSCloudHSM.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "AWS Secrets Manager",
         "ref": "https://aws.amazon.com/secrets-manager/",
         "icon": "Security-Identity_AWSCloudHSM.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "azure": [
-      {
-        "name": "Azure Key Vault",
-        "ref": "https://azure.microsoft.com/en-in/services/key-vault/",
-        "icon": "Azure Key Vault.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "Cloud Key Management Service",
-        "ref": "https://cloud.google.com/kms/",
-        "icon": "Cloud-Platform-Security.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Key Protect",
-        "ref": "https://console.ng.bluemix.net/catalog/services/key-protect/",
-        "icon": "key-protect.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Key Management Service",
-        "ref": "https://www.alibabacloud.com/product/key-management-service",
-        "icon": "ram.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "azure": [{
+      "name": "Azure Key Vault",
+      "ref": "https://azure.microsoft.com/en-in/services/key-vault/",
+      "icon": "Azure Key Vault.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "Cloud Key Management Service",
+      "ref": "https://cloud.google.com/kms/",
+      "icon": "Cloud-Platform-Security.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Key Protect",
+      "ref": "https://console.ng.bluemix.net/catalog/services/key-protect/",
+      "icon": "key-protect.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Key Management Service",
+      "ref": "https://www.alibabacloud.com/product/key-management-service",
+      "icon": "ram.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Directory Services",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Directory Service",
-        "ref": "https://aws.amazon.com/directoryservice/",
-        "icon": "Security-Identity_AWSDirectoryService.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
+    "aws": [{
+      "name": "AWS Directory Service",
+      "ref": "https://aws.amazon.com/directoryservice/",
+      "icon": "Security-Identity_AWSDirectoryService.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
         "name": "Azure Active Directory",
         "ref": "https://azure.microsoft.com/en-us/services/active-directory/",
         "icon": "Azure Active Directory.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Azure Active Directory B2C",
         "ref": "https://azure.microsoft.com/en-us/services/active-directory-b2c/",
         "icon": "Azure Active Directory.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Azure Active Directory Domain Services",
         "ref": "https://azure.microsoft.com/en-us/services/active-directory-ds/",
         "icon": "Azure Active Directory.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Azure Active Directory Multi Factor Authentication",
         "ref": "https://azure.microsoft.com/en-us/services/multi-factor-authentication/",
         "icon": "Azure Active Directory.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "google": [
-      {
+    "google": [{
         "name": "Cloud IAM",
         "ref": "https://cloud.google.com/iam/",
         "icon": "Cloud-IAM.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Cloud Identity-Aware Proxy",
         "ref": "https://cloud.google.com/iap/",
         "icon": "Cloud-Identity-Aware-Proxy.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Security Key Enforcement",
         "ref": "https://cloud.google.com/security-key/",
         "icon": "Generic-GCP.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "ibm": [
-      {
-        "name": "App ID",
-        "ref": "https://console.bluemix.net/catalog/services/app-id",
-        "icon": "app-id.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Resource Access Management",
-        "ref": "https://www.alibabacloud.com/help/doc-detail/96239.htm",
-        "icon": "alibaba.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "ibm": [{
+      "name": "App ID",
+      "ref": "https://console.bluemix.net/catalog/services/app-id",
+      "icon": "app-id.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Resource Access Management",
+      "ref": "https://www.alibabacloud.com/help/doc-detail/96239.htm",
+      "icon": "alibaba.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Key Management Services",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Key Management Service",
-        "ref": "",
-        "icon": "Security-Identity_AWSKMS.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure Key Vault",
-        "ref": "https://azure.microsoft.com/en-us/services/key-vault/",
-        "icon": "Azure Key Vault.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "Cloud Key Management Service",
-        "ref": "https://cloud.google.com/kms/",
-        "icon": "Cloud-Platform-Security.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Identity Cloud Service",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Key Management Service ",
-        "ref": "https://www.alibabacloud.com/product/key-management-service",
-        "icon": "KMS.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Key Management Service",
+      "ref": "",
+      "icon": "Security-Identity_AWSKMS.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure Key Vault",
+      "ref": "https://azure.microsoft.com/en-us/services/key-vault/",
+      "icon": "Azure Key Vault.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "Cloud Key Management Service",
+      "ref": "https://cloud.google.com/kms/",
+      "icon": "Cloud-Platform-Security.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Identity Cloud Service",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Key Management Service ",
+      "ref": "https://www.alibabacloud.com/product/key-management-service",
+      "icon": "KMS.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Consolidated Management of Multiple Cloud Accounts",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Organizations",
-        "ref": "",
-        "icon": "aws.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure Management Groups",
-        "ref": "https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview",
-        "icon": "Azure%20Management%20Portal.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Resource Group",
-        "ref": "https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications",
-        "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Audit",
-        "ref": "https://cloud.oracle.com/en_US/cloud-security/audit/features",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Organizations",
+      "ref": "",
+      "icon": "aws.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure Management Groups",
+      "ref": "https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview",
+      "icon": "Azure%20Management%20Portal.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Resource Group",
+      "ref": "https://console.bluemix.net/docs/tutorials/users-teams-applications.html#best-practices-for-organizing-users-teams-applications",
+      "icon": "ibmcloud.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Audit",
+      "ref": "https://cloud.oracle.com/en_US/cloud-security/audit/features",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "DDos Protection Service",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Shield",
-        "ref": "https://aws.amazon.com/shield/",
-        "icon": "aws.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure DDoS Protection",
-        "ref": "https://azure.microsoft.com/en-in/services/ddos-protection/",
-        "icon": "Microsoft Azure.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "Cloud Armor (Beta)",
-        "ref": "https://cloud.google.com/armor/",
-        "icon": "Google-Cloud-Platform.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Internet Services",
-        "ref": "https://console.bluemix.net/catalog/services/internet-services",
-        "icon": "internet-services.svg",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "DDOS Pro and Basic",
-        "ref": "https://www.alibabacloud.com/product/ddos-pro",
-        "icon": "ddos.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Shield",
+      "ref": "https://aws.amazon.com/shield/",
+      "icon": "aws.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure DDoS Protection",
+      "ref": "https://azure.microsoft.com/en-in/services/ddos-protection/",
+      "icon": "Microsoft Azure.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "Cloud Armor (Beta)",
+      "ref": "https://cloud.google.com/armor/",
+      "icon": "Google-Cloud-Platform.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Internet Services",
+      "ref": "https://console.bluemix.net/catalog/services/internet-services",
+      "icon": "internet-services.svg",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "DDOS Pro and Basic",
+      "ref": "https://www.alibabacloud.com/product/ddos-pro",
+      "icon": "ddos.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Web Application Firewall",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS WAF",
-        "ref": "https://aws.amazon.com/waf/",
-        "icon": "Security-Identity_AWSWAF.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure WAF",
-        "ref": "",
-        "icon": "Firewall.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Internet Services",
-        "ref": "https://console.bluemix.net/catalog/services/internet-services",
-        "icon": "internet-services.svg",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Web Application Firewall",
-        "ref": "https://www.alibabacloud.com/product/waf",
-        "icon": "waf.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS WAF",
+      "ref": "https://aws.amazon.com/waf/",
+      "icon": "Security-Identity_AWSWAF.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure WAF",
+      "ref": "",
+      "icon": "Firewall.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Internet Services",
+      "ref": "https://console.bluemix.net/catalog/services/internet-services",
+      "icon": "internet-services.svg",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Web Application Firewall",
+      "ref": "https://www.alibabacloud.com/product/waf",
+      "icon": "waf.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Security & Compliance Service",
       "ref": "",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Artifact",
-        "ref": "https://aws.amazon.com/artifact/",
-        "icon": "aws.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure Security & Compliance",
-        "ref": "https://azure.microsoft.com/en-in/support/trust-center/",
-        "icon": "Azure Security Center.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "Cloud Security Command Center (Alpha)",
-        "ref": "https://cloud.google.com/security-command-center/",
-        "icon": "Google-Cloud-Platform.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Compliance",
-        "ref": "https://cloud.oracle.com/en_US/cloud-compliance",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Alibaba Truster Center ",
-        "ref": "https://www.alibabacloud.com/trust-center",
-        "icon": "alibaba.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Artifact",
+      "ref": "https://aws.amazon.com/artifact/",
+      "icon": "aws.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure Security & Compliance",
+      "ref": "https://azure.microsoft.com/en-in/support/trust-center/",
+      "icon": "Azure Security Center.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "Cloud Security Command Center (Alpha)",
+      "ref": "https://cloud.google.com/security-command-center/",
+      "icon": "Google-Cloud-Platform.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Compliance",
+      "ref": "https://cloud.oracle.com/en_US/cloud-compliance",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Alibaba Truster Center ",
+      "ref": "https://www.alibabacloud.com/trust-center",
+      "icon": "alibaba.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   }
 ]

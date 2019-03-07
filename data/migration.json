@@ -1,399 +1,316 @@
-[
-  {
+[{
     "service": {
       "name": "Database Migration Services",
       "ref": "https://en.wikipedia.org/wiki/Data_migration",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Database Migration Service",
-        "ref": "https://aws.amazon.com/dms/",
-        "icon": "Database_AWSDatabaseMigrationService.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure Database Migration Service (Preview)",
-        "ref": "https://azure.microsoft.com/en-in/blog/azure-database-migration-service-announcement-at-build/",
-        "icon": "Microsoft Azure.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "#",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Lift",
-        "ref": "https://console.ng.bluemix.net/catalog/services/lift/",
-        "icon": "lift.svg",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Migrate to the Cloud",
-        "ref": "https://www.oracle.com/database/migration-to-cloud.html",
-        "icon": "storage.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Data Transmission Service",
-        "ref": "https://www.alibabacloud.com/product/data-transmission-service",
-        "icon": "dts.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Database Migration Service",
+      "ref": "https://aws.amazon.com/dms/",
+      "icon": "Database_AWSDatabaseMigrationService.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure Database Migration Service (Preview)",
+      "ref": "https://azure.microsoft.com/en-in/blog/azure-database-migration-service-announcement-at-build/",
+      "icon": "Microsoft Azure.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Lift",
+      "ref": "https://console.ng.bluemix.net/catalog/services/lift/",
+      "icon": "lift.svg",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Migrate to the Cloud",
+      "ref": "https://www.oracle.com/database/migration-to-cloud.html",
+      "icon": "storage.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Data Transmission Service",
+      "ref": "https://www.alibabacloud.com/product/data-transmission-service",
+      "icon": "dts.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Server Migration Services",
       "ref": "#",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Server Migration Service",
-        "ref": "https://aws.amazon.com/server-migration-service/",
-        "icon": "aws.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
+    "aws": [{
+      "name": "AWS Server Migration Service",
+      "ref": "https://aws.amazon.com/server-migration-service/",
+      "icon": "aws.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
         "name": "Site Recovery",
         "ref": "https://docs.microsoft.com/azure/site-recovery/site-recovery-migrate-to-azure",
         "icon": "Azure Site Recovery.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
-	  {
+      {
         "name": "Azure Websites Migration Assistant",
         "ref": "https://azure.microsoft.com/en-us/downloads/migration-assistant/",
         "icon": "Microsoft Azure.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "google": [
-      {
-        "name": "",
-        "ref": "#",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "google": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Small Scale Data Transfer Service",
       "ref": "http://#",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Import/Export",
-        "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
-        "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure Import/Export",
-        "ref": "https://azure.microsoft.com/en-in/pricing/details/storage-import-export/",
-        "icon": "Microsoft Azure.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "http://#",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
+    "aws": [{
+      "name": "AWS Import/Export",
+      "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
+      "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure Import/Export",
+      "ref": "https://azure.microsoft.com/en-in/pricing/details/storage-import-export/",
+      "icon": "Microsoft Azure.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "http://#",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
         "name": "Data Transfer Service",
         "ref": "https://console.bluemix.net/docs/infrastructure/DataTransferService/index.html#getting-started-with-data-transfer-service",
         "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
       },
       {
         "name": "Aspera High-speed Transfer",
         "ref": "https://console.bluemix.net/docs/services/cloud-object-storage/basics/upload.html#high-speed-transfer",
         "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
       }
     ],
-    "oracle": [
-      {
-        "name": "Data Transfer Services - Hard Disk Import",
-        "ref": "https://cloud.oracle.com/en_US/storage/data-transfer-services/features",
-        "icon": "storage.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "oracle": [{
+      "name": "Data Transfer Services - Hard Disk Import",
+      "ref": "https://cloud.oracle.com/en_US/storage/data-transfer-services/features",
+      "icon": "storage.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Large Scale Data Transfer Solution (Petabyte Scale)",
       "ref": "http://#",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Snowball",
-        "ref": "https://aws.amazon.com/snowball/",
-        "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "",
-        "ref": "#",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "#",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Mass Data Migration Service",
-        "ref": "https://console.bluemix.net/docs/infrastructure/mass-data-migration/index.html#getting-started-with-ibm-cloud-mass-data-migration",
-        "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Data Transfer Services - Storage applicance import",
-        "ref": "https://cloud.oracle.com/en_US/storage/data-transfer-services/features",
-        "icon": "storage.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Data Transport",
-        "ref": "https://www.alibabacloud.com/product/data-transport",
-        "icon": "alibaba.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Snowball",
+      "ref": "https://aws.amazon.com/snowball/",
+      "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Mass Data Migration Service",
+      "ref": "https://console.bluemix.net/docs/infrastructure/mass-data-migration/index.html#getting-started-with-ibm-cloud-mass-data-migration",
+      "icon": "ibmcloud.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Data Transfer Services - Storage applicance import",
+      "ref": "https://cloud.oracle.com/en_US/storage/data-transfer-services/features",
+      "icon": "storage.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Data Transport",
+      "ref": "https://www.alibabacloud.com/product/data-transport",
+      "icon": "alibaba.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Large Scale Data Transfer Solution (Terabyte Scale)",
       "ref": "http://#",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Snowball Edge",
-        "ref": "https://aws.amazon.com/snowball-edge/",
-        "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure Data Box (Preview)",
-        "ref": "https://azure.microsoft.com/en-us/services/storage/databox/",
-        "icon": "Microsoft Azure.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "Transfer Appliance (Beta)",
-        "ref": "https://cloud.google.com/transfer-appliance/",
-        "icon": "Generic-GCP.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "Mass Data Migration Service",
-        "ref": "https://console.bluemix.net/docs/infrastructure/mass-data-migration/index.html#getting-started-with-ibm-cloud-mass-data-migration",
-        "icon": "ibmcloud.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "Data Transfer Services - Storage applicance import",
-        "ref": "https://cloud.oracle.com/en_US/storage/data-transfer-services/features",
-        "icon": "storage.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "Data Transport",
-        "ref": "https://www.alibabacloud.com/product/data-transport",
-        "icon": "alibaba.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Snowball Edge",
+      "ref": "https://aws.amazon.com/snowball-edge/",
+      "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure Data Box (Preview)",
+      "ref": "https://azure.microsoft.com/en-us/services/storage/databox/",
+      "icon": "Microsoft Azure.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "Transfer Appliance (Beta)",
+      "ref": "https://cloud.google.com/transfer-appliance/",
+      "icon": "Generic-GCP.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "Mass Data Migration Service",
+      "ref": "https://console.bluemix.net/docs/infrastructure/mass-data-migration/index.html#getting-started-with-ibm-cloud-mass-data-migration",
+      "icon": "ibmcloud.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "Data Transfer Services - Storage applicance import",
+      "ref": "https://cloud.oracle.com/en_US/storage/data-transfer-services/features",
+      "icon": "storage.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "Data Transport",
+      "ref": "https://www.alibabacloud.com/product/data-transport",
+      "icon": "alibaba.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Large Scale Data Transfer Solution (Exabyte Scale)",
       "ref": "http://#",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "AWS Snowmobile",
-        "ref": "https://aws.amazon.com/snowmobile/",
-        "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "",
-        "ref": "#",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "#",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "AWS Snowmobile",
+      "ref": "https://aws.amazon.com/snowmobile/",
+      "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   },
   {
     "service": {
       "name": "Application Discovery Services",
       "ref": "http://#",
-      "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
-    "aws": [
-      {
-        "name": "Application Discovery Service",
-        "ref": "https://aws.amazon.com/application-discovery/",
-        "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "azure": [
-      {
-        "name": "Azure Active Directory",
-        "ref": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/cloud-app-discovery",
-        "icon": "Azure%20Active%20Directory.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "google": [
-      {
-        "name": "",
-        "ref": "#",
-        "icon": "none.png",
-        "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "ibm": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "oracle": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ],
-    "alibaba": [
-      {
-        "name": "",
-        "ref": "https://#",
-        "icon": "none.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      }
-    ]
+    "aws": [{
+      "name": "Application Discovery Service",
+      "ref": "https://aws.amazon.com/application-discovery/",
+      "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "azure": [{
+      "name": "Azure Active Directory",
+      "ref": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/cloud-app-discovery",
+      "icon": "Azure%20Active%20Directory.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "google": [{
+      "name": "",
+      "ref": "#",
+      "icon": "none.png",
+      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "ibm": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "oracle": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }],
+    "alibaba": [{
+      "name": "",
+      "ref": "https://#",
+      "icon": "none.png",
+      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+    }]
   }
-]  
+]
