@@ -1983,7 +1983,52 @@ pre code {
   table-layout: fixed !important;
   width: 100% !important;
   color: #212529;
-  word-wrap:break-word !important; 
+  word-wrap: break-word;
+}
+
+li {
+  /* white-space: nowrap; */
+}
+
+.tooltip {
+  position: relative;
+  word-wrap: break-word !important;
+}
+
+.tooltip .tooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 100%;
+  /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 260px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -130px;
+
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.tooltip:hover .tooltiptext {
+  transition-delay: 0.5s;
+  visibility: visible;
+  opacity: 1;
 }
 
 .img-responsive,
@@ -6900,7 +6945,7 @@ a.close.disabled {
   }
 }
 
-.tooltip {
+/* .tooltip {
   position: absolute;
   z-index: 1070;
   display: block;
@@ -6921,7 +6966,6 @@ a.close.disabled {
   line-break: auto;
   font-size: 0.875rem;
   word-wrap: break-word;
-  opacity: 0;
 }
 
 .tooltip.show {
@@ -7021,7 +7065,7 @@ a.close.disabled {
   text-align: center;
   background-color: #000;
   border-radius: 0.25rem;
-}
+} */
 
 .popover {
   position: absolute;

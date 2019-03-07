@@ -42,7 +42,8 @@ function dataprocessor(input, type) {
     if (input.length > 1) {
         trHTML += '<td><ul>';
         for (var i in input) {
-            trHTML += '<li><img src="../img/icons/cloudproviders/' + type +'/' + input[i].icon +'" class="img-responsive img-icons"><a style="color: black" href="' + input[i].ref + '">' + input[i].name + '</a></li>';
+            // trHTML += '<div class="tooltip">Hover over me<span class="tooltiptext">teste</span></div>';
+            trHTML += '<li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[i].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[i].ref + '">' + input[i].name + '<span class="tooltiptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description</span></a></div></li>';
         }
         trHTML += '</ul></td>';
     } else {
@@ -50,7 +51,10 @@ function dataprocessor(input, type) {
             trHTML += '<td>' + '<i class="fas fa-ban" style="color: red; font-size: 24px"></i>' + '</td>'
         } else {
             // trHTML += '<td><ul><li><img src="../img/icons/cloudproviders/ibm/blockchain.svg" class="img-responsive img-icons"><a style="color: white" href="' + input[0].ref + '"> ' + input[0].name + ' </a><i class="fas fa-map-marked-alt" style="color: dodgerblue"></i></li></ul></td>';
-            trHTML += '<td><ul><li><img src="../img/icons/cloudproviders/' + type +'/' + input[0].icon +'" class="img-responsive img-icons"><a style="color: black" href="' + input[0].ref + '">' + input[0].name + '</a></li></ul></td>';
+            for (var i in input) {
+                // trHTML += '<div class="tooltip">Hover over me<span class="tooltiptext">teste</span></div>';
+                trHTML += '<td><ul><li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[0].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[0].ref + '">' + input[0].name + '<span class="tooltiptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description</span></a></li></ul></td>';
+            }
         }
     }
     return trHTML;
