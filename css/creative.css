@@ -1926,7 +1926,7 @@ pre code {
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 260px;
+  width: 140%;
   background-color: rgba(0, 0, 0, 0.8);
   color: #fff;
   text-align: left;
@@ -1936,7 +1936,7 @@ pre code {
   z-index: 1;
   bottom: 100%;
   left: 50%;
-  margin-left: -130px;
+  margin-left: -70%;
 
   opacity: 0;
   transition: opacity 1s;
