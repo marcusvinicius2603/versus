@@ -63,30 +63,36 @@ Read the Contributing section for a collaboration page quick guide.
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```text
-bootstrap/
-└── dist/
-    ├── css/
-    │   ├── bootstrap-grid.css
-    │   ├── bootstrap-grid.css.map
-    │   ├── bootstrap-grid.min.css
-    │   ├── bootstrap-grid.min.css.map
-    │   ├── bootstrap-reboot.css
-    │   ├── bootstrap-reboot.css.map
-    │   ├── bootstrap-reboot.min.css
-    │   ├── bootstrap-reboot.min.css.map
-    │   ├── bootstrap.css
-    │   ├── bootstrap.css.map
-    │   ├── bootstrap.min.css
-    │   └── bootstrap.min.css.map
-    └── js/
-        ├── bootstrap.bundle.js
-        ├── bootstrap.bundle.js.map
-        ├── bootstrap.bundle.min.js
-        ├── bootstrap.bundle.min.js.map
-        ├── bootstrap.js
-        ├── bootstrap.js.map
-        ├── bootstrap.min.js
-        └── bootstrap.min.js.map
+versus/
+├── css/
+│   ├── creative.css
+│   └── stylish-portfolio.css
+├── data/
+│   ├── ai.json
+│   ├── application-service.json
+│   ├── bd-analytics.json
+│   ├── compute.json
+│   ├── db.json
+│   ├── dev.json
+│   ├── iot.json
+│   ├── location.json
+│   ├── management.json
+│   ├── migration.json
+│   ├── mobile.json
+│   ├── network-cd.json
+│   ├── other.json
+│   ├── prod.json
+│   ├── security.json
+│   └── storage.json
+├── img/
+├── js/
+│   ├── app.js
+│   ├── create-table.js
+│   ├── main.js
+│   ├── searcher.js
+│   ├── stylish-portfolio.js
+│   └── table.js
+└── index.html
 ```
 
 We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). [source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://popper.js.org/).
