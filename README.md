@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://versus.mybluemix.net/">
-    <img src="/img/versus-logo.png" alt="Versus logo" width="180" height="180">
+    <img src="/img/versus-logo.png" alt="Versus logo" width="150" height="150">
   </a>
 </p>
-
-<h3 align="center">Versus</h3>
 
 <p align="center">
   Sleek, intuitive, and simple website for a fast and easy cloud comparison.
