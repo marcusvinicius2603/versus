@@ -143,11 +143,11 @@ Get updates on Versus's content, news about Cloud Computing and chat with specia
 
 ## Thanks
 
-<a href="https://www.browserstack.com/">
-  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack Logo" width="192" height="42">
+<a href="https://www.ibm.com/">
+  <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="192" height="42">
 </a>
 
-Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
+Thanks to [IBM Cloud](https://www.ibm.com/) for providing the infrastructure that allows us to test in real browsers!
 
 <!--- ## Sponsors
 
