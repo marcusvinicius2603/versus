@@ -116,14 +116,14 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 
 ## Community (on develop)
 
-Get updates on Versus's content, news about Cloud Computing and chat with specialists and enthusiasts.
+<!--- Get updates on Versus's content, news about Cloud Computing and chat with specialists and enthusiasts.
 
 - Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
 - Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
 - Join [the official Slack room](https://bootstrap-slack.herokuapp.com/).
 - Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##bootstrap` channel.
 - Implementation help may be found at Stack Overflow (tagged [`bootstrap-4`](https://stackoverflow.com/questions/tagged/bootstrap-4)).
-- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
+- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability. --->
 
 ## Creators
 
@@ -144,10 +144,10 @@ Get updates on Versus's content, news about Cloud Computing and chat with specia
 ## Thanks
 <p align="center">
   <a href="https://www.cloud.ibm.com/">
-    <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="160" height="100">
+    <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="170" height="100">
   </a>
 </p>
-Thanks to [IBM Cloud](https://cloud.ibm.com/) for providing the infrastructure that allows us to test in real browsers!
+Thanks to [[IBM Cloud](https://www.cloud.ibm.com/)] for providing the infrastructure that allows us to test in real browsers!
 
 <!--- ## Sponsors
 
