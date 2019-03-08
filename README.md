@@ -144,7 +144,7 @@ Get updates on Versus's content, news about Cloud Computing and chat with specia
 ## Thanks
 
 <a href="https://www.ibm.com/">
-  <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="140" height="140">
+  <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="100" height="80">
 </a>
 
 Thanks to [IBM Cloud](https://www.ibm.com/) for providing the infrastructure that allows us to test in real browsers!
