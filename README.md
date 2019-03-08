@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="https://versus.mybluemix.net/">
     <img src="/img/versus-logo.png" alt="Versus logo" width="72" height="72">
   </a>
 </p>
@@ -142,11 +142,11 @@ Get updates on Versus's content, news about Cloud Computing and chat with specia
 
 
 ## Thanks
-
-<a href="https://www.ibm.com/">
-  <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="125" height="80">
-</a>
-
+<p align="center">
+  <a href="https://www.cloud.ibm.com/">
+    <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="150" height="100">
+  </a>
+</p>
 Thanks to [IBM Cloud](https://www.ibm.com/) for providing the infrastructure that allows us to test in real browsers!
 
 <!--- ## Sponsors
