@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="" alt="Versus logo" width="72" height="72">
+    <img src="/img/versus-logo.png" alt="Versus logo" width="72" height="72">
   </a>
 </p>
 
