@@ -37,7 +37,7 @@
 
 Several quick start options are available:
 
-- [Download the latest release.](https://github.com/plcpinho/versus.zip)
+- [Download the latest release.](https://github.com/plcpinho/versus/versus-master.zip)
 - Clone the repo: `git clone https://github.com/plcpinho/versus.git`
 - Install with [npm](https://www.npmjs.com/): `npm install bootstrap`
 - Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@4.3.1`
