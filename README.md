@@ -137,7 +137,7 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 
 <p align="center">
   <a href="https://versus.mybluemix.net/">
-     <img src="/img/logos/ibm-cloud-horizontal.png" alt="IBM Logo" width="160" height="160">
+     <img src="/img/logos/ibm-cloud-horizontal.png" alt="IBM Logo" width="160" height="80">
   </a>
 </p>
 
