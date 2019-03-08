@@ -142,11 +142,11 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 
 
 ## Thanks
-<p align="center">
-  <a href="https://www.cloud.ibm.com/">
+<!--- <p align="center"> --->
+  <!--- <a href="https://www.cloud.ibm.com/"> --->
     <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="160" height="100">
-  </a>
-</p>
+  <!--- </a> --->
+<!--- </p> --->
 Thanks to [I'm an inline-style link](https://www.google.com) for providing the infrastructure that allows us to test in real browsers!
 
 ## Sponsors
