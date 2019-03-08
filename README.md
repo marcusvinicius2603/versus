@@ -1,24 +1,20 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/4.3/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
+    <img src="" alt="Versus logo" width="72" height="72">
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">Versus</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  Sleek, intuitive, and simple website for a fast and easy cloud comparison.
   <br>
-  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://versus.mybluemix.net"><strong>Explore Versus docs »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
+  <a href="https://github.com/plcpinho/versus/issues/new?template=bug.md">Report bug</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
-  ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
-  ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="https://github.com/plcpinho/versus/issues/new?template=feature.md&labels=feature">Request feature</a>
 </p>
 
 
