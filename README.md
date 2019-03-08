@@ -24,7 +24,6 @@
 - [What's included](#whats-included)
 - [Contributing](#contributing)
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
 - [Community](#community)
 - [Versioning](#versioning)
 - [Creators](#creators)
@@ -95,36 +94,6 @@ versus/
 └── index.html
 ```
 
-We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). [source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://popper.js.org/).
-
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
-
-
-## Documentation
-
-Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](https://jekyllrb.com/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
-
-Documentation search is powered by [Algolia's DocSearch](https://community.algolia.com/docsearch/). Working on our search? Be sure to set `debug: true` in `site/docs/4.3/assets/js/src/search.js` file.
-
-### Running documentation locally
-
-1. Run through the [tooling setup](https://getbootstrap.com/docs/4.3/getting-started/build-tools/#tooling-setup) to install Jekyll (the site builder) and other Ruby dependencies with `bundle install`.
-2. Run `npm install` to install Node.js dependencies.
-3. Run `npm start` to compile CSS and JavaScript files, generate our docs, and watch for changes.
-4. Open `http://localhost:9001` in your browser, and voilà.
-
-Learn more about using Jekyll by reading its [documentation](https://jekyllrb.com/docs/).
-
-### Documentation for previous releases
-
-You can find all our previous releases docs on <https://getbootstrap.com/docs/versions/>.
-
-[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
-
-
 ## Contributing
 
 Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
@@ -133,6 +102,18 @@ Moreover, if your pull request contains JavaScript patches or features, you must
 
 Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
+## Bugs and feature requests
+
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
+
+<--- ### Running documentation locally
+
+1. Run through the [tooling setup](https://getbootstrap.com/docs/4.3/getting-started/build-tools/#tooling-setup) to install Jekyll (the site builder) and other Ruby dependencies with `bundle install`.
+2. Run `npm install` to install Node.js dependencies.
+3. Run `npm start` to compile CSS and JavaScript files, generate our docs, and watch for changes.
+4. Open `http://localhost:9001` in your browser, and voilà.
+
+Learn more about using Jekyll by reading its [documentation](https://jekyllrb.com/docs/). --->
 
 ## Community
 
@@ -144,7 +125,6 @@ Get updates on Bootstrap's development and chat with the project maintainers and
 - Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##bootstrap` channel.
 - Implementation help may be found at Stack Overflow (tagged [`bootstrap-4`](https://stackoverflow.com/questions/tagged/bootstrap-4)).
 - Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
-
 
 ## Versioning
 
