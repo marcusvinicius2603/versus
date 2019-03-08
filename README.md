@@ -142,14 +142,14 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 
 
 ## Thanks
-<!--- <p align="center"> --->
-  <!--- <a href="https://www.cloud.ibm.com/"> --->
-    <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="160" height="100">
-  <!--- </a> --->
-<!--- </p> --->
-Thanks to [I'm an inline-style link](https://www.google.com) for providing the infrastructure that allows us to test in real browsers!
 
-## Sponsors
+<a href="https://www.cloud.ibm.com/">
+    <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="160" height="100">
+</a>
+
+Thanks to [IBM Cloud](https://cloud.ibm.com) for providing the infrastructure that allows us to test in real browsers!
+
+<!--- ## Sponsors
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
 
 [![](https://opencollective.com/bootstrap/sponsor/0/avatar.svg)](https://opencollective.com/bootstrap/sponsor/0/website)
@@ -157,4 +157,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2019 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
+Code and documentation copyright 2011-2019 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE). --->
