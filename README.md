@@ -144,13 +144,12 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 ## Thanks
 <p align="center">
   <a href="https://www.cloud.ibm.com/">
-    <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="170" height="100">
+    <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="160" height="100">
   </a>
 </p>
-Thanks to [[IBM Cloud](https://www.cloud.ibm.com/)] for providing the infrastructure that allows us to test in real browsers!
+Thanks to [IBM Cloud](https://www.cloud.ibm.com) for providing the infrastructure that allows us to test in real browsers!
 
 <!--- ## Sponsors
-
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
 
 [![](https://opencollective.com/bootstrap/sponsor/0/avatar.svg)](https://opencollective.com/bootstrap/sponsor/0/website)
