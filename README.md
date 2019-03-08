@@ -25,10 +25,8 @@
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Community](#community)
-- [Versioning](#versioning)
 - [Creators](#creators)
 - [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 
 ## Quick start
@@ -56,13 +54,9 @@ Read the Contributing section for a collaboration page quick guide.
 [![Backers on Open Collective](https://img.shields.io/opencollective/backers/bootstrap.svg?style=flat)](#backers)
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap.svg?style=flat)](#sponsors) --->
 
-## Contributing
+## Contributing (in development)
 
-Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/twbs/bootstrap/tree/master/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
-
-Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 ## What's included
 
@@ -114,7 +108,7 @@ Have a bug or a feature request? Please first read and contact us (Community Sec
 
 Learn more about using Jekyll by reading its [documentation](https://jekyllrb.com/docs/). --->
 
-## Community (on develop)
+## Community (in development)
 
 <!--- Get updates on Versus's content, news about Cloud Computing and chat with specialists and enthusiasts.
 
