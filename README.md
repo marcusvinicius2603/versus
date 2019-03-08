@@ -143,9 +143,11 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 
 ## Thanks
 
-<a href="https://www.cloud.ibm.com/" style="text-align: center">
-    <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="160" height="100">
-</a>
+<div style="text-align: center">
+  <a href="https://www.cloud.ibm.com/" style="text-align: center">
+      <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="160" height="100">
+  </a>
+</div>
 
 Thanks to [IBM Cloud](htps://cloud. ibm.com) for providing the infrastructure that allows us to test in real browsers!
 
