@@ -55,7 +55,7 @@
       "Properties": ["Number of instance templates available", "GPU acceleration", "Custom instance creation feature", "CPU Limits", "Memory Limits", "Temporary Storage Limits"]
     },
     "aws": [{
-      "name": "Amazon EC2",
+      "name": "Elastic Compute Cloud (EC2)",
       "ref": "https://aws.amazon.com/ec2/",
       "icon": "Compute_AmazonEC2.png",
       "Properties": ["39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)"]
@@ -98,7 +98,7 @@
       "Properties": ["Number of instance templates available", "GPU acceleration", "Custom instance creation feature", "CPU Limits", "Memory Limits", "Temporary Storage Limits"]
     },
     "aws": [{
-      "name": "Amazon EC2 Bare Metal Instance (Preview)",
+      "name": "EC2 Bare Metal Instance (Preview)",
       "ref": "https://aws.amazon.com/blogs/aws/new-amazon-ec2-bare-metal-instances-with-direct-access-to-hardware/",
       "icon": "aws.png",
       "Properties": ["39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)"]
@@ -141,7 +141,7 @@
       "Properties": ["Number of instance templates available", "GPU acceleration", "Custom instance creation feature", "CPU Limits", "Memory Limits", "Temporary Storage Limits"]
     },
     "aws": [{
-      "name": "Amazon EC2 Dedicated Hosts",
+      "name": "EC2 Dedicated Hosts",
       "ref": "https://aws.amazon.com/ec2/dedicated-hosts/",
       "icon": "aws.png",
       "Properties": ["39", "Yes", "No", "1 � 40", "0,5 � 244 GB", "Up to 48 TB (Multiple Disks)"]
@@ -184,7 +184,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon EC2 Container Registry",
+      "name": "EC2 Container Registry",
       "ref": "https://aws.amazon.com/ecr/",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -227,13 +227,13 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "Amazon EC2 Container Service",
+        "name": "EC2 Container Service",
         "ref": "https://aws.amazon.com/ecs/",
         "icon": "Compute_AmazonECS.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Amazon Elastic Container Service for Kubernetes (EKS)",
+        "name": "Elastic Container Service for Kubernetes (EKS)",
         "ref": "https://aws.amazon.com/eks/",
         "icon": "Compute_AmazonECS.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -291,7 +291,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Lambda",
+      "name": "Lambda",
       "ref": "https://aws.amazon.com/lambda/",
       "icon": "Compute_AWSLambda.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -347,7 +347,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Lightsail",
+      "name": "Lightsail",
       "ref": "https://amazonlightsail.com/",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -440,7 +440,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Batch",
+      "name": "Batch",
       "ref": "https://aws.amazon.com/batch/",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -483,7 +483,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Elastic Beanstalk",
+      "name": "Elastic Beanstalk",
       "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
       "icon": "Compute_AWSElasticBeanstalk_application.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -540,7 +540,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Lambda",
+      "name": "Lambda",
       "ref": "#",
       "icon": "Compute_AWSLambda.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]

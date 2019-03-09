@@ -5,7 +5,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Identity and Access Management (IAM)",
+      "name": "Identity and Access Management (IAM)",
       "ref": "https://aws.amazon.com/documentation/iam/",
       "icon": "Security-Identity_AWSIAM.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -55,7 +55,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "Amazon Inspector",
+        "name": "Inspector",
         "ref": "https://aws.amazon.com/inspector/",
         "icon": "Security-Identity_AmazonInspector.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -112,7 +112,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Certificate Manager",
+      "name": "Certificate Manager",
       "ref": "https://aws.amazon.com/certificate-manager/",
       "icon": "Security-Identity_ACM_certificate-manager.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -155,13 +155,13 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "AWS CloudHSM",
+        "name": "CloudHSM",
         "ref": "https://aws.amazon.com/cloudhsm/",
         "icon": "Security-Identity_AWSCloudHSM.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS Secrets Manager",
+        "name": "Secrets Manager",
         "ref": "https://aws.amazon.com/secrets-manager/",
         "icon": "Security-Identity_AWSCloudHSM.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -205,7 +205,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Directory Service",
+      "name": "Directory Service",
       "ref": "https://aws.amazon.com/directoryservice/",
       "icon": "Security-Identity_AWSDirectoryService.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -280,7 +280,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Key Management Service",
+      "name": "Key Management Service",
       "ref": "",
       "icon": "Security-Identity_AWSKMS.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -323,7 +323,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Organizations",
+      "name": "Organizations",
       "ref": "",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -366,7 +366,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Shield",
+      "name": "Shield",
       "ref": "https://aws.amazon.com/shield/",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -409,7 +409,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS WAF",
+      "name": "WAF",
       "ref": "https://aws.amazon.com/waf/",
       "icon": "Security-Identity_AWSWAF.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -452,7 +452,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Artifact",
+      "name": "Artifact",
       "ref": "https://aws.amazon.com/artifact/",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]

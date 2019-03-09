@@ -5,13 +5,13 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "Amazon Lex",
+        "name": "Lex",
         "ref": "https://aws.amazon.com/lex/",
         "icon": "aws.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Amazon Comprehend",
+        "name": "Comprehend",
         "ref": "https://aws.amazon.com/comprehend/",
         "icon": "aws.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -25,13 +25,13 @@
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Azure Bot Service",
+        "name": "Bot Service",
         "ref": "https://azure.microsoft.com/en-us/services/bot-service/",
         "icon": "Azure Cognative Services - Speech_COLOR.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Azure Speech Recognition API",
+        "name": "Speech Recognition API",
         "ref": "https://azure.microsoft.com/en-in/services/cognitive-services/speech/",
         "icon": "Azure Cognative Services - Speech_COLOR.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -119,19 +119,19 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "Amazon Polly",
+        "name": "Polly",
         "ref": "",
         "icon": "aws.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Amazon Transcribe",
+        "name": "Transcribe",
         "ref": "https://aws.amazon.com/transcribe/",
         "icon": "aws.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Amazon Translate",
+        "name": "Translate",
         "ref": "https://aws.amazon.com/translate/",
         "icon": "aws.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -182,7 +182,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Rekognition",
+      "name": "Rekognition",
       "ref": "",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -245,13 +245,13 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "Amazon Machine Learning",
+        "name": "Machine Learning",
         "ref": "",
         "icon": "Analytics_AmazonMachineLearning.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Amazon Sage​Maker",
+        "name": "Sage​Maker",
         "ref": "https://aws.amazon.com/sagemaker/",
         "icon": "Analytics_AmazonMachineLearning.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]

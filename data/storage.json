@@ -5,7 +5,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Simple Storage Service (S3)",
+      "name": "Simple Storage Service (S3)",
       "ref": "https://aws.amazon.com/documentation/s3/",
       "icon": "Storage-Content-Delivery_AmazonS3_bucket.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -48,7 +48,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Elastic Block Storage (EBS)",
+      "name": "Elastic Block Storage (EBS)",
       "ref": "https://aws.amazon.com/ebs/",
       "icon": "Storage-Content-Delivery_AmazonEBS.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -98,7 +98,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Elastic File System (EFS)",
+      "name": "Elastic File System (EFS)",
       "ref": "https://aws.amazon.com/efs/pricing/",
       "icon": "Storage-Content-Delivery_AmazonEFS.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -141,7 +141,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Glacier",
+      "name": "Glacier",
       "ref": "https://aws.amazon.com/glacier/",
       "icon": "Storage-Content-Delivery_AmazonGlacier.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -198,7 +198,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Storage Gateway",
+      "name": "Storage Gateway",
       "ref": "https://aws.amazon.com/storagegateway/details/",
       "icon": "Storage-Content-Delivery_AWSStorageGateway.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]

@@ -5,19 +5,19 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "Amazon WorkDocs",
+        "name": "WorkDocs",
         "ref": "",
         "icon": "Enterprise-Applications_AmazonWorkDocs.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Amazon WorkMail",
+        "name": "WorkMail",
         "ref": "",
         "icon": "Enterprise-Applications_AmazonWorkMail.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Amazon WorkSpaces",
+        "name": "WorkSpaces",
         "ref": "",
         "icon": "Enterprise-Applications_AmazonWorkSpaces.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -61,7 +61,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon AppStream 2.0",
+      "name": "AppStream 2.0",
       "ref": "",
       "icon": "Application-Services_AmazonAppStream.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -104,7 +104,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "AWS Marketplace",
+      "name": "Marketplace",
       "ref": "",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]

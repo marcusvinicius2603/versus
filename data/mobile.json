@@ -5,7 +5,7 @@
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
      },
      "aws": [{
-       "name": "AWS Mobile Hub",
+       "name": "Mobile Hub",
        "ref": "",
        "icon": "Mobile-Services_AWSMobileHub.png",
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -48,7 +48,7 @@
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
      },
      "aws": [{
-       "name": "Amazon API Gateway",
+       "name": "API Gateway",
        "ref": "",
        "icon": "Application-Services_AmazonAPIGateway.png",
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -91,7 +91,7 @@
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
      },
      "aws": [{
-       "name": "Amazon Cognito",
+       "name": "Cognito",
        "ref": "",
        "icon": "Mobile-Services_AmazonCognito.png",
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -134,7 +134,7 @@
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
      },
      "aws": [{
-       "name": "Amazon Pinpoint",
+       "name": "Pinpoint",
        "ref": "",
        "icon": "aws.png",
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -177,7 +177,7 @@
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
      },
      "aws": [{
-       "name": "AWS Device Farm",
+       "name": "Device Farm",
        "ref": "",
        "icon": "Mobile-Services_AWSDeviceFarm.png",
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -227,7 +227,7 @@
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
      },
      "aws": [{
-       "name": "AWS Mobile SDK",
+       "name": "Mobile SDK",
        "ref": "",
        "icon": "SDKs_Android.png",
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -270,7 +270,7 @@
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
      },
      "aws": [{
-       "name": "AWS Step Functions",
+       "name": "Step Functions",
        "ref": "",
        "icon": "aws.png",
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -338,7 +338,7 @@
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
      },
      "aws": [{
-       "name": "Amazon Mobile Analytics",
+       "name": "Mobile Analytics",
        "ref": "https://aws.amazon.com/mobileanalytics/",
        "icon": "aws.png",
        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]

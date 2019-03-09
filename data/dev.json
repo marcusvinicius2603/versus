@@ -5,43 +5,43 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "AWS Cloud9",
+        "name": "Cloud9",
         "ref": "https://aws.amazon.com/cloud9/",
         "icon": "aws.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS Code Star",
+        "name": "Code Star",
         "ref": "https://aws.amazon.com/codestar/",
         "icon": "Developer-Tools_AWSCodeCommit.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS CodeCommit",
+        "name": "CodeCommit",
         "ref": "https://aws.amazon.com/codecommit/",
         "icon": "Developer-Tools_AWSCodeCommit.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS CodeBuild",
+        "name": "CodeBuild",
         "ref": "https://aws.amazon.com/codebuild/",
         "icon": "aws.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS CodeDeploy",
+        "name": "CodeDeploy",
         "ref": "https://aws.amazon.com/codedeploy/",
         "icon": "Developer-Tools_AWSCodeDeploy.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS CodePipeline",
+        "name": "CodePipeline",
         "ref": "https://aws.amazon.com/codepipeline",
         "icon": "Developer-Tools_AWSCodePipeline.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS X-Ray",
+        "name": "X-Ray",
         "ref": "https://aws.amazon.com/xray/",
         "icon": "aws.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -199,7 +199,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Lumberyard",
+      "name": "Lumberyard",
       "ref": "",
       "icon": "Game-Development_AmazonGameLift.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]

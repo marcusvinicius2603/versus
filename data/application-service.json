@@ -5,7 +5,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon API Gateway",
+      "name": "API Gateway",
       "ref": "",
       "icon": "Application-Services_AmazonAPIGateway.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -73,43 +73,43 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "Amazon Elastic Transcoder",
+        "name": "Elastic Transcoder",
         "ref": "",
         "icon": "Application-Services_AmazonElasticTranscoder.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS Elemental MediaConvert",
+        "name": "Elemental MediaConvert",
         "ref": "https://aws.amazon.com/mediaconvert/",
         "icon": "Application-Services_AmazonElasticTranscoder.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS Elemental MediaLive",
+        "name": "Elemental MediaLive",
         "ref": "https://aws.amazon.com/medialive/",
         "icon": "Application-Services_AmazonElasticTranscoder.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS Elemental MediaPackage",
+        "name": "Elemental MediaPackage",
         "ref": "https://aws.amazon.com/mediapackage/",
         "icon": "Application-Services_AmazonElasticTranscoder.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS Elemental MediaStore",
+        "name": "Elemental MediaStore",
         "ref": "https://aws.amazon.com/mediastore/",
         "icon": "Application-Services_AmazonElasticTranscoder.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS Elemental MediaTailor",
+        "name": "Elemental MediaTailor",
         "ref": "https://aws.amazon.com/MediaTailor/",
         "icon": "Application-Services_AmazonElasticTranscoder.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Amazon Kinesis Video Streams",
+        "name": "Kinesis Video Streams",
         "ref": "https://aws.amazon.com/kinesis/video-streams/",
         "icon": "Application-Services_AmazonElasticTranscoder.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -178,13 +178,13 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "Amazon SQS",
-        "ref": "",
+        "name": "Simple Queue Service (SQS)",
+        "ref": "https://aws.amazon.com/sqs/",
         "icon": "Application-Services_AmazonSQS.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "Amazon MQ",
+        "name": "MQ",
         "ref": "https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-mq/",
         "icon": "aws.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -254,7 +254,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Pinpoint",
+      "name": "Pinpoint",
       "ref": "",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -297,8 +297,8 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon SES",
-      "ref": "",
+      "name": "Simple Email Service (SES)",
+      "ref": "https://aws.amazon.com/ses/",
       "icon": "Application-Services_AmazonSES_email.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     }],
@@ -340,7 +340,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon SNS",
+      "name": "SNS",
       "ref": "",
       "icon": "Mobile-Services_AmazonSNS.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -384,7 +384,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Managed Blockchain (Preview)",
+      "name": "Managed Blockchain (Preview)",
       "ref": "https://aws.amazon.com/managed-blockchain/",
       "icon": "Blockchain-Services_AmazonManagedBlockchain.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]

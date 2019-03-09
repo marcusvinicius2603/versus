@@ -5,7 +5,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon VPC",
+      "name": "VPC",
       "ref": "https://aws.amazon.com/vpc/",
       "icon": "Networking_AmazonVPC.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -49,7 +49,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon VPN",
+      "name": "VPN",
       "ref": "http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpn-connections.html/",
       "icon": "aws.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -92,7 +92,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon CloudFront",
+      "name": "CloudFront",
       "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
       "icon": "Storage-Content-Delivery_AmazonCloudFront.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -135,7 +135,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Route 53",
+      "name": "Route 53",
       "ref": "https://aws.amazon.com/route53/",
       "icon": "Networking_AmazonRoute53.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -178,7 +178,7 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-      "name": "Amazon Route 53 Traffic Flow",
+      "name": "Route 53 Traffic Flow",
       "ref": "https://aws.amazon.com/blogs/aws/new-route-53-traffic-flow/",
       "icon": "Networking_AmazonRoute53.png",
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
@@ -221,13 +221,13 @@
       "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
     },
     "aws": [{
-        "name": "AWS Direct Connect",
+        "name": "Direct Connect",
         "ref": "https://aws.amazon.com/directconnect/",
         "icon": "Networking_AWSDirectConnect.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
       },
       {
-        "name": "AWS Private Link",
+        "name": "Private Link",
         "ref": "https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-privatelink-in-the-eu-paris-region/",
         "icon": "Networking_AWSDirectConnect.png",
         "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
