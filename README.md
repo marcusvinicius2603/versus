@@ -18,13 +18,13 @@
 
 ## Table of contents
 
-- [Quick start](#quick-start)
-- [Contributing for the Website](#contributing-for-the-website)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Community](#community)
-- [Creators](#creators)
-- [Thanks](#thanks)
+- [Quick start](#quick-start) :seedling:
+- [Contributing for the Website](#contributing-for-the-website) :hammer:
+- [What's included](#whats-included) :gift:
+- [Bugs and feature requests](#bugs-and-feature-requests) :beetle:
+- [Community](#community) :family:
+- [Creators](#creators) :alien:
+- [Thanks](#thanks) :raised_hands:
 
 
 ## Quick start
@@ -64,7 +64,7 @@ Read the Contributing section for a collaboration page quick guide.
 4. Manipulate and update services data based on recurrent changes, commit the updates and push them to GitHub;
 5. Create a Pull Request describing with a title and a quick summary of your changes;
 6. Wait for a couple of days, and if the data are approved by the website administrators, the official website will be updated;
-7. Thank you for joining Versus team, you are now, officially, a contributor! :clap::balloon::gift:
+7. Thank you for joining Versus team, you are now, officially, a contributor! :clap::trophy::rainbow:
 
 
 ## What's included
