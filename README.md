@@ -57,10 +57,10 @@ Read the Contributing section for a collaboration page quick guide.
 1. Open `versus` directory with your favorite code editor;
 2. Once all table data are stored in JSON files, inside `data` folder, open the specific JSON file that you would like to update;
 3. Each cloud provider is treated as an object. And for each object, there are three keys:
-- name: representing the name of the service proposed;
-- ref: indicating the reference link for the service website;
-- icon: containing the service icon (which is stored inside `img > icons > cloudproviders` folder);
-- Properties: containing service data properties.
+- "name" - representing the name of the service proposed;
+- "ref" - indicating the reference link for the service website;
+- "icon" - containing the service icon (which is stored inside `img > icons > cloudproviders` folder);
+- "Properties" - containing service data properties.
 
 
 ## What's included
