@@ -27,7 +27,7 @@
 - [Thanks](#thanks) :raised_hands:
 
 
-## Quick start
+## Quick start :seedling:
 
 1. Fork the project;
 2. Clone the repository on your local machine:
