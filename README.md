@@ -131,23 +131,18 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 ## Creators
 
 **Gerson Itiro**
-
 - <https://www.linkedin.com/in/itirohidaka>
 - <https://github.com/itirohidaka>
 
 **Paulo Coronado**
-
 - <https://www.linkedin.com/in/paulo-coronado-994ab2127>
 - <https://github.com/plcpinho>
 
 **Lucas Souza**
-
 - <https://www.linkedin.com/in/lucas-souza-38196b156>
 
 **Vinicius Rocha**
-
 - <https://www.linkedin.com/in/vin%C3%ADcius-da-rocha-maur%C3%ADcio-9b211631>
-
 
 ## Thanks
 
