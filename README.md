@@ -19,7 +19,7 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Contributing](#contributing)
+- [Contributing for the Website](#contributing-for-the-website)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Community](#community)
