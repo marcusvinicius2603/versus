@@ -30,7 +30,7 @@
 ## Quick start
 
 1. Fork the project;
-2. Clone the repository on your local machine.
+2. Clone the repository on your local machine:
 - `git clone https://github.com/plcpinho/versus.git`
 
 Read the Contributing section for a collaboration page quick guide.
@@ -129,6 +129,11 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 - Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability. --->
 
 ## Creators
+
+**Gerson Itiro**
+
+- <https://www.linkedin.com/in/itirohidaka/>
+- <https://github.com/itirohidaka>
 
 **Paulo Coronado**
 
