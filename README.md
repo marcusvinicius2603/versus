@@ -52,7 +52,7 @@ Read the Contributing section for a collaboration page quick guide.
 [![Backers on Open Collective](https://img.shields.io/opencollective/backers/bootstrap.svg?style=flat)](#backers)
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap.svg?style=flat)](#sponsors) --->
 
-## Contributing for the Website
+## Contributing for the Website :hammer:
 
 1. Open `versus` directory with your favorite code editor;
 2. Once all table data are stored in JSON files, inside `data` folder, open the specific JSON file that you would like to update;
