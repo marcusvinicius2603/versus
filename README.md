@@ -23,7 +23,7 @@
 - [What's included](#whats-included) :gift:
 - [Bugs and feature requests](#bugs-and-feature-requests) :beetle:
 - [Community](#community) :family:
-- [Creators](#creators) :alien:
+- [Creators](#creators) :space_invader:
 - [Thanks](#thanks) :raised_hands:
 
 
