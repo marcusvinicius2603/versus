@@ -67,7 +67,7 @@ Read the Contributing section for a collaboration page quick guide.
 7. Thank you for joining Versus team, you are now, officially, a contributor! :clap::trophy::rainbow:
 
 
-## What's included
+## What's included :gift:
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
@@ -104,7 +104,7 @@ versus/
 └── index.html
 ```
 
-## Bugs and feature requests
+## Bugs and feature requests :beetle:
 
 Have a bug or a feature request? Please first read and contact us (Community Section) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/plcpinho/versus/issues/new).
 
@@ -117,7 +117,7 @@ Have a bug or a feature request? Please first read and contact us (Community Sec
 
 Learn more about using Jekyll by reading its [documentation](https://jekyllrb.com/docs/). --->
 
-## Community (in development)
+## Community (in development) :family:
 
 <!--- Get updates on Versus's content, news about Cloud Computing and chat with specialists and enthusiasts.
 
@@ -128,7 +128,7 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 - Implementation help may be found at Stack Overflow (tagged [`bootstrap-4`](https://stackoverflow.com/questions/tagged/bootstrap-4)).
 - Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability. --->
 
-## Creators
+## Creators :alien:
 
 **Gerson Itiro**
 - <https://www.linkedin.com/in/itirohidaka>
@@ -144,7 +144,7 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 **Vinicius Rocha**
 - <https://www.linkedin.com/in/vin%C3%ADcius-da-rocha-maur%C3%ADcio-9b211631>
 
-## Thanks
+## Thanks :raised_hands:
 
 <p align="center">
   <a href="https://versus.mybluemix.net/">
