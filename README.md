@@ -29,9 +29,9 @@
 
 ## Quick start
 
-Several quick start options are available:
-
-- Clone the repo: `git clone https://github.com/plcpinho/versus.git`
+1. Fork the project;
+2. Clone the repository on your local machine.
+- `git clone https://github.com/plcpinho/versus.git`
 
 Read the Contributing section for a collaboration page quick guide.
 
@@ -54,19 +54,17 @@ Read the Contributing section for a collaboration page quick guide.
 
 ## Contributing for the Website
 
-1. Fork the project;
-2. Clone the project on your local machine;
-3. Open `versus` directory with your favorite code editor;
-4. Once all table data are stored in JSON files, inside `data` folder, open the specific JSON file that you would like to update;
-5. Each cloud provider is treated as an object. And for each object, there are three keys:
+1. Open `versus` directory with your favorite code editor;
+2. Once all table data are stored in JSON files, inside `data` folder, open the specific JSON file that you would like to update;
+3. Each cloud provider is treated as an object. And for each object, there are three keys:
 - "name" - representing the name of the service proposed;
 - "ref" - indicating the reference link for the service website;
 - "icon" - containing the service icon (which is stored inside `img > icons > cloudproviders` folder);
 - "Properties" - containing service data properties.
-6. Manipulate and update services data based on recurrent changes, commit the updates and push them to GitHub;
-7. Create a Pull Request describing with a title and a quick summary of your changes;
-8. Wait for a couple of days, and if the data are approved by the website administrators, the official website will be updated;
-9. Thank you for joining Versus team, you are now, officially, a contributor! :clap::balloon::gift:
+4. Manipulate and update services data based on recurrent changes, commit the updates and push them to GitHub;
+5. Create a Pull Request describing with a title and a quick summary of your changes;
+6. Wait for a couple of days, and if the data are approved by the website administrators, the official website will be updated;
+7. Thank you for joining Versus team, you are now, officially, a contributor! :clap::balloon::gift:
 
 
 ## What's included
