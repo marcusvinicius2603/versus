@@ -66,7 +66,7 @@ Read the Contributing section for a collaboration page quick guide.
 6. Manipulate and update services data based on recurrent changes, commit the updates and push them to GitHub;
 7. Create a Pull Request describing with a title and a quick summary of your changes;
 8. Wait for a couple of days, and if the data are approved by the website administrators, the official website will be updated;
-9. Thank you for joining Versus team, you are now, officially, a contributor! :metal::tada::sparkles:
+9. Thank you for joining Versus team, you are now, officially, a contributor! :clap::balloon::gift:
 
 
 ## What's included
