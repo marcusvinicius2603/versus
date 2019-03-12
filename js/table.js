@@ -44,7 +44,7 @@ function dataprocessor(input, type) {
     if (input.length > 1) {
         trHTML += '<td><ul>';
         for (var i in input) {
-            trHTML += '<li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[i].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[i].ref + '">' + input[i].name + '<span class="tooltiptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description...</span></a></div></li>';
+            trHTML += '<li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[i].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[i].ref + '">' + input[i].name + '<span class="tooltiptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location...</span></a></div></li>';
         }
         trHTML += '</ul></td>';
     } else {
