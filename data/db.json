@@ -18,7 +18,7 @@
       }
     ],
     "azure": [{
-        "name": "Azure SQL Database",
+        "name": "SQL Database",
         "ref": "https://azure.microsoft.com/en-in/services/sql-database/",
         "icon": "Azure SQL Database.png",
         "location": ""
@@ -30,13 +30,13 @@
         "location": ""
       },
       {
-        "name": "Azure Database for MySQL",
+        "name": "Database for MySQL",
         "ref": "https://azure.microsoft.com/en-us/services/mysql/",
         "icon": "Azure SQL Database.png",
         "location": ""
       },
       {
-        "name": "Azure Database for PostgresSQL",
+        "name": "Database for PostgresSQL",
         "ref": "https://azure.microsoft.com/en-us/services/postgresql/",
         "icon": "Azure SQL Database.png",
         "location": ""
@@ -152,7 +152,7 @@
       }
     ],
     "azure": [{
-        "name": "Azure CosmosDB",
+        "name": "CosmosDB",
         "ref": "https://docs.microsoft.com/en-us/azure/cosmos-db/",
         "icon": "Azure DocumentDB.png",
         "location": ""
@@ -164,7 +164,7 @@
         "location": ""
       },
       {
-        "name": "Azure Time Series Insights",
+        "name": "Time Series Insights",
         "ref": "https://azure.microsoft.com/en-us/services/time-series-insights/",
         "icon": "Azure DocumentDB.png",
         "location": ""
@@ -190,7 +190,7 @@
         "location": ""
       },
       {
-        "name": "IBM Graph",
+        "name": "Graph",
         "ref": "https://console.ng.bluemix.net/catalog/services/ibm-graph/",
         "icon": "ibmcloud.png",
         "location": ""
@@ -235,7 +235,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Time Series Insights",
+      "name": "Time Series Insights",
       "ref": "https://azure.microsoft.com/en-us/services/time-series-insights/",
       "icon": "Azure DocumentDB.png",
       "location": ""
@@ -321,7 +321,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure SQL Data Warehouse",
+      "name": "SQL Data Warehouse",
       "ref": "https://azure.microsoft.com/en-in/services/sql-data-warehouse/",
       "icon": "Azure Data Warehouse.png",
       "location": ""
@@ -352,7 +352,7 @@
       }
     ],
     "alibaba": [{
-      "name": "Alibaba MaxCompute ODPS",
+      "name": "MaxCompute ODPS",
       "ref": "https://www.alibabacloud.com/product/maxcompute",
       "icon": "MaxCompute.png",
       "location": ""

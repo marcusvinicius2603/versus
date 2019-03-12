@@ -11,7 +11,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Data Lake Analytics",
+      "name": "Data Lake Analytics",
       "ref": "https://azure.microsoft.com/en-in/services/data-lake-analytics/",
       "icon": "Azure Data Lake Analytics.png",
       "location": ""
@@ -54,7 +54,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure HDInsight",
+      "name": "HDInsight",
       "ref": "https://azure.microsoft.com/en-in/services/hdinsight/",
       "icon": "Azure HDInsight.png",
       "location": ""
@@ -91,20 +91,20 @@
       "location": ""
     },
     "aws": [{
-        "name": "Amazon CloudSearch",
+        "name": "CloudSearch",
         "ref": "https://aws.amazon.com/cloudsearch/",
         "icon": "Application-Services_AmazonCloudSearch.png",
         "location": ""
       },
       {
-        "name": "Amazon Elastic Search Service",
+        "name": "Elastic Search Service",
         "ref": "https://aws.amazon.com/cloudsearch/",
         "icon": "Application-Services_AmazonCloudSearch.png",
         "location": ""
       }
     ],
     "azure": [{
-      "name": "Azure Search",
+      "name": "Search",
       "ref": "",
       "icon": "Azure Search.png",
       "location": ""
@@ -154,13 +154,13 @@
       }
     ],
     "azure": [{
-        "name": "Azure Stream Analytics",
+        "name": "Stream Analytics",
         "ref": "https://azure.microsoft.com/en-us/services/stream-analytics/",
         "icon": "Azure Stream Analytics.png",
         "location": ""
       },
       {
-        "name": "Azure Event Hub",
+        "name": "Event Hub",
         "ref": "https://azure.microsoft.com/en-us/services/stream-analytics/",
         "icon": "Azure Event Hubs.png",
         "location": ""
@@ -204,7 +204,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure SQL Data Warehouse",
+      "name": "SQL Data Warehouse",
       "ref": "https://azure.microsoft.com/en-in/services/sql-data-warehouse/",
       "icon": "Azure Data Warehouse.png",
       "location": ""
@@ -228,7 +228,7 @@
       "location": ""
     }],
     "alibaba": [{
-      "name": "Alibaba MaxCompute ODPS",
+      "name": "MaxCompute ODPS",
       "ref": "https://www.alibabacloud.com/product/maxcompute",
       "icon": "MaxCompute.png",
       "location": ""
@@ -310,13 +310,13 @@
       }
     ],
     "azure": [{
-        "name": "Azure Data Factory",
+        "name": "Data Factory",
         "ref": "https://azure.microsoft.com/en-in/services/data-factory/",
         "icon": "Azure Data Factory.png",
         "location": ""
       },
       {
-        "name": "Azure Data Catalog",
+        "name": "Data Catalog",
         "ref": "https://azure.microsoft.com/en-in/services/data-catalog/",
         "icon": "Azure Data Catalog.png",
         "location": ""

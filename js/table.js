@@ -52,7 +52,7 @@ function dataprocessor(input, type) {
             trHTML += '<td>' + '<i class="fas fa-ban" style="color: red; font-size: 24px"></i>' + '</td>'
         } else {
             for (var i in input) {
-                trHTML += '<td><ul><li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[0].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[0].ref + '">' + input[0].name + '<span class="tooltiptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description...</span></a></li></ul></td>';
+                trHTML += '<td><ul><li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[0].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[0].ref + '">' + input[0].name + '<span class="tooltiptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location...</span></a></li></ul></td>';
             }
         }
     }

@@ -11,7 +11,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure VNet",
+      "name": "VNet",
       "ref": "https://azure.microsoft.com/en-in/services/virtual-network/",
       "icon": "Azure App Service - Web App (was Websites).png",
       "location": ""
@@ -29,7 +29,7 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Virtual Cloud Network",
+      "name": "Virtual Cloud Network",
       "ref": "https://cloud.oracle.com/networking",
       "icon": "service-virtual-cloud-network.png",
       "location": ""
@@ -55,7 +55,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure VPN Gateway",
+      "name": "VPN Gateway",
       "ref": "https://azure.microsoft.com/en-in/pricing/details/vpn-gateway/",
       "icon": "Azure VPN Gateway.png",
       "location": ""
@@ -73,7 +73,7 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle IPSec VPN",
+      "name": "IPSec VPN",
       "ref": "https://docs.us-phoenix-1.oraclecloud.com/Content/Network/Tasks/managingIPsec.htm",
       "icon": "oracle.png",
       "location": ""
@@ -98,7 +98,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure CDN",
+      "name": "CDN",
       "ref": "https://azure.microsoft.com/en-in/services/cdn/",
       "icon": "Azure Content Delivery Network (CDN).png",
       "location": ""
@@ -122,7 +122,7 @@
       "location": ""
     }],
     "alibaba": [{
-      "name": "Alibaba Content Delivery Network",
+      "name": "Content Delivery Network",
       "ref": "https://www.alibabacloud.com/product/cdn",
       "icon": "cdn.png",
       "location": ""
@@ -141,7 +141,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure DNS",
+      "name": "DNS",
       "ref": "https://azure.microsoft.com/en-in/services/dns/",
       "icon": "Azure DNS.png",
       "location": ""
@@ -159,13 +159,13 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle DNS",
+      "name": "DNS",
       "ref": "https://cloud.oracle.com/edge/dns/features",
       "icon": "EdgeServices.png",
       "location": ""
     }],
     "alibaba": [{
-      "name": "Alibaba Cloud DNS",
+      "name": "Cloud DNS",
       "ref": "https://www.alibabacloud.com/product/dns",
       "icon": "DNS.png",
       "location": ""
@@ -184,7 +184,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Traffic Manager",
+      "name": "Traffic Manager",
       "ref": "https://azure.microsoft.com/en-in/services/traffic-manager/",
       "icon": "Azure Traffic Manager.png",
       "location": ""
@@ -234,7 +234,7 @@
       }
     ],
     "azure": [{
-      "name": "Azure Express Route",
+      "name": "Express Route",
       "ref": "https://azure.microsoft.com/en-in/services/expressroute/",
       "icon": "Azure ExpressRoute.png",
       "location": ""
@@ -277,7 +277,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Load Balancer",
+      "name": "Load Balancer",
       "ref": "https://azure.microsoft.com/en-in/services/load-balancer/",
       "icon": "Azure load balancer (automatic).png",
       "location": ""
@@ -295,7 +295,7 @@
         "location": ""
       },
       {
-        "name": "IBM Cloud Load Balancing",
+        "name": "Cloud Load Balancing",
         "ref": "https://console.bluemix.net/catalog/infrastructure/load-balancer-group",
         "icon": "ibmcloud.png",
         "location": ""
@@ -308,7 +308,7 @@
       }
     ],
     "oracle": [{
-      "name": "Oracle Load Balancer",
+      "name": "Load Balancer",
       "ref": "https://cloud.oracle.com/load-balancing",
       "icon": "LoadBalancing.png",
       "location": ""

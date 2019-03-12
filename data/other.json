@@ -110,7 +110,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure MarketPlace",
+      "name": "MarketPlace",
       "ref": "https://azuremarketplace.microsoft.com/en-us/marketplace/apps",
       "icon": "Azure Store_Marketplace.png",
       "location": ""
@@ -122,19 +122,19 @@
       "location": ""
     }],
     "ibm": [{
-      "name": "IBM Marketplace",
+      "name": "Marketplace",
       "ref": "https://www.ibm.com/bn-en/marketplace/cloud-platform",
       "icon": "ibmcloud.png",
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Cloud Market Place",
+      "name": "Cloud Market Place",
       "ref": "https://cloudmarketplace.oracle.com/marketplace/bmcs",
       "icon": "oracle.png",
       "location": ""
     }],
     "alibaba": [{
-      "name": "Alibaba Cloud Marketplace",
+      "name": "Cloud Marketplace",
       "ref": "https://www.alibabacloud.com/marketplace",
       "icon": "alibaba.png",
       "location": ""

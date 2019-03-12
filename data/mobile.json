@@ -11,7 +11,7 @@
        "location": ""
      }],
      "azure": [{
-       "name": "Azure Mobile Apps",
+       "name": "Mobile Apps",
        "ref": "https://azure.microsoft.com/en-us/services/app-service/mobile/",
        "icon": "Azure App Service - Mobile App (was Mobile Services).png",
        "location": ""
@@ -54,7 +54,7 @@
        "location": ""
      }],
      "azure": [{
-       "name": "Azure API Management",
+       "name": "API Management",
        "ref": "",
        "icon": "Azure API Management.png",
        "location": ""
@@ -97,7 +97,7 @@
        "location": ""
      }],
      "azure": [{
-       "name": "Azure Mobile SDK,Offline/Sync",
+       "name": "Mobile SDK,Offline/Sync",
        "ref": "",
        "icon": "Azure SDK.png",
        "location": ""
@@ -140,7 +140,7 @@
        "location": ""
      }],
      "azure": [{
-       "name": "Azure Mobile Engagement",
+       "name": "Mobile Engagement",
        "ref": "",
        "icon": "Azure Mobile Engagement.png",
        "location": ""
@@ -189,7 +189,7 @@
          "location": ""
        },
        {
-         "name": "Azure DevTest Labs (Back End)",
+         "name": "DevTest Labs (Back End)",
          "ref": "",
          "icon": "Azure DevTest Labs.png",
          "location": ""
@@ -233,7 +233,7 @@
        "location": ""
      }],
      "azure": [{
-       "name": "Azure Mobile SDK",
+       "name": "Mobile SDK",
        "ref": "",
        "icon": "Azure SDK.png",
        "location": ""
@@ -288,7 +288,7 @@
          "location": ""
        },
        {
-         "name": "Azure Functions",
+         "name": "Functions",
          "ref": "https://azure.microsoft.com/en-in/services/functions/",
          "icon": "Azure Functions.png",
          "location": ""
@@ -300,7 +300,7 @@
          "location": ""
        },
        {
-         "name": "Azure App Service WebJobs",
+         "name": "App Service WebJobs",
          "ref": "",
          "icon": "Azure WebApp - WebJobs.png",
          "location": ""
@@ -313,7 +313,7 @@
        "location": ""
      }],
      "ibm": [{
-       "name": "IBM Cloud Functions",
+       "name": "Cloud Functions",
        "ref": "https://www.ibm.com/cloud/functions",
        "icon": "ibm-cloud-functions.png",
        "location": ""

@@ -11,7 +11,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Blob Storage",
+      "name": "Blob Storage",
       "ref": "https://azure.microsoft.com/en-in/services/storage/blobs/",
       "icon": "Azure Storage - Blob.png",
       "location": ""
@@ -54,7 +54,7 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Page Blobs / Premium Storage",
+        "name": "Page Blobs / Premium Storage",
         "ref": "https://azure.microsoft.com/en-in/services/storage/disks/",
         "icon": "VHD data disk.png",
         "location": ""
@@ -104,7 +104,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure File Storage",
+      "name": "File Storage",
       "ref": "https://azure.microsoft.com/en-in/services/storage/files/",
       "icon": "Azure Storage - Files.png",
       "location": ""
@@ -147,13 +147,13 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Archive Storage",
+        "name": "Archive Storage",
         "ref": "https://azure.microsoft.com/en-us/services/storage/archive/",
         "icon": "Azure Storage.png",
         "location": ""
       },
       {
-        "name": "Azure Cool Storage",
+        "name": "Cool Storage",
         "ref": "https://azure.microsoft.com/en-in/pricing/details/storage/blobs/",
         "icon": "Azure Storage.png",
         "location": ""
@@ -204,7 +204,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Storsimple",
+      "name": "Storsimple",
       "ref": "https://azure.microsoft.com/en-in/services/storsimple/",
       "icon": "Azure StorSimple.png",
       "location": ""

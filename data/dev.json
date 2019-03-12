@@ -111,13 +111,13 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS SDK",
+      "name": "SDK",
       "ref": "#",
       "icon": "SDKs_Python.png",
       "location": ""
     }],
     "azure": [{
-      "name": "Azure SDK Visual Studio",
+      "name": "SDK Visual Studio",
       "ref": "https://www.visualstudio.com/team-services/",
       "icon": "Azure SDK.png",
       "location": ""
@@ -141,14 +141,14 @@
         "location": ""
       },
       {
-        "name": "Google Plugin for Eclipse",
+        "name": "Plugin for Eclipse",
         "ref": "http://#",
         "icon": "Cloud-Tools-for-PowerShell.png",
         "location": ""
       }
     ],
     "ibm": [{
-        "name": "IBM Cloud Developer Tool",
+        "name": "Cloud Developer Tool",
         "ref": "https://marketplace.visualstudio.com/items?itemName=IBM.ibm-developer",
         "icon": "ibmcloud.png",
         "location": ""
@@ -173,13 +173,13 @@
         "location": ""
       },
       {
-        "name": "Oracle Enterprise Pack for Eclipse",
+        "name": "Enterprise Pack for Eclipse",
         "ref": "https://docs.oracle.com/en/cloud/paas/developer-cloud/csdcs/using-eclipse-ide-oracle-developer-cloud-service.html",
         "icon": "developer.png",
         "location": ""
       },
       {
-        "name": "Oracle Enterprise Pack for Netbeans",
+        "name": "Enterprise Pack for Netbeans",
         "ref": "https://docs.oracle.com/en/cloud/paas/developer-cloud/csdcs/using-netbeans-ide-oracle-developer-cloud-service.html",
         "icon": "developer.png",
         "location": ""
@@ -242,13 +242,13 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Dev/Test",
+      "name": "Dev/Test",
       "ref": "",
       "icon": "aws.png",
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Dev/Test",
+      "name": "Dev/Test",
       "ref": "https://azure.microsoft.com/en-in/services/devtest-lab/",
       "icon": "Azure DevTest Labs.png",
       "location": ""

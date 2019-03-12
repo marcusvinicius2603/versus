@@ -11,13 +11,13 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure IoT Platform",
+        "name": "IoT Platform",
         "ref": "https://azure.microsoft.com/en-us/overview/iot/",
         "icon": "Azure IoT Hub.png",
         "location": ""
       },
       {
-        "name": "Azure IoT Hub",
+        "name": "IoT Hub",
         "ref": "https://azure.microsoft.com/en-us/services/iot-hub/",
         "icon": "Azure IoT Hub.png",
         "location": ""
@@ -30,7 +30,7 @@
         "location": ""
       },
       {
-        "name": "Google Cloud IoT",
+        "name": "Cloud IoT",
         "ref": "https://cloud.google.com/solutions/iot/",
         "icon": "Google-Cloud-Platform.png",
         "location": ""
@@ -68,13 +68,13 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure IoT SDK",
+        "name": "IoT SDK",
         "ref": "",
         "icon": "Azure SDK.png",
         "location": ""
       },
       {
-        "name": "Azure IoT Edge",
+        "name": "IoT Edge",
         "ref": "https://azure.microsoft.com/en-us/blog/microsoft-launches-azure-iot-technical-training-developers-can-start-quickly-with-iot/",
         "icon": "Azure SDK.png",
         "location": ""
@@ -125,7 +125,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Sphere",
+      "name": "Sphere",
       "ref": "https://azure.microsoft.com/en-us/services/azure-sphere/",
       "icon": "Azure%20IoT%20Hub.png",
       "location": ""

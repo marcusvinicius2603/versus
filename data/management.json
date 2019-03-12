@@ -11,7 +11,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Operational Insights ",
+      "name": "Operational Insights ",
       "ref": "https://azure.microsoft.com/en-us/resources/videos/azure-operational-insights-overview/",
       "icon": "Operations Management Suite (OMS).png",
       "location": ""
@@ -29,7 +29,7 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Management Cloud",
+      "name": "Management Cloud",
       "ref": "https://cloud.oracle.com/management",
       "icon": "oracle.png",
       "location": ""
@@ -54,13 +54,13 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Resource Manager",
+        "name": "Resource Manager",
         "ref": "https://azure.microsoft.com/en-us/features/resource-manager/",
         "icon": "Resource Group.png",
         "location": ""
       },
       {
-        "name": "Azure Building Blocks",
+        "name": "Building Blocks",
         "ref": "https://azure.microsoft.com/en-in/resources/videos/azure-building-blocks-20-azbb/",
         "icon": "Resource Group.png",
         "location": ""
@@ -124,7 +124,7 @@
         "location": ""
       },
       {
-        "name": "Azure portal",
+        "name": "Portal",
         "ref": "https://portal.azure.com/#",
         "icon": "Azure Management Portal.png",
         "location": ""
@@ -138,7 +138,7 @@
 
     ],
     "google": [{
-        "name": "Google StackDriver",
+        "name": "StackDriver",
         "ref": "https://cloud.google.com/stackdriver/",
         "icon": "Stackdriver.png",
         "location": ""
@@ -234,7 +234,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure portal (audit logs)",
+      "name": "Portal (audit logs)",
       "ref": "",
       "icon": "Azure Management Portal.png",
       "location": ""
@@ -265,13 +265,13 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Cloud Governance Services",
+      "name": "Cloud Governance Services",
       "ref": "https://cloud.oracle.com/en_US/governance",
       "icon": "service-governance.png",
       "location": ""
     }],
     "alibaba": [{
-      "name": "Alibaba Log Service",
+      "name": "Log Service",
       "ref": "https://www.alibabacloud.com/product/log-service",
       "icon": "log-service.png",
       "location": ""
@@ -296,7 +296,7 @@
         "location": ""
       },
       {
-        "name": "Azure Automation",
+        "name": "Automation",
         "ref": "https://docs.microsoft.com/en-us/azure/automation/",
         "icon": "Azure Automation.png",
         "location": ""
@@ -321,7 +321,7 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Orchestration Cloud Service",
+      "name": "Orchestration Cloud Service",
       "ref": "https://cloud.oracle.com/en_US/orchestration",
       "icon": "oracle.png",
       "location": ""
@@ -395,14 +395,14 @@
         "location": ""
       },
       {
-        "name": "Azure Cost Management",
+        "name": "Cost Management",
         "ref": "https://azure.microsoft.com/en-us/services/cost-management/",
         "icon": "Azure Security Center.png",
         "location": ""
       }
     ],
     "google": [{
-      "name": "Google Cloud Platform Security",
+      "name": "Cloud Platform Security",
       "ref": "https://cloud.google.com/security/",
       "icon": "Generic-GCP.png",
       "location": ""
@@ -439,13 +439,13 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Monitor",
+        "name": "Monitor",
         "ref": "https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-azure-monitor",
         "icon": "Azure monitor.png",
         "location": ""
       },
       {
-        "name": "Azure Operations Management Suite (OMS)",
+        "name": "Operations Management Suite (OMS)",
         "ref": "https://www.microsoft.com/en-us/cloud-platform/operations-management-suite",
         "icon": "Azure OMS.png",
         "location": ""
@@ -464,7 +464,7 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Management Cloud",
+      "name": "Management Cloud",
       "ref": "https://cloud.oracle.com/en_US/management",
       "icon": "oracle.png",
       "location": ""
@@ -483,38 +483,38 @@
       "location": ""
     },
     "aws": [{
-        "name": "AWS Command Line Interface",
+        "name": "Command Line Interface",
         "ref": "",
         "icon": "SDKs_AWSCLI.png",
         "location": ""
       },
       {
-        "name": "AWS Management Console",
+        "name": "Management Console",
         "ref": "",
         "icon": "aws.png",
         "location": ""
       }
     ],
     "azure": [{
-        "name": "Azure Command Line Interface",
+        "name": "Command Line Interface",
         "ref": "",
         "icon": "Microsoft Azure.png",
         "location": ""
       },
       {
-        "name": "Azure Powershell",
+        "name": "Powershell",
         "ref": "https://docs.microsoft.com/en-us/powershell/azure/overview?view=azurermps-6.3.0",
         "icon": "Microsoft Azure.png",
         "location": ""
       },
       {
-        "name": "Azure Management Console",
+        "name": "Management Console",
         "ref": "",
         "icon": "Azure Management Portal.png",
         "location": ""
       },
       {
-        "name": "Azure Cloud Shell",
+        "name": "Cloud Shell",
         "ref": "https://azure.microsoft.com/en-us/features/cloud-shell/",
         "icon": "Azure Management Portal.png",
         "location": ""
@@ -552,19 +552,19 @@
       "location": ""
     }],
     "oracle": [{
-        "name": "Oracle Public Cloud CLI",
+        "name": "Public Cloud CLI",
         "ref": "https://#",
         "icon": "oracle.png",
         "location": ""
       },
       {
-        "name": "Oracle Cloud Infrastructure CLI",
+        "name": "Cloud Infrastructure CLI",
         "ref": "https://#",
         "icon": "oracle.png",
         "location": ""
       },
       {
-        "name": "Oracle Management Console",
+        "name": "Management Console",
         "ref": "https://#",
         "icon": "oracle.png",
         "location": ""
@@ -577,7 +577,7 @@
       }
     ],
     "alibaba": [{
-      "name": "Alibaba Cloud CLI",
+      "name": "Cloud CLI",
       "ref": "https://www.alibabacloud.com/help/doc-detail/66653.htm",
       "icon": "alibaba.png",
       "location": ""
@@ -590,7 +590,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Managed Services",
+      "name": "Managed Services",
       "ref": "https://aws.amazon.com/managed-services/",
       "icon": "aws.png",
       "location": ""
@@ -614,7 +614,7 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Managed Cloud Services",
+      "name": "Managed Cloud Services",
       "ref": "https://www.oracle.com/fr/cloud/managed-cloud.html",
       "icon": "oracle.png",
       "location": ""
@@ -633,19 +633,19 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Disaster Recovery",
+      "name": "Disaster Recovery",
       "ref": "https://aws.amazon.com/disaster-recovery/",
       "icon": "aws.png",
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Site Recovery",
+        "name": "Site Recovery",
         "ref": "https://azure.microsoft.com/en-us/services/site-recovery/",
         "icon": "Azure Site Recovery.png",
         "location": ""
       },
       {
-        "name": "Azure Backup",
+        "name": "Backup",
         "ref": "https://azure.microsoft.com/en-us/services/backup/",
         "icon": "Azure Backup.png",
         "location": ""
@@ -664,13 +664,13 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Database Backup",
+      "name": "Database Backup",
       "ref": "https://cloud.oracle.com/en_US/database-backup/features",
       "icon": "none.png",
       "location": ""
     }],
     "alibaba": [{
-        "name": "Alibaba Disaster Recovery",
+        "name": "Disaster Recovery",
         "ref": "https://www.alibabacloud.com/solutions/hosting/Disaster-Recovery",
         "icon": "alibaba.png",
         "location": ""
@@ -690,7 +690,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Managed Services",
+      "name": "Managed Services",
       "ref": "https://aws.amazon.com/managed-services/",
       "icon": "Application-Services_AmazonAppStream.png",
       "location": ""

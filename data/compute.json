@@ -11,7 +11,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure shared App Services",
+      "name": "shared App Services",
       "ref": "https://azure.microsoft.com/en-in/services/app-service/web/",
       "icon": "Azure App Service - Web App (was Websites).png",
       "location": ""
@@ -61,7 +61,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Virtual Machine",
+      "name": "Virtual Machine",
       "ref": "https://docs.microsoft.com/en-us/azure/virtual-machines/",
       "icon": "Azure Virtual Machine.png",
       "location": ""
@@ -85,7 +85,7 @@
       "location": ""
     }],
     "alibaba": [{
-      "name": "Alibaba ECS",
+      "name": "ECS",
       "ref": "https://www.alibabacloud.com/product/ecs",
       "icon": "ecs.png",
       "location": ""
@@ -104,7 +104,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Bare Metal Servers (Large Instance Only for SAP Hana)",
+      "name": "Bare Metal Servers (Large Instance Only for SAP Hana)",
       "ref": "https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-overview-architecture",
       "icon": "Azure Virtual Machine.png",
       "location": ""
@@ -190,7 +190,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Container Registry ",
+      "name": "Container Registry ",
       "ref": "https://azure.microsoft.com/en-in/services/container-registry/",
       "icon": "Microsoft Azure.png",
       "location": ""
@@ -202,13 +202,13 @@
       "location": ""
     }],
     "ibm": [{
-      "name": "IBM Cloud Container Registry",
+      "name": "Cloud Container Registry",
       "ref": "https://www.ibm.com/cloud/container-registry",
       "icon": "registry_icon.svg",
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Cloud Infrastructure Registry",
+      "name": "Cloud Infrastructure Registry",
       "ref": "https://cloud.oracle.com/containers/registry",
       "icon": "compute.png",
       "location": ""
@@ -240,13 +240,13 @@
       }
     ],
     "azure": [{
-        "name": "Azure Kubernetes Service (AKS)",
+        "name": "Kubernetes Service (AKS)",
         "ref": "https://azure.microsoft.com/services/kubernetes-service/",
         "icon": "Azure Kubernetes Service.png",
         "location": ""
       },
       {
-        "name": "Azure Container Instances",
+        "name": "Container Instances",
         "ref": "https://azure.microsoft.com/en-in/services/container-instances/",
         "icon": "Azure Container Service.png",
         "location": ""
@@ -259,7 +259,7 @@
       "location": ""
     }],
     "ibm": [{
-      "name": "IBM Cloud Kubernetes Service",
+      "name": "Cloud Kubernetes Service",
       "ref": "https://www.ibm.com/cloud/container-service",
       "icon": "containerServiceIcon.svg",
       "location": ""
@@ -297,13 +297,13 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Service Fabric",
+        "name": "Service Fabric",
         "ref": "https://azure.microsoft.com/en-in/services/service-fabric/",
         "icon": "Azure Service Fabric.png",
         "location": ""
       },
       {
-        "name": "Azure Functions",
+        "name": "Functions",
         "ref": "https://azure.microsoft.com/en-in/services/functions/",
         "icon": "Azure Functions.png",
         "location": ""
@@ -322,13 +322,13 @@
       "location": ""
     }],
     "ibm": [{
-      "name": "IBM Cloud Functions",
+      "name": "Cloud Functions",
       "ref": "https://www.ibm.com/cloud/functions",
       "icon": "ibm-cloud-functions.png",
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Functions",
+      "name": "Functions",
       "ref": "https://#",
       "icon": "compute.png",
       "location": ""
@@ -353,7 +353,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure App Service Environment",
+      "name": "App Service Environment",
       "ref": "https://docs.microsoft.com/en-us/azure/app-service-web/app-service-app-service-environment-intro",
       "icon": "Azure App Service - Web App (was Websites).png",
       "location": ""
@@ -396,7 +396,7 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Autoscale",
+        "name": "Autoscale",
         "ref": "https://azure.microsoft.com/en-us/features/autoscale/",
         "icon": "Azure App Service - Web App (was Websites).png",
         "location": ""
@@ -446,7 +446,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Batch",
+      "name": "Batch",
       "ref": "https://azure.microsoft.com/en-in/services/batch/",
       "icon": "Azure Batch.png",
       "location": ""
@@ -489,20 +489,20 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Web Apps",
+        "name": "Web Apps",
         "ref": "https://azure.microsoft.com/en-in/services/batch/",
         "icon": "Azure App Service - Web App (was Websites).png",
         "location": ""
       },
       {
-        "name": "Azure Cloud Services",
+        "name": "Cloud Services",
         "ref": "https://azure.microsoft.com/en-in/services/cloud-services/",
         "icon": "Azure Cloud Services - Web roles.png",
         "location": ""
       }
     ],
     "google": [{
-      "name": "Google App engine",
+      "name": "App engine",
       "ref": "https://cloud.google.com/appengine/",
       "icon": "App-Engine.png",
       "location": ""
@@ -546,7 +546,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Functions",
+      "name": "Functions",
       "ref": "https://azure.microsoft.com/en-in/services/functions/",
       "icon": "Azure Functions.png",
       "location": ""
@@ -563,13 +563,13 @@
       "location": ""
     }],
     "ibm": [{
-      "name": "IBM Cloud Functions",
+      "name": "Cloud Functions",
       "ref": "https://www.ibm.com/cloud/functions",
       "icon": "ibm-cloud-functions.png",
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Functions",
+      "name": "Functions",
       "ref": "https://#",
       "icon": "compute.png",
       "location": ""

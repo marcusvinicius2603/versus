@@ -138,7 +138,7 @@
       }
     ],
     "azure": [{
-      "name": "Bing Speech API",
+      "name": "Speech API",
       "ref": "",
       "icon": "Azure Cognative Services - Speech_COLOR.png",
       "location": ""
@@ -258,18 +258,18 @@
       }
     ],
     "azure": [{
-        "name": "Azure Machine Learning",
+        "name": "Machine Learning",
         "ref": "https://studio.azureml.net/",
         "icon": "Azure Machine Learning.png",
         "location": ""
       },
       {
-        "name": "Azure Machine Learning Workbench",
+        "name": "Machine Learning Workbench",
         "ref": "https://docs.microsoft.com/en-in/azure/machine-learning/preview/quickstart-installation",
         "icon": "Azure Machine Learning.png",
         "location": ""
       }, {
-        "name": "Azure Machine Learning Model Management",
+        "name": "Machine Learning Model Management",
         "ref": "https://docs.microsoft.com/en-in/azure/machine-learning/preview/model-management-overview",
         "icon": "Azure Machine Learning.png",
         "location": ""

@@ -11,7 +11,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Database Migration Service (Preview)",
+      "name": "Database Migration Service (Preview)",
       "ref": "https://azure.microsoft.com/en-in/blog/azure-database-migration-service-announcement-at-build/",
       "icon": "Microsoft Azure.png",
       "location": ""
@@ -48,7 +48,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Server Migration Service",
+      "name": "Server Migration Service",
       "ref": "https://aws.amazon.com/server-migration-service/",
       "icon": "aws.png",
       "location": ""
@@ -60,7 +60,7 @@
         "location": ""
       },
       {
-        "name": "Azure Websites Migration Assistant",
+        "name": "Websites Migration Assistant",
         "ref": "https://azure.microsoft.com/en-us/downloads/migration-assistant/",
         "icon": "Microsoft Azure.png",
         "location": ""
@@ -104,7 +104,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Import/Export",
+      "name": "Import/Export",
       "ref": "https://azure.microsoft.com/en-in/pricing/details/storage-import-export/",
       "icon": "Microsoft Azure.png",
       "location": ""
@@ -197,7 +197,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Data Box (Preview)",
+      "name": "Data Box (Preview)",
       "ref": "https://azure.microsoft.com/en-us/services/storage/databox/",
       "icon": "Microsoft Azure.png",
       "location": ""
@@ -283,7 +283,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Active Directory",
+      "name": "Active Directory",
       "ref": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/cloud-app-discovery",
       "icon": "Azure%20Active%20Directory.png",
       "location": ""

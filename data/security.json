@@ -11,7 +11,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Active Directory",
+      "name": "Active Directory",
       "ref": "https://azure.microsoft.com/en-in/services/active-directory/",
       "icon": "Azure Active Directory.png",
       "location": ""
@@ -68,7 +68,7 @@
       }
     ],
     "azure": [{
-      "name": "Azure Security Center",
+      "name": "Security Center",
       "ref": "https://azure.microsoft.com/en-in/services/security-center/",
       "icon": "Azure Security Center.png",
       "location": ""
@@ -168,7 +168,7 @@
       }
     ],
     "azure": [{
-      "name": "Azure Key Vault",
+      "name": "Key Vault",
       "ref": "https://azure.microsoft.com/en-in/services/key-vault/",
       "icon": "Azure Key Vault.png",
       "location": ""
@@ -211,25 +211,25 @@
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Active Directory",
+        "name": "Active Directory",
         "ref": "https://azure.microsoft.com/en-us/services/active-directory/",
         "icon": "Azure Active Directory.png",
         "location": ""
       },
       {
-        "name": "Azure Active Directory B2C",
+        "name": "Active Directory B2C",
         "ref": "https://azure.microsoft.com/en-us/services/active-directory-b2c/",
         "icon": "Azure Active Directory.png",
         "location": ""
       },
       {
-        "name": "Azure Active Directory Domain Services",
+        "name": "Active Directory Domain Services",
         "ref": "https://azure.microsoft.com/en-us/services/active-directory-ds/",
         "icon": "Azure Active Directory.png",
         "location": ""
       },
       {
-        "name": "Azure Active Directory Multi Factor Authentication",
+        "name": "Active Directory Multi Factor Authentication",
         "ref": "https://azure.microsoft.com/en-us/services/multi-factor-authentication/",
         "icon": "Azure Active Directory.png",
         "location": ""
@@ -286,7 +286,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Key Vault",
+      "name": "Key Vault",
       "ref": "https://azure.microsoft.com/en-us/services/key-vault/",
       "icon": "Azure Key Vault.png",
       "location": ""
@@ -329,7 +329,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Management Groups",
+      "name": "Management Groups",
       "ref": "https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview",
       "icon": "Azure%20Management%20Portal.png",
       "location": ""
@@ -372,7 +372,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure DDoS Protection",
+      "name": "DDoS Protection",
       "ref": "https://azure.microsoft.com/en-in/services/ddos-protection/",
       "icon": "Microsoft Azure.png",
       "location": ""
@@ -415,7 +415,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure WAF",
+      "name": "WAF",
       "ref": "",
       "icon": "Firewall.png",
       "location": ""
@@ -458,7 +458,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Security & Compliance",
+      "name": "Security & Compliance",
       "ref": "https://azure.microsoft.com/en-in/support/trust-center/",
       "icon": "Azure Security Center.png",
       "location": ""
@@ -482,7 +482,7 @@
       "location": ""
     }],
     "alibaba": [{
-      "name": "Alibaba Truster Center ",
+      "name": "Truster Center ",
       "ref": "https://www.alibabacloud.com/trust-center",
       "icon": "alibaba.png",
       "location": ""

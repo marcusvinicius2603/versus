@@ -11,7 +11,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure API Management",
+      "name": "API Management",
       "ref": "",
       "icon": "Azure API Management.png",
       "location": ""
@@ -48,7 +48,7 @@
       }
     ],
     "ibm": [{
-      "name": "Api connect",
+      "name": "API Connect",
       "ref": "https://console.bluemix.net/catalog/services/api-connect",
       "icon": "api-connect.svg",
       "location": ""
@@ -116,7 +116,7 @@
       }
     ],
     "azure": [{
-        "name": "Azure Media Services",
+        "name": "Media Services",
         "ref": "https://azure.microsoft.com/en-us/services/media-services",
         "icon": "Azure Media Services.png",
         "location": ""
@@ -128,7 +128,7 @@
         "location": ""
       },
       {
-        "name": "Azure Media Player",
+        "name": "Media Player",
         "ref": "",
         "icon": "Azure Media Services.png",
         "location": ""
@@ -346,7 +346,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Notification Services",
+      "name": "Notification Services",
       "ref": "",
       "icon": "Azure Notification Hubs.png",
       "location": ""
@@ -440,7 +440,7 @@
       "location": ""
     }],
     "azure": [{
-      "name": "Azure Bot Service",
+      "name": "Bot Service",
       "ref": "https://azure.microsoft.com/en-us/services/bot-service/",
       "icon": "Azure subscription.png",
       "location": ""
@@ -458,7 +458,7 @@
       "location": ""
     }],
     "oracle": [{
-      "name": "Oracle Chatbots",
+      "name": "Chatbots",
       "ref": "https://cloud.oracle.com/en_US/blockchain",
       "icon": "oracle.png",
       "location": ""
