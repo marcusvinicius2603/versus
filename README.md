@@ -18,20 +18,20 @@
 
 ## Table of contents
 
-- [Quick start](#quick-start)
-- [Contributing](#contributing)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Community](#community)
-- [Creators](#creators)
-- [Thanks](#thanks)
+- [Quick start](#quick-start) :seedling:
+- [Contributing for the Website](#contributing-for-the-website) :hammer:
+- [What's included](#whats-included) :gift:
+- [Bugs and feature requests](#bugs-and-feature-requests) :beetle:
+- [Community](#community) :family:
+- [Creators](#creators) :space_invader:
+- [Thanks](#thanks) :raised_hands:
 
 
 ## Quick start
 
-Several quick start options are available:
-
-- Clone the repo: `git clone https://github.com/plcpinho/versus.git`
+1. Fork the project;
+2. Clone the repository on your local machine:
+- `git clone https://github.com/plcpinho/versus.git`
 
 Read the Contributing section for a collaboration page quick guide.
 
@@ -52,8 +52,19 @@ Read the Contributing section for a collaboration page quick guide.
 [![Backers on Open Collective](https://img.shields.io/opencollective/backers/bootstrap.svg?style=flat)](#backers)
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap.svg?style=flat)](#sponsors) --->
 
-## Contributing (in development)
+## Contributing for the website
 
+1. Open `versus` directory with your favorite code editor;
+2. Once all table data are stored in JSON files, inside `data` folder, open the specific JSON file that you would like to update;
+3. Each cloud provider is treated as an object. And for each object, there are three keys:
+- "name" - representing the name of the service proposed;
+- "ref" - indicating the reference link for the service website;
+- "icon" - containing the service icon (which is stored inside `img > icons > cloudproviders` folder);
+- "Properties" - containing service data properties.
+4. Manipulate and update services data based on recurrent changes, commit the updates and push them to GitHub;
+5. Create a Pull Request describing with a title and a quick summary of your changes;
+6. Wait for a couple of days, and if the data are approved by the website administrators, the official website will be updated;
+7. Thank you for joining Versus team, you are now, officially, a contributor! :clap::trophy::rainbow:
 
 
 ## What's included
@@ -119,25 +130,25 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 
 ## Creators
 
-**Paulo Coronado**
+**Gerson Itiro**
+- <https://www.linkedin.com/in/itirohidaka>
+- <https://github.com/itirohidaka>
 
-- <https://www.linkedin.com/in/paulo-coronado-994ab2127/>
+**Paulo Coronado**
+- <https://www.linkedin.com/in/paulo-coronado-994ab2127>
 - <https://github.com/plcpinho>
 
 **Lucas Souza**
-
-- <https://www.linkedin.com/in/lucas-souza-38196b156/>
+- <https://www.linkedin.com/in/lucas-souza-38196b156>
 
 **Vinicius Rocha**
-
-- <https://www.linkedin.com/in/vin%C3%ADcius-da-rocha-maur%C3%ADcio-9b211631/>
-
+- <https://www.linkedin.com/in/vin%C3%ADcius-da-rocha-maur%C3%ADcio-9b211631>
 
 ## Thanks
 
 <p align="center">
   <a href="https://versus.mybluemix.net/">
-     <img src="/img/logos/IBM-Cloud.png" alt="IBM Logo" width="160" height="100">
+     <img src="/img/logos/ibm-cloud-horizontal.png" alt="IBM Logo" width="200" height="70">
   </a>
 </p>
 
