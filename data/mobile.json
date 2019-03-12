@@ -5,7 +5,7 @@
        "location": ""
      },
      "aws": [{
-       "name": "AWS Mobile Hub",
+       "name": "Mobile Hub",
        "ref": "",
        "icon": "Mobile-Services_AWSMobileHub.png",
        "location": ""
@@ -48,7 +48,7 @@
        "location": ""
      },
      "aws": [{
-       "name": "Amazon API Gateway",
+       "name": "API Gateway",
        "ref": "",
        "icon": "Application-Services_AmazonAPIGateway.png",
        "location": ""
@@ -91,7 +91,7 @@
        "location": ""
      },
      "aws": [{
-       "name": "Amazon Cognito",
+       "name": "Cognito",
        "ref": "",
        "icon": "Mobile-Services_AmazonCognito.png",
        "location": ""
@@ -134,7 +134,7 @@
        "location": ""
      },
      "aws": [{
-       "name": "Amazon Pinpoint",
+       "name": "Pinpoint",
        "ref": "",
        "icon": "aws.png",
        "location": ""
@@ -177,7 +177,7 @@
        "location": ""
      },
      "aws": [{
-       "name": "AWS Device Farm",
+       "name": "Device Farm",
        "ref": "",
        "icon": "Mobile-Services_AWSDeviceFarm.png",
        "location": ""
@@ -227,7 +227,7 @@
        "location": ""
      },
      "aws": [{
-       "name": "AWS Mobile SDK",
+       "name": "Mobile SDK",
        "ref": "",
        "icon": "SDKs_Android.png",
        "location": ""
@@ -270,7 +270,7 @@
        "location": ""
      },
      "aws": [{
-       "name": "AWS Step Functions",
+       "name": "Step Functions",
        "ref": "",
        "icon": "aws.png",
        "location": ""
@@ -338,7 +338,7 @@
        "location": ""
      },
      "aws": [{
-       "name": "Amazon Mobile Analytics",
+       "name": "Mobile Analytics",
        "ref": "https://aws.amazon.com/mobileanalytics/",
        "icon": "aws.png",
        "location": ""

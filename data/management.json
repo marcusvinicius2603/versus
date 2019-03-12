@@ -5,7 +5,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon EC2 Systems Manager",
+      "name": "EC2 Systems Manager",
       "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
       "icon": "aws.png",
       "location": ""
@@ -48,7 +48,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS CloudFormation",
+      "name": "CloudFormation",
       "ref": "https://aws.amazon.com/cloudformation/",
       "icon": "Management-Tools_AWSCloudFormation.png",
       "location": ""
@@ -105,13 +105,13 @@
       "location": ""
     },
     "aws": [{
-        "name": "Amazon CloudWatch",
+        "name": "CloudWatch",
         "ref": "https://aws.amazon.com/cloudwatch/",
         "icon": "Management-Tools_AWSCloudFormation.png",
         "location": ""
       },
       {
-        "name": "AWS CloudTrail",
+        "name": "CloudTrail",
         "ref": "https://aws.amazon.com/cloudtrail/",
         "icon": "Management-Tools_AWSCloudTrail.png",
         "location": ""
@@ -228,7 +228,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Config",
+      "name": "Config",
       "ref": "https://aws.amazon.com/config/",
       "icon": "Management-Tools_AWSConfig.png",
       "location": ""
@@ -284,7 +284,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS OpsWorks",
+      "name": "OpsWorks",
       "ref": "https://aws.amazon.com/opsworks/",
       "icon": "Management-Tools_AWSOpsWorks.png",
       "location": ""
@@ -340,7 +340,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Service Catalog",
+      "name": "Service Catalog",
       "ref": "https://aws.amazon.com/servicecatalog/",
       "icon": "Management-Tools_AWSServiceCatalog.png",
       "location": ""
@@ -383,13 +383,13 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Trusted Advisor",
+      "name": "Trusted Advisor",
       "ref": "https://aws.amazon.com/premiumsupport/trustedadvisor/",
       "icon": "Management-Tools_AWSTrustedAdvisor.png",
       "location": ""
     }],
     "azure": [{
-        "name": "Azure Advisor",
+        "name": "Advisor",
         "ref": "https://azure.microsoft.com/en-in/services/advisor/",
         "icon": "Azure Security Center.png",
         "location": ""
@@ -433,7 +433,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Personal Health Dashboard",
+      "name": "Personal Health Dashboard",
       "ref": "",
       "icon": "aws.png",
       "location": ""

@@ -5,13 +5,13 @@
       "location": ""
     },
     "aws": [{
-        "name": "Amazon Aurora",
+        "name": "Aurora",
         "ref": "https://aws.amazon.com/rds/aurora/details/",
         "icon": "aws.png",
         "location": ""
       },
       {
-        "name": "Amazon RDS",
+        "name": "RDS",
         "ref": "https://aws.amazon.com/rds/",
         "icon": "Database_AmazonRDS.png",
         "location": ""
@@ -133,19 +133,19 @@
       "location": ""
     },
     "aws": [{
-        "name": "Amazon DynamoDB",
+        "name": "DynamoDB",
         "ref": "https://aws.amazon.com/dynamodb/",
         "icon": "Database_AmazonDynamoDB.png",
         "location": ""
       },
       {
-        "name": "Amazon DynamoDB Accelerator (DAX)",
+        "name": "DynamoDB Accelerator (DAX)",
         "ref": "https://aws.amazon.com/dynamodb/dax/",
         "icon": "Database_AmazonDynamoDB.png",
         "location": ""
       },
       {
-        "name": "Amazon Neptune (Preview)",
+        "name": "Neptune (Preview)",
         "ref": "https://aws.amazon.com/neptune/",
         "icon": "aws.png",
         "location": ""
@@ -229,7 +229,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon DynamoDB",
+      "name": "DynamoDB",
       "ref": "https://aws.amazon.com/dynamodb/",
       "icon": "Database_AmazonDynamoDB.png",
       "location": ""
@@ -272,13 +272,13 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon ElastiCache",
+      "name": "ElastiCache",
       "ref": "https://aws.amazon.com/elasticache/",
       "icon": "Database_AmazonElasticCache.png",
       "location": ""
     }],
     "azure": [{
-      "name": "Azure RedisCache",
+      "name": "RedisCache",
       "ref": "https://azure.microsoft.com/en-in/services/cache/",
       "icon": "Azure Cache including Redis.png",
       "location": ""
@@ -315,7 +315,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon Redshift",
+      "name": "Redshift",
       "ref": "https://aws.amazon.com/redshift/",
       "icon": "Database_AmazonRedshift.png",
       "location": ""

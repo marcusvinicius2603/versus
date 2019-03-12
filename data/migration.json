@@ -5,7 +5,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Database Migration Service",
+      "name": "Database Migration Service",
       "ref": "https://aws.amazon.com/dms/",
       "icon": "Database_AWSDatabaseMigrationService.png",
       "location": ""
@@ -98,7 +98,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Import/Export",
+      "name": "Import/Export",
       "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
       "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
       "location": ""
@@ -148,7 +148,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Snowball",
+      "name": "Snowball",
       "ref": "https://aws.amazon.com/snowball/",
       "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
       "location": ""
@@ -191,7 +191,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Snowball Edge",
+      "name": "Snowball Edge",
       "ref": "https://aws.amazon.com/snowball-edge/",
       "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
       "location": ""
@@ -234,7 +234,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Snowmobile",
+      "name": "Snowmobile",
       "ref": "https://aws.amazon.com/snowmobile/",
       "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
       "location": ""

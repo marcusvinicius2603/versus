@@ -5,19 +5,19 @@
       "location": ""
     },
     "aws": [{
-        "name": "Amazon WorkDocs",
+        "name": "WorkDocs",
         "ref": "",
         "icon": "Enterprise-Applications_AmazonWorkDocs.png",
         "location": ""
       },
       {
-        "name": "Amazon WorkMail",
+        "name": "WorkMail",
         "ref": "",
         "icon": "Enterprise-Applications_AmazonWorkMail.png",
         "location": ""
       },
       {
-        "name": "Amazon WorkSpaces",
+        "name": "WorkSpaces",
         "ref": "",
         "icon": "Enterprise-Applications_AmazonWorkSpaces.png",
         "location": ""
@@ -61,7 +61,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon AppStream 2.0",
+      "name": "AppStream 2.0",
       "ref": "",
       "icon": "Application-Services_AmazonAppStream.png",
       "location": ""
@@ -104,7 +104,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Marketplace",
+      "name": "Marketplace",
       "ref": "",
       "icon": "aws.png",
       "location": ""

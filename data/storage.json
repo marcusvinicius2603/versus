@@ -5,7 +5,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon Simple Storage Service (S3)",
+      "name": "Simple Storage Service (S3)",
       "ref": "https://aws.amazon.com/documentation/s3/",
       "icon": "Storage-Content-Delivery_AmazonS3_bucket.png",
       "location": ""
@@ -48,7 +48,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon Elastic Block Storage (EBS)",
+      "name": "Elastic Block Storage (EBS)",
       "ref": "https://aws.amazon.com/ebs/",
       "icon": "Storage-Content-Delivery_AmazonEBS.png",
       "location": ""
@@ -98,7 +98,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon Elastic File System (EFS)",
+      "name": "Elastic File System (EFS)",
       "ref": "https://aws.amazon.com/efs/pricing/",
       "icon": "Storage-Content-Delivery_AmazonEFS.png",
       "location": ""
@@ -141,7 +141,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon Glacier",
+      "name": "Glacier",
       "ref": "https://aws.amazon.com/glacier/",
       "icon": "Storage-Content-Delivery_AmazonGlacier.png",
       "location": ""
@@ -198,7 +198,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "AWS Storage Gateway",
+      "name": "Storage Gateway",
       "ref": "https://aws.amazon.com/storagegateway/details/",
       "icon": "Storage-Content-Delivery_AWSStorageGateway.png",
       "location": ""

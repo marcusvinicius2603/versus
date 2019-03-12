@@ -5,7 +5,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon Athena",
+      "name": "Athena",
       "ref": "https://aws.amazon.com/athena/",
       "icon": "aws.png",
       "location": ""
@@ -48,7 +48,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon EMR",
+      "name": "EMR",
       "ref": "https://aws.amazon.com/emr/",
       "icon": "Analytics_AmazonEMR.png",
       "location": ""
@@ -141,13 +141,13 @@
       "location": ""
     },
     "aws": [{
-        "name": "Amazon Kinesis",
+        "name": "Kinesis",
         "ref": "https://aws.amazon.com/kinesis/streams/",
         "icon": "Analytics_AmazonKinesis.png",
         "location": ""
       },
       {
-        "name": "Amazon Kinesis Video Streams",
+        "name": "Kinesis Video Streams",
         "ref": "https://aws.amazon.com/blogs/aws/amazon-kinesis-video-streams-serverless-video-ingestion-and-storage-for-vision-enabled-apps/",
         "icon": "Analytics_AmazonKinesis.png",
         "location": ""
@@ -198,7 +198,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon Redshift",
+      "name": "Redshift",
       "ref": "https://aws.amazon.com/redshift/",
       "icon": "Database_AmazonRedshift.png",
       "location": ""
@@ -241,7 +241,7 @@
       "location": ""
     },
     "aws": [{
-      "name": "Amazon QuickSight",
+      "name": "QuickSight",
       "ref": "https://quicksight.aws/",
       "icon": "Analytics_AmazonQuickSight.png",
       "location": ""
@@ -291,19 +291,19 @@
       "location": ""
     },
     "aws": [{
-        "name": "AWS Data Pipeline",
+        "name": "Data Pipeline",
         "ref": "https://aws.amazon.com/datapipeline/",
         "icon": "Analytics_AWSDataPipeline.png",
         "location": ""
       },
       {
-        "name": "AWS Glue",
+        "name": "Glue",
         "ref": "https://aws.amazon.com/glue/",
         "icon": "aws.png",
         "location": ""
       },
       {
-        "name": "Amazon Simple Workflow Service (SWF)",
+        "name": "Simple Workflow Service (SWF)",
         "ref": "https://aws.amazon.com/swf/",
         "icon": "aws.png",
         "location": ""
