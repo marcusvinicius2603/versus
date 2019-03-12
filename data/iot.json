@@ -2,157 +2,157 @@
     "service": {
       "name": "IoT Platform",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS IoT Platform",
       "ref": "",
       "icon": "Internet-Of-Things_AWSIoT.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
         "name": "Azure IoT Platform",
         "ref": "https://azure.microsoft.com/en-us/overview/iot/",
         "icon": "Azure IoT Hub.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure IoT Hub",
         "ref": "https://azure.microsoft.com/en-us/services/iot-hub/",
         "icon": "Azure IoT Hub.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "google": [{
         "name": "Cloud IoT Core (Beta)",
         "ref": "https://cloud.google.com/iot-core/",
         "icon": "Google-Cloud-Platform.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Google Cloud IoT",
         "ref": "https://cloud.google.com/solutions/iot/",
         "icon": "Google-Cloud-Platform.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "ibm": [{
       "name": "Internet of Things Platform",
       "ref": "https://console.ng.bluemix.net/catalog/services/internet-of-things-platform/",
       "icon": "internet-of-things.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "Internet of Things Cloud Service",
       "ref": "https://cloud.oracle.com/en_US/iot",
       "icon": "InternetOfThings.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "IoT Platform",
       "ref": "https://www.alibabacloud.com/product/iot",
       "icon": "iot.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "IoT Development Solutions",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS Greengrass",
       "ref": "",
       "icon": "aws.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
         "name": "Azure IoT SDK",
         "ref": "",
         "icon": "Azure SDK.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure IoT Edge",
         "ref": "https://azure.microsoft.com/en-us/blog/microsoft-launches-azure-iot-technical-training-developers-can-start-quickly-with-iot/",
         "icon": "Azure SDK.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "google": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
         "name": "Edge Analytics",
         "ref": "https://console.bluemix.net/docs/services/IoT/gateways/gw_dev_index.html#eaa_community",
         "icon": "ibmcloud.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Watson IoT Platform Edge",
         "ref": "https://console.bluemix.net/docs/services/IoT/edge/WIoTP_edge.html#edge_overview",
         "icon": "ibmcloud.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "IoT Hardware",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS IoT Button",
       "ref": "",
       "icon": "aws.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
       "name": "Azure Sphere",
       "ref": "https://azure.microsoft.com/en-us/services/azure-sphere/",
       "icon": "Azure%20IoT%20Hub.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "google": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   }
 ]

@@ -2,138 +2,138 @@
     "service": {
       "name": "Server Management Services",
       "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "Amazon EC2 Systems Manager",
       "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
       "icon": "aws.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
       "name": "Azure Operational Insights ",
       "ref": "https://azure.microsoft.com/en-us/resources/videos/azure-operational-insights-overview/",
       "icon": "Operations Management Suite (OMS).png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "google": [{
       "name": "",
       "ref": "http://#",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "Oracle Management Cloud",
       "ref": "https://cloud.oracle.com/management",
       "icon": "oracle.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "Cloud Deployment Templates/ Infra as Code",
       "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS CloudFormation",
       "ref": "https://aws.amazon.com/cloudformation/",
       "icon": "Management-Tools_AWSCloudFormation.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
         "name": "Azure Resource Manager",
         "ref": "https://azure.microsoft.com/en-us/features/resource-manager/",
         "icon": "Resource Group.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure Building Blocks",
         "ref": "https://azure.microsoft.com/en-in/resources/videos/azure-building-blocks-20-azbb/",
         "icon": "Resource Group.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "google": [{
         "name": "Cloud Resource Manager",
         "ref": "https://cloud.google.com/resource-manager/",
         "icon": "Generic-GCP.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Cloud Deployment Manager",
         "ref": "https://cloud.google.com/deployment-manager/",
         "icon": "Generic-GCP.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "ibm": [{
       "name": "Terraform",
       "ref": "https://ibm-cloud.github.io/tf-ibm-docs/index.html",
       "icon": "schematics_icon.svg",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "Stack Manager",
       "ref": "https://docs.oracle.com/cloud/latest/stack-manager-cloud/index.html",
       "icon": "oracle.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "Resource Orchestration Service",
       "ref": "https://www.alibabacloud.com/product/ros",
       "icon": "ros.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "Logging & Monitoring",
       "ref": "https://en.wikipedia.org/wiki/Log_management",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
         "name": "Amazon CloudWatch",
         "ref": "https://aws.amazon.com/cloudwatch/",
         "icon": "Management-Tools_AWSCloudFormation.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "AWS CloudTrail",
         "ref": "https://aws.amazon.com/cloudtrail/",
         "icon": "Management-Tools_AWSCloudTrail.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "azure": [{
         "name": "Log Analytics",
         "ref": "https://azure.microsoft.com/en-in/services/log-analytics/",
         "icon": "OMS Log Analytics.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure portal",
         "ref": "https://portal.azure.com/#",
         "icon": "Azure Management Portal.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Application Insights",
         "ref": "https://azure.microsoft.com/en-in/services/application-insights/",
         "icon": "Azure Application Insights.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
 
     ],
@@ -141,82 +141,82 @@
         "name": "Google StackDriver",
         "ref": "https://cloud.google.com/stackdriver/",
         "icon": "Stackdriver.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Monitoring",
         "ref": "https://cloud.google.com/monitoring/",
         "icon": "Monitoring.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Logging",
         "ref": "https://cloud.google.com/logging/",
         "icon": "Logging.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Error Reporting",
         "ref": "https://cloud.google.com/error-reporting/",
         "icon": "Error-Reporting.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Trace",
         "ref": "https://cloud.google.com/trace/",
         "icon": "Trace.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Debugger",
         "ref": "https://cloud.google.com/debugger/",
         "icon": "Debugger.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "ibm": [{
         "name": "Log Analysis",
         "ref": "https://console.bluemix.net/catalog/services/log-analysis",
         "icon": "log-analysis.svg",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Monitoring",
         "ref": "https://console.bluemix.net/catalog/services/monitoring",
         "icon": "monitoring.svg",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "oracle": [{
         "name": "Application Performance Monitoring",
         "ref": "https://cloud.oracle.com/application-performance-monitoring",
         "icon": "AppPerfMonitoring.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Management Cloud",
         "ref": "",
         "icon": "AppPerfMonitoring.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "alibaba": [{
         "name": "CloudMonitor",
         "ref": "https://www.alibabacloud.com/product/cloud-monitor",
         "icon": "CloudMonitor.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "ActionTrail",
         "ref": "https://www.alibabacloud.com/product/actiontrail",
         "icon": "CloudMonitor.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Application Real-Time Monitoring Service",
         "ref": "https://www.alibabacloud.com/product/arms",
         "icon": "CloudMonitor.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ]
   },
@@ -225,461 +225,461 @@
     "service": {
       "name": "Resource / Configuration Inventory",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS Config",
       "ref": "https://aws.amazon.com/config/",
       "icon": "Management-Tools_AWSConfig.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
       "name": "Azure portal (audit logs)",
       "ref": "",
       "icon": "Azure Management Portal.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "google": [{
         "name": "Cloud Security Scanner",
         "ref": "",
         "icon": "Generic-GCP.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Cloud Data Loss Prevention Api",
         "ref": "https://cloud.google.com/dlp/",
         "icon": "Generic-GCP.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Access Transparency (Beta)",
         "ref": "https://cloud.google.com/access-transparency/",
         "icon": "Generic-GCP.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "Oracle Cloud Governance Services",
       "ref": "https://cloud.oracle.com/en_US/governance",
       "icon": "service-governance.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "Alibaba Log Service",
       "ref": "https://www.alibabacloud.com/product/log-service",
       "icon": "log-service.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "Server Automation",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS OpsWorks",
       "ref": "https://aws.amazon.com/opsworks/",
       "icon": "Management-Tools_AWSOpsWorks.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
         "name": "Resource Manager",
         "ref": "https://azure.microsoft.com/en-us/features/resource-manager/",
         "icon": "Resource Group.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure Automation",
         "ref": "https://docs.microsoft.com/en-us/azure/automation/",
         "icon": "Azure Automation.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "VM Extentions",
         "ref": "https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-extensions-features",
         "icon": "Azure VM symbol only.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "google": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "Oracle Orchestration Cloud Service",
       "ref": "https://cloud.oracle.com/en_US/orchestration",
       "icon": "oracle.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "Resource Orchestration Service ",
       "ref": "https://www.alibabacloud.com/product/ros",
       "icon": "ros.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "Server Automation",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS Service Catalog",
       "ref": "https://aws.amazon.com/servicecatalog/",
       "icon": "Management-Tools_AWSServiceCatalog.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "google": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "Cloud Cost / Performance / Security Advisor",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS Trusted Advisor",
       "ref": "https://aws.amazon.com/premiumsupport/trustedadvisor/",
       "icon": "Management-Tools_AWSTrustedAdvisor.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
         "name": "Azure Advisor",
         "ref": "https://azure.microsoft.com/en-in/services/advisor/",
         "icon": "Azure Security Center.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure Cost Management",
         "ref": "https://azure.microsoft.com/en-us/services/cost-management/",
         "icon": "Azure Security Center.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "google": [{
       "name": "Google Cloud Platform Security",
       "ref": "https://cloud.google.com/security/",
       "icon": "Generic-GCP.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "Alerts and Remediation guidance Service",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS Personal Health Dashboard",
       "ref": "",
       "icon": "aws.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
         "name": "Azure Monitor",
         "ref": "https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-azure-monitor",
         "icon": "Azure monitor.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure Operations Management Suite (OMS)",
         "ref": "https://www.microsoft.com/en-us/cloud-platform/operations-management-suite",
         "icon": "Azure OMS.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "google": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "Oracle Management Cloud",
       "ref": "https://cloud.oracle.com/en_US/management",
       "icon": "oracle.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "Cloud monitoring, Notification and Alerts",
       "ref": "https://www.alibabacloud.com/product/cloud-monitor",
       "icon": "CloudMonitor.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "Cloud Management Tools",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
         "name": "AWS Command Line Interface",
         "ref": "",
         "icon": "SDKs_AWSCLI.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "AWS Management Console",
         "ref": "",
         "icon": "aws.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "azure": [{
         "name": "Azure Command Line Interface",
         "ref": "",
         "icon": "Microsoft Azure.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure Powershell",
         "ref": "https://docs.microsoft.com/en-us/powershell/azure/overview?view=azurermps-6.3.0",
         "icon": "Microsoft Azure.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure Management Console",
         "ref": "",
         "icon": "Azure Management Portal.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure Cloud Shell",
         "ref": "https://azure.microsoft.com/en-us/features/cloud-shell/",
         "icon": "Azure Management Portal.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "google": [{
         "name": "Cloud Shell",
         "ref": "https://cloud.google.com/shell/",
         "icon": "Generic-GCP.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Cloud Console",
         "ref": "https://cloud.google.com/cloud-console/",
         "icon": "Generic-GCP.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Billing API",
         "ref": "https://cloud.google.com/billing/docs/",
         "icon": "Generic-GCP.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Cloud APIs",
         "ref": "https://cloud.google.com/apis/",
         "icon": "Generic-GCP.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
         "name": "Oracle Public Cloud CLI",
         "ref": "https://#",
         "icon": "oracle.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Oracle Cloud Infrastructure CLI",
         "ref": "https://#",
         "icon": "oracle.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Oracle Management Console",
         "ref": "https://#",
         "icon": "oracle.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "API Catalog",
         "ref": "https://apicatalog.oraclecloud.com/ui/",
         "icon": "oracle.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "alibaba": [{
       "name": "Alibaba Cloud CLI",
       "ref": "https://www.alibabacloud.com/help/doc-detail/66653.htm",
       "icon": "alibaba.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "Automated Infra Management Services",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS Managed Services",
       "ref": "https://aws.amazon.com/managed-services/",
       "icon": "aws.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "google": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "Oracle Managed Cloud Services",
       "ref": "https://www.oracle.com/fr/cloud/managed-cloud.html",
       "icon": "oracle.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   },
   {
     "service": {
       "name": "Automated Disaster Recovery Services",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS Disaster Recovery",
       "ref": "https://aws.amazon.com/disaster-recovery/",
       "icon": "aws.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
         "name": "Azure Site Recovery",
         "ref": "https://azure.microsoft.com/en-us/services/site-recovery/",
         "icon": "Azure Site Recovery.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Azure Backup",
         "ref": "https://azure.microsoft.com/en-us/services/backup/",
         "icon": "Azure Backup.png",
-        "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ],
     "google": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "Oracle Database Backup",
       "ref": "https://cloud.oracle.com/en_US/database-backup/features",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
         "name": "Alibaba Disaster Recovery",
         "ref": "https://www.alibabacloud.com/solutions/hosting/Disaster-Recovery",
         "icon": "alibaba.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       },
       {
         "name": "Hybrid Backup Recovery",
         "ref": "https://www.alibabacloud.com/product/hbr",
         "icon": "alibaba.png",
-        "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+        "location": ""
       }
     ]
   },
@@ -687,43 +687,43 @@
     "service": {
       "name": "Managed Cloud Services",
       "ref": "",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     },
     "aws": [{
       "name": "AWS Managed Services",
       "ref": "https://aws.amazon.com/managed-services/",
       "icon": "Application-Services_AmazonAppStream.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "azure": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "google": [{
       "name": "",
       "ref": "",
       "icon": "none.png",
-      "Properties": ["To be added", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "Properties": ["Yes", "To be added", "To be added", "To be added", "To be added"]
+      "location": ""
     }]
   }
 ]
