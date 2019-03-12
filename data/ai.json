@@ -8,7 +8,7 @@
         "name": "Lex",
         "ref": "https://aws.amazon.com/lex/",
         "icon": "aws.png",
-        "location": "SAO 01"
+        "location": "Location: none"
       },
       {
         "name": "Comprehend",
