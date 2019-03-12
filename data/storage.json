@@ -2,236 +2,236 @@
     "service": {
       "name": "Object Storage",
       "ref": "https://",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Simple Storage Service (S3)",
       "ref": "https://aws.amazon.com/documentation/s3/",
       "icon": "Storage-Content-Delivery_AmazonS3_bucket.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
       "name": "Blob Storage",
       "ref": "https://azure.microsoft.com/en-in/services/storage/blobs/",
       "icon": "Azure Storage - Blob.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "google": [{
       "name": "Cloud Storage",
       "ref": "https://cloud.google.com/storage/",
       "icon": "Cloud-Storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "Cloud Object Storage",
       "ref": "https://www.ibm.com/cloud/object-storage",
       "icon": "object-storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "Object Storage",
       "ref": "https://cloud.oracle.com/storage",
       "icon": "storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "Object Storage Service",
       "ref": "https://www.alibabacloud.com/product/oss",
       "icon": "OSS.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "Virtual Machine Disk Storage",
       "ref": "http://##",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Elastic Block Storage (EBS)",
       "ref": "https://aws.amazon.com/ebs/",
       "icon": "Storage-Content-Delivery_AmazonEBS.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
         "name": "Page Blobs / Premium Storage",
         "ref": "https://azure.microsoft.com/en-in/services/storage/disks/",
         "icon": "VHD data disk.png",
-        "location": ""
+        "location": "Location: none"
       },
       {
         "name": "Managed Disks",
         "ref": "https://azure.microsoft.com/en-us/services/managed-disks/",
         "icon": "VHD data disk.png",
-        "location": ""
+        "location": "Location: none"
       }
     ],
     "google": [{
       "name": "Persistent Disk",
       "ref": "https://cloud.google.com/persistent-disk/",
       "icon": "Persistent-Disk.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "Block Storage",
       "ref": "https://console.bluemix.net/catalog/infrastructure/block-storage",
       "icon": "block-storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "Block Storage",
       "ref": "https://cloud.oracle.com/en_US/storage/object-storage/features",
       "icon": "storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "Block Storage",
       "ref": "https://#",
       "icon": "OSS.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "File Storage (SMB Compatible)",
       "ref": "https://en.wikipedia.org/wiki/Network-attached_storage",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Elastic File System (EFS)",
       "ref": "https://aws.amazon.com/efs/pricing/",
       "icon": "Storage-Content-Delivery_AmazonEFS.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
       "name": "File Storage",
       "ref": "https://azure.microsoft.com/en-in/services/storage/files/",
       "icon": "Azure Storage - Files.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "google": [{
       "name": "File Store",
       "ref": "http://cloud.google.com/filestore",
       "icon": "Persistent-Disk.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "File Storage",
       "ref": "https://console.bluemix.net/catalog/infrastructure/file-storage",
       "icon": "file-storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "Oracle Cloud Infrastructure File Storage",
       "ref": "https://cloud.oracle.com/storage/file-storage/features",
       "icon": "storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "NAS File Storage",
       "ref": "https://www.alibabacloud.com/product/nas",
       "icon": "nas.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "Long Term Cold Storage",
       "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Glacier",
       "ref": "https://aws.amazon.com/glacier/",
       "icon": "Storage-Content-Delivery_AmazonGlacier.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
         "name": "Archive Storage",
         "ref": "https://azure.microsoft.com/en-us/services/storage/archive/",
         "icon": "Azure Storage.png",
-        "location": ""
+        "location": "Location: none"
       },
       {
         "name": "Cool Storage",
         "ref": "https://azure.microsoft.com/en-in/pricing/details/storage/blobs/",
         "icon": "Azure Storage.png",
-        "location": ""
+        "location": "Location: none"
       }
     ],
     "google": [{
         "name": "Cloud Storage",
         "ref": "https://cloud.google.com/storage/",
         "icon": "Cloud-Storage.png",
-        "location": ""
+        "location": "Location: none"
       },
       {
         "name": "Archival Storage (NEARLINE & COLDLINE)",
         "ref": "https://cloud.google.com/storage/archival/",
         "icon": "Cloud-Storage.png",
-        "location": ""
+        "location": "Location: none"
       }
     ],
     "ibm": [{
       "name": "Object Storage-ColdVault",
       "ref": "https://www.ibm.com/cloud/object-storage",
       "icon": "ibmcloud.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "Archive Storage",
       "ref": "https://cloud.oracle.com/storage-classic/archive-storage/features",
       "icon": "storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "Object Storage Archive",
       "ref": "https://www.alibabacloud.com/product/oss",
       "icon": "OSS.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "Hybrid Storage/Storage Gateway",
       "ref": "https://en.wikipedia.org/wiki/Cloud_storage_gateway",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Storage Gateway",
       "ref": "https://aws.amazon.com/storagegateway/details/",
       "icon": "Storage-Content-Delivery_AWSStorageGateway.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
       "name": "Storsimple",
       "ref": "https://azure.microsoft.com/en-in/services/storsimple/",
       "icon": "Azure StorSimple.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "google": [{
       "name": "",
       "ref": "http://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "Storage Software Appliance",
       "ref": "https://cloud.oracle.com/en_US/storage-classic/storage-appliance/features/",
       "icon": "storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "Hybrid Cloud Storage Array",
       "ref": "https://www.alibabacloud.com/product/storage-array",
       "icon": "alibaba.png",
-      "location": ""
+      "location": "Location: none"
     }]
   }
 ]

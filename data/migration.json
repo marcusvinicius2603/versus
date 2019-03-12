@@ -2,315 +2,315 @@
     "service": {
       "name": "Database Migration Services",
       "ref": "https://en.wikipedia.org/wiki/Data_migration",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Database Migration Service",
       "ref": "https://aws.amazon.com/dms/",
       "icon": "Database_AWSDatabaseMigrationService.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
       "name": "Database Migration Service (Preview)",
       "ref": "https://azure.microsoft.com/en-in/blog/azure-database-migration-service-announcement-at-build/",
       "icon": "Microsoft Azure.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "google": [{
       "name": "",
       "ref": "#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "Lift",
       "ref": "https://console.ng.bluemix.net/catalog/services/lift/",
       "icon": "lift.svg",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "Migrate to the Cloud",
       "ref": "https://www.oracle.com/database/migration-to-cloud.html",
       "icon": "storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "Data Transmission Service",
       "ref": "https://www.alibabacloud.com/product/data-transmission-service",
       "icon": "dts.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "Server Migration Services",
       "ref": "#",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Server Migration Service",
       "ref": "https://aws.amazon.com/server-migration-service/",
       "icon": "aws.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
         "name": "Site Recovery",
         "ref": "https://docs.microsoft.com/azure/site-recovery/site-recovery-migrate-to-azure",
         "icon": "Azure Site Recovery.png",
-        "location": ""
+        "location": "Location: none"
       },
       {
         "name": "Websites Migration Assistant",
         "ref": "https://azure.microsoft.com/en-us/downloads/migration-assistant/",
         "icon": "Microsoft Azure.png",
-        "location": ""
+        "location": "Location: none"
       }
     ],
     "google": [{
       "name": "",
       "ref": "#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "Small Scale Data Transfer Service",
       "ref": "http://#",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Import/Export",
       "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
       "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
       "name": "Import/Export",
       "ref": "https://azure.microsoft.com/en-in/pricing/details/storage-import-export/",
       "icon": "Microsoft Azure.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "google": [{
       "name": "",
       "ref": "http://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
         "name": "Data Transfer Service",
         "ref": "https://console.bluemix.net/docs/infrastructure/DataTransferService/index.html#getting-started-with-data-transfer-service",
         "icon": "ibmcloud.png",
-        "location": ""
+        "location": "Location: none"
       },
       {
         "name": "Aspera High-speed Transfer",
         "ref": "https://console.bluemix.net/docs/services/cloud-object-storage/basics/upload.html#high-speed-transfer",
         "icon": "ibmcloud.png",
-        "location": ""
+        "location": "Location: none"
       }
     ],
     "oracle": [{
       "name": "Data Transfer Services - Hard Disk Import",
       "ref": "https://cloud.oracle.com/en_US/storage/data-transfer-services/features",
       "icon": "storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "Large Scale Data Transfer Solution (Petabyte Scale)",
       "ref": "http://#",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Snowball",
       "ref": "https://aws.amazon.com/snowball/",
       "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
       "name": "",
       "ref": "#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "google": [{
       "name": "",
       "ref": "#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "Mass Data Migration Service",
       "ref": "https://console.bluemix.net/docs/infrastructure/mass-data-migration/index.html#getting-started-with-ibm-cloud-mass-data-migration",
       "icon": "ibmcloud.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "Data Transfer Services - Storage applicance import",
       "ref": "https://cloud.oracle.com/en_US/storage/data-transfer-services/features",
       "icon": "storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "Data Transport",
       "ref": "https://www.alibabacloud.com/product/data-transport",
       "icon": "alibaba.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "Large Scale Data Transfer Solution (Terabyte Scale)",
       "ref": "http://#",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Snowball Edge",
       "ref": "https://aws.amazon.com/snowball-edge/",
       "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
       "name": "Data Box (Preview)",
       "ref": "https://azure.microsoft.com/en-us/services/storage/databox/",
       "icon": "Microsoft Azure.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "google": [{
       "name": "Transfer Appliance (Beta)",
       "ref": "https://cloud.google.com/transfer-appliance/",
       "icon": "Generic-GCP.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "Mass Data Migration Service",
       "ref": "https://console.bluemix.net/docs/infrastructure/mass-data-migration/index.html#getting-started-with-ibm-cloud-mass-data-migration",
       "icon": "ibmcloud.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "Data Transfer Services - Storage applicance import",
       "ref": "https://cloud.oracle.com/en_US/storage/data-transfer-services/features",
       "icon": "storage.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "Data Transport",
       "ref": "https://www.alibabacloud.com/product/data-transport",
       "icon": "alibaba.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "Large Scale Data Transfer Solution (Exabyte Scale)",
       "ref": "http://#",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Snowmobile",
       "ref": "https://aws.amazon.com/snowmobile/",
       "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
       "name": "",
       "ref": "#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "google": [{
       "name": "",
       "ref": "#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }]
   },
   {
     "service": {
       "name": "Application Discovery Services",
       "ref": "http://#",
-      "location": ""
+      "location": "Location: none"
     },
     "aws": [{
       "name": "Application Discovery Service",
       "ref": "https://aws.amazon.com/application-discovery/",
       "icon": "Storage-Content-Delivery_AWSImportExportSnowball.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "azure": [{
       "name": "Active Directory",
       "ref": "https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/cloud-app-discovery",
       "icon": "Azure%20Active%20Directory.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "google": [{
       "name": "",
       "ref": "#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "ibm": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": ""
+      "location": "Location: none"
     }]
   }
 ]
