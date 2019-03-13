@@ -44,7 +44,7 @@ function dataprocessor(input, type) {
     if (input.length > 1) {
         trHTML += '<td><ul>';
         for (var i in input) {
-            trHTML += '<li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[i].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[i].ref + '">' + input[i].name + '<span class="tooltiptext">'+ formatLocation(input[i].location) + '</span></a></div></li>';
+            trHTML += '<li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[i].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[i].ref + '">' + input[i].name + '<span class="tooltiptext">' + formatLocation(input[i].location) + '</span></a></div></li>';
         }
         trHTML += '</ul></td>';
     } else {
@@ -52,7 +52,7 @@ function dataprocessor(input, type) {
             trHTML += '<td>' + '<i class="fas fa-ban" style="color: red; font-size: 24px"></i>' + '</td>'
         } else {
             for (var i in input) {
-                trHTML += '<td><ul><li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[0].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[0].ref + '">' + input[0].name + '<span class="tooltiptext">'+ formatLocation(input[0].location) + '</span></a></li></ul></td>';
+                trHTML += '<td><ul><li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[0].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[0].ref + '">' + input[0].name + '<span class="tooltiptext">' + formatLocation(input[0].location) + '</span></a></li></ul></td>';
             }
         }
     }
@@ -60,5 +60,10 @@ function dataprocessor(input, type) {
 }
 
 function formatLocation(raw) {
-    return "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + raw;
+    // return "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: " + raw + "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + raw;
+    return "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location:<br><ul><li style='list-style: circle; color:white; margin-left:30px'>" + strReplace(raw) + "</li></ul>";
+}
+
+function strReplace(myStr) {
+    return newStr = myStr.replace(/;/g, "</li><li style='list-style: circle; color:white; margin-left:30px'>");
 }

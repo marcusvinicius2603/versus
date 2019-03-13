@@ -2,19 +2,19 @@
     "service": {
       "name": "Language Processing AI",
       "ref": "",
-      "location": "Location: none"
+      "location": "none"
     },
     "aws": [{
         "name": "Lex",
         "ref": "https://aws.amazon.com/lex/",
         "icon": "aws.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Comprehend",
         "ref": "https://aws.amazon.com/comprehend/",
         "icon": "aws.png",
-        "location": "Location: none"
+        "location": "none"
       }
 
     ],
@@ -22,295 +22,295 @@
         "name": "LUIS (Language Understanding Intelligent Service)",
         "ref": "https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/",
         "icon": "Azure Cognative Services - luis_COLOR.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Bot Service",
         "ref": "https://azure.microsoft.com/en-us/services/bot-service/",
         "icon": "Azure Cognative Services - Speech_COLOR.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Speech Recognition API",
         "ref": "https://azure.microsoft.com/en-in/services/cognitive-services/speech/",
         "icon": "Azure Cognative Services - Speech_COLOR.png",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "google": [{
         "name": "Natural Language API",
         "ref": "https://cloud.google.com/natural-language/",
         "icon": "Natural-Language-API.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Cloud Text-to-Speech (Beta)",
         "ref": "https://cloud.google.com/text-to-speech/",
         "icon": "Natural-Language-API.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "DialogFlow Enterprise Edition (Beta)",
         "ref": "https://cloud.google.com/dialogflow-enterprise/",
         "icon": "Natural-Language-API.png",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "ibm": [{
         "name": "Natural Language Classifier",
         "ref": "https://console.ng.bluemix.net/catalog/services/natural-language-classifier/",
         "icon": "natural-language-classifier.svg",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Language Translator",
         "ref": "https://console.ng.bluemix.net/catalog/services/language-translator/",
         "icon": "language-translator.svg",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Watson Assistant",
         "ref": "https://console.bluemix.net/catalog/services/watson-assistant-formerly-conversation",
         "icon": "watson-assistant.svg",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Discovery",
         "ref": "https://console.ng.bluemix.net/catalog/services/discovery/",
         "icon": "discovery.svg",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Knowledge Studio",
         "ref": "https://console.bluemix.net/catalog/services/knowledge-studio",
         "icon": "knowledge-studio.svg",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": " Text to Speech",
         "ref": "https://console.bluemix.net/catalog/services/text-to-speech",
         "icon": "text-to-speech.svg",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Personality Insights",
         "ref": "https://console.ng.bluemix.net/catalog/services/personality-insights/",
         "icon": "personality-insights.svg",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": "Location: none"
+      "location": "none"
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": "Location: none"
+      "location": "none"
     }]
   },
   {
     "service": {
       "name": "Speech Recognition AI",
       "ref": "",
-      "location": "Location: none"
+      "location": "none"
     },
     "aws": [{
         "name": "Polly",
         "ref": "",
         "icon": "aws.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Transcribe",
         "ref": "https://aws.amazon.com/transcribe/",
         "icon": "aws.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Translate",
         "ref": "https://aws.amazon.com/translate/",
         "icon": "aws.png",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "azure": [{
       "name": "Speech API",
       "ref": "",
       "icon": "Azure Cognative Services - Speech_COLOR.png",
-      "location": "Location: none"
+      "location": "none"
     }],
     "google": [{
         "name": "Translation API",
         "ref": "https://cloud.google.com/translate/",
         "icon": "Speech-API.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Speech API",
         "ref": "https://cloud.google.com/speech/",
         "icon": "Speech-API.png",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "ibm": [{
       "name": "Speech to Text",
       "ref": "https://console.bluemix.net/catalog/services/speech-to-text",
       "icon": "speech-to-text.svg",
-      "location": "Location: none"
+      "location": "none"
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": "Location: none"
+      "location": "none"
     }],
     "alibaba": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": "Location: none"
+      "location": "none"
     }]
   },
   {
     "service": {
       "name": "Image Recognition AI",
       "ref": "",
-      "location": "Location: none"
+      "location": "none"
     },
     "aws": [{
       "name": "Rekognition",
       "ref": "",
       "icon": "aws.png",
-      "location": "Location: none"
+      "location": "none"
     }],
     "azure": [{
         "name": "Emotion API",
         "ref": "https://azure.microsoft.com/en-us/services/cognitive-services/emotion/",
         "icon": "Azure Cognative Services - emotion_COLOR.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Face API",
         "ref": "https://azure.microsoft.com/en-us/services/cognitive-services/face/",
         "icon": "Azure Cognative Services - emotion_COLOR.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Computer Vision API",
         "ref": "",
         "icon": "Azure Cognative Services - emotion_COLOR.png",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "google": [{
         "name": "Vision API",
         "ref": "",
         "icon": "Vision-API.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Cloud Video Intelligence",
         "ref": "https://cloud.google.com/video-intelligence/",
         "icon": "Vision-API.png",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "ibm": [{
       "name": "Visual Recognition",
       "ref": "https://console.ng.bluemix.net/catalog/services/visual-recognition/",
       "icon": "visual-recognition.svg",
-      "location": "Location: none"
+      "location": "none"
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": "Location: none"
+      "location": "none"
     }],
     "alibaba": [{
       "name": "Image Search",
       "ref": "https://www.alibabacloud.com/product/imagesearch",
       "icon": "alibaba.png",
-      "location": "Location: none"
+      "location": "none"
     }]
   },
   {
     "service": {
       "name": "Machine Learning",
       "ref": "",
-      "location": "Location: none"
+      "location": "none"
     },
     "aws": [{
         "name": "Machine Learning",
         "ref": "",
         "icon": "Analytics_AmazonMachineLearning.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Sage​Maker",
         "ref": "https://aws.amazon.com/sagemaker/",
         "icon": "Analytics_AmazonMachineLearning.png",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "azure": [{
         "name": "Machine Learning",
         "ref": "https://studio.azureml.net/",
         "icon": "Azure Machine Learning.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Machine Learning Workbench",
         "ref": "https://docs.microsoft.com/en-in/azure/machine-learning/preview/quickstart-installation",
         "icon": "Azure Machine Learning.png",
-        "location": "Location: none"
+        "location": "none"
       }, {
         "name": "Machine Learning Model Management",
         "ref": "https://docs.microsoft.com/en-in/azure/machine-learning/preview/model-management-overview",
         "icon": "Azure Machine Learning.png",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "google": [{
         "name": "Cloud DataLab",
         "ref": "",
         "icon": "Cloud-Datalab.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Cloud AutoML (Alpha)",
         "ref": "https://cloud.google.com/automl/",
         "icon": "Cloud-Datalab.png",
-        "location": "Location: none"
+        "location": "none"
       },
       {
         "name": "Cloud Machine Learning Services",
         "ref": "",
         "icon": "Cloud-Machine-Learning.png",
-        "location": "Location: none"
+        "location": "none"
       }
     ],
     "ibm": [{
       "name": "Machine Learning",
       "ref": "https://console.bluemix.net/catalog/services/machine-learning",
       "icon": "machine-learning.png",
-      "location": "Location: none"
+      "location": "none"
     }],
     "oracle": [{
       "name": "",
       "ref": "https://#",
       "icon": "none.png",
-      "location": "Location: none"
+      "location": "none"
     }],
     "alibaba": [{
       "name": "Machine Learning Platform For AI",
       "ref": "https://www.alibabacloud.com/product/machine-learning",
       "icon": "alibaba.png",
-      "location": "Location: none"
+      "location": "none"
     }]
   }
 ]
