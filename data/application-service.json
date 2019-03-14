@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "API Management Service",
       "ref": "",
       "location": "none"
@@ -68,6 +69,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Media Transcoders",
       "ref": "",
       "location": "none"
@@ -173,6 +175,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Queuing Services",
       "ref": "",
       "location": "none"
@@ -249,6 +252,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Mobile Analytics",
       "ref": "",
       "location": "none"
@@ -292,6 +296,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Email Services",
       "ref": "",
       "location": "none"
@@ -335,6 +340,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Notification Services",
       "ref": "",
       "location": "none"
@@ -379,6 +385,7 @@
 
   {
     "service": {
+      "desc": "none",
       "name": "Blockchain Services",
       "ref": "",
       "location": "none"
@@ -429,6 +436,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Chatbot",
       "ref": "",
       "location": "none"

@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "Cloud Software Development Kit",
       "ref": "",
       "location": "none"
@@ -106,6 +107,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Cloud Software Development Kit",
       "ref": "",
       "location": "none"
@@ -194,6 +196,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Game Development",
       "ref": "",
       "location": "none"
@@ -237,6 +240,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Development & Testing",
       "ref": "",
       "location": "none"

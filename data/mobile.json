@@ -1,5 +1,6 @@
  [{
      "service": {
+       "desc": "none",
        "name": "Mobile App Development Services",
        "ref": "",
        "location": "none"
@@ -43,6 +44,7 @@
    },
    {
      "service": {
+       "desc": "none",
        "name": "Web API Management Service",
        "ref": "",
        "location": "none"
@@ -86,6 +88,7 @@
    },
    {
      "service": {
+       "desc": "none",
        "name": "Web/Mobile Authentication Services",
        "ref": "",
        "location": "none"
@@ -129,6 +132,7 @@
    },
    {
      "service": {
+       "desc": "none",
        "name": "Consolidated Mgmt of Multiple Cloud Accounts",
        "ref": "",
        "location": "none"
@@ -172,6 +176,7 @@
    },
    {
      "service": {
+       "desc": "none",
        "name": "Mobile App Testing Service",
        "ref": "",
        "location": "none"
@@ -222,6 +227,7 @@
    },
    {
      "service": {
+       "desc": "none",
        "name": "Mobile App Software Development Toolkit",
        "ref": "",
        "location": "none"
@@ -265,6 +271,7 @@
    },
    {
      "service": {
+       "desc": "none",
        "name": "Application Services",
        "ref": "",
        "location": "none"
@@ -333,6 +340,7 @@
    },
    {
      "service": {
+       "desc": "none",
        "name": "Mobile App Analytics",
        "ref": "",
        "location": "none"

@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "Virtual Networking",
       "ref": "",
       "location": "none"
@@ -44,6 +45,7 @@
 
   {
     "service": {
+      "desc": "none",
       "name": "Network Gateway",
       "ref": "",
       "location": "none"
@@ -87,6 +89,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Content Delivery Network",
       "ref": "",
       "location": "none"
@@ -130,6 +133,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Networking & Content Delivery",
       "ref": "",
       "location": "none"
@@ -173,6 +177,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Global Traffic Management",
       "ref": "",
       "location": "none"
@@ -216,6 +221,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Private Connectivity",
       "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
       "location": "none"
@@ -266,6 +272,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Load Balancers",
       "ref": "https://en.wikipedia.org/wiki/Load_balancing_(computing)",
       "location": "none"

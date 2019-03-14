@@ -23,7 +23,7 @@ function rendertable(id) {
         $.each(Json, function (key, value) {
             trHTML += '<tr>';
             // Service column builder
-            trHTML += '<td style="background-color: whitesmoke; color: black"><div class="tooltip"><b>' + value.service.name + '</b><span class="tooltiptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Service description...</span></div></td>';
+            trHTML += '<td style="background-color: whitesmoke; color: black"><div class="tooltip"><b>' + value.service.name + '</b><span class="tooltiptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description:<br><div style="color:white; margin-left:9%; margin-right:5%">' + value.service.desc + '</span></div></td>';
 
             // Data cells render
             trHTML += dataprocessor(value.aws, 'aws');
@@ -49,7 +49,7 @@ function dataprocessor(input, type) {
         trHTML += '</ul></td>';
     } else {
         if (input[0].name === "") {
-            trHTML += '<td>' + '<i class="fas fa-ban" style="color: red; font-size: 24px"></i>' + '</td>'
+            trHTML += '<td>' + '<i class="fas fa-ban" style="color: red; font-size: 120%"></i>' + '</td>'
         } else {
             for (var i in input) {
                 trHTML += '<td><ul><li class="tooltip"><img src="../img/icons/cloudproviders/' + type + '/' + input[0].icon + '" class="img-responsive img-icons"><a style="color: black" href="' + input[0].ref + '">' + input[0].name + '<span class="tooltiptext">' + formatLocation(input[0].location) + '</span></a></li></ul></td>';
@@ -61,9 +61,9 @@ function dataprocessor(input, type) {
 
 function formatLocation(raw) {
     // return "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: " + raw + "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + raw;
-    return "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location:<br><ul><li style='list-style: circle; color:white; margin-left:30px'>" + strReplace(raw) + "</li></ul>";
+    return "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location:<br><ul><li style='list-style: circle; color:white; margin-left:18%'>" + strReplace(raw) + "</li></ul>";
 }
 
 function strReplace(myStr) {
-    return newStr = myStr.replace(/;/g, "</li><li style='list-style: circle; color:white; margin-left:30px'>");
+    return newStr = myStr.replace(/;/g, "</li><li style='list-style: circle; color:white; margin-left:18%'>");
 }

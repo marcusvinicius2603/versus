@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "Identity & Access Management",
       "ref": "",
       "location": "none"
@@ -50,6 +51,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Cloud Security Assesment Service",
       "ref": "",
       "location": "none"
@@ -107,6 +109,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Secured Socket Layer (SSL) Certificates",
       "ref": "",
       "location": "none"
@@ -150,6 +153,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Hardware Based Security Module",
       "ref": "",
       "location": "none"
@@ -200,6 +204,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Directory Services",
       "ref": "",
       "location": "none"
@@ -275,6 +280,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Key Management Services",
       "ref": "",
       "location": "none"
@@ -318,6 +324,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Consolidated Management of Multiple Cloud Accounts",
       "ref": "",
       "location": "none"
@@ -361,6 +368,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "DDos Protection Service",
       "ref": "",
       "location": "none"
@@ -404,6 +412,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Web Application Firewall",
       "ref": "",
       "location": "none"
@@ -447,6 +456,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Security & Compliance Service",
       "ref": "",
       "location": "none"

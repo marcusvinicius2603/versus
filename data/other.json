@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "Office Document Solutions",
       "ref": "",
       "location": "none"
@@ -56,6 +57,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Desktop Application Streaming",
       "ref": "",
       "location": "none"
@@ -99,6 +101,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Cloud Marketplace",
       "ref": "",
       "location": "none"

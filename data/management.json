@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "Server Management Services",
       "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
       "location": "none"
@@ -43,6 +44,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Cloud Deployment Templates/ Infra as Code",
       "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
       "location": "none"
@@ -100,6 +102,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Logging & Monitoring",
       "ref": "https://en.wikipedia.org/wiki/Log_management",
       "location": "none"
@@ -223,6 +226,7 @@
 
   {
     "service": {
+      "desc": "none",
       "name": "Resource / Configuration Inventory",
       "ref": "",
       "location": "none"
@@ -279,6 +283,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Server Automation",
       "ref": "",
       "location": "none"
@@ -335,6 +340,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Server Automation",
       "ref": "",
       "location": "none"
@@ -378,6 +384,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Cloud Cost / Performance / Security Advisor",
       "ref": "",
       "location": "none"
@@ -428,6 +435,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Alerts and Remediation guidance Service",
       "ref": "",
       "location": "none"
@@ -478,6 +486,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Cloud Management Tools",
       "ref": "",
       "location": "none"
@@ -585,6 +594,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Automated Infra Management Services",
       "ref": "",
       "location": "none"
@@ -628,6 +638,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Automated Disaster Recovery Services",
       "ref": "",
       "location": "none"
@@ -685,6 +696,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Managed Cloud Services",
       "ref": "",
       "location": "none"

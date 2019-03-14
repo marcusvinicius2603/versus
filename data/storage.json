@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "Object Storage",
       "ref": "https://",
       "location": "none"
@@ -43,6 +44,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Virtual Machine Disk Storage",
       "ref": "http://##",
       "location": "none"
@@ -93,6 +95,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "File Storage (SMB Compatible)",
       "ref": "https://en.wikipedia.org/wiki/Network-attached_storage",
       "location": "none"
@@ -136,6 +139,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Long Term Cold Storage",
       "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
       "location": "none"
@@ -193,6 +197,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Hybrid Storage/Storage Gateway",
       "ref": "https://en.wikipedia.org/wiki/Cloud_storage_gateway",
       "location": "none"

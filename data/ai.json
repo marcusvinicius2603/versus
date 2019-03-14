@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "Process and analyze large amounts of natural language data for interactions between computers and human.",
       "name": "Language Processing AI",
       "ref": "",
       "location": "none"
@@ -114,6 +115,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Speech Recognition AI",
       "ref": "",
       "location": "none"
@@ -177,6 +179,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Image Recognition AI",
       "ref": "",
       "location": "none"
@@ -240,6 +243,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Machine Learning",
       "ref": "",
       "location": "none"

@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "Database Migration Services",
       "ref": "https://en.wikipedia.org/wiki/Data_migration",
       "location": "none"
@@ -43,6 +44,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Server Migration Services",
       "ref": "#",
       "location": "none"
@@ -93,6 +95,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Small Scale Data Transfer Service",
       "ref": "http://#",
       "location": "none"
@@ -143,6 +146,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Large Scale Data Transfer Solution (Petabyte Scale)",
       "ref": "http://#",
       "location": "none"
@@ -186,6 +190,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Large Scale Data Transfer Solution (Terabyte Scale)",
       "ref": "http://#",
       "location": "none"
@@ -229,6 +234,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Large Scale Data Transfer Solution (Exabyte Scale)",
       "ref": "http://#",
       "location": "none"
@@ -272,6 +278,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Application Discovery Services",
       "ref": "http://#",
       "location": "none"

@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "IoT Platform",
       "ref": "",
       "location": "none"
@@ -57,6 +58,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "IoT Development Solutions",
       "ref": "",
       "location": "none"
@@ -114,6 +116,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "IoT Hardware",
       "ref": "",
       "location": "none"

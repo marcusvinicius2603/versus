@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "Big Data Query as a Service",
       "ref": "",
       "location": "none"
@@ -43,6 +44,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Big Data Managed Cluster as a Service",
       "ref": "",
       "location": "none"
@@ -86,6 +88,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Cloud Search",
       "ref": "",
       "location": "none"
@@ -136,6 +139,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Streaming Service",
       "ref": "",
       "location": "none"
@@ -193,6 +197,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Data Warehouse",
       "ref": "",
       "location": "none"
@@ -236,6 +241,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Business Intelligence & Data Visualization",
       "ref": "",
       "location": "none"
@@ -286,6 +292,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Cloud ETL",
       "ref": "",
       "location": "none"

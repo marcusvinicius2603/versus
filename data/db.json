@@ -1,5 +1,6 @@
 [{
     "service": {
+      "desc": "none",
       "name": "Relational Database Management Service",
       "ref": "https://en.wikipedia.org/wiki/Relational_database_management_system",
       "location": "none"
@@ -128,6 +129,7 @@
 
   {
     "service": {
+      "desc": "none",
       "name": "Non Relational Database Management Service",
       "ref": "https://en.wikipedia.org/wiki/NoSQL",
       "location": "none"
@@ -224,6 +226,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Timeseries Database",
       "ref": "",
       "location": "none"
@@ -267,6 +270,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "In-Memory Data Store",
       "ref": "https://en.wikipedia.org/wiki/In-memory_database",
       "location": "none"
@@ -310,6 +314,7 @@
   },
   {
     "service": {
+      "desc": "none",
       "name": "Data Warehousing",
       "ref": "https://en.wikipedia.org/wiki/Data_warehouse",
       "location": "none"
