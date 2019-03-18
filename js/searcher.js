@@ -9,7 +9,6 @@ document.getElementById("searcher").addEventListener("keydown", function (e) {
 
     // When Enter key is pressed
     if (e.keyCode == 13) {
-        console.log($("#searcher").val());
         finder($("#searcher").val(), "ai");
         finder($("#searcher").val(), "application-service");
         finder($("#searcher").val(), "bd-analytics");
@@ -24,13 +23,15 @@ document.getElementById("searcher").addEventListener("keydown", function (e) {
         finder($("#searcher").val(), "security");
         finder($("#searcher").val(), "storage");
         finder($("#searcher").val(), "other");
+        if (target == 0) {
+            alert("Service not found!");
+        }
         target = 0;
         $("#searcher").val("");
     }
 }, false);
 
 document.getElementById("btn-searcher").addEventListener("click", function () {
-    console.log($("#searcher").val());
     finder($("#searcher").val(), "ai");
     finder($("#searcher").val(), "application-service");
     finder($("#searcher").val(), "bd-analytics");
@@ -45,6 +46,9 @@ document.getElementById("btn-searcher").addEventListener("click", function () {
     finder($("#searcher").val(), "security");
     finder($("#searcher").val(), "storage");
     finder($("#searcher").val(), "other");
+    if (target == 0) {
+        alert("Service not found!");
+    }
     target = 0;
     $("#searcher").val("");
 })
@@ -65,10 +69,8 @@ function finder(input, tableid) {
                 if (txtValue.toUpperCase().indexOf(filter) > -1 && target != 1) {
                     document.getElementById('sec-' + tableid).scrollIntoView();
                     target = 1
-                    console.log("find");
                 } else {
                     target = 0;
-                    console.log("not find");
                 }
             }
         }
