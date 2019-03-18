@@ -24,7 +24,14 @@ document.getElementById("searcher").addEventListener("keydown", function (e) {
         finder($("#searcher").val(), "storage");
         finder($("#searcher").val(), "other");
         if (target == 0) {
-            alert("Service not found!");
+            event.preventDefault();
+            Swal.fire({
+                type: 'error',
+                title: 'Oops...',
+                text: 'Service not found!',
+                footer: '<a href="https://versus.mybluemix.net/" target="_blank">How to collaborate with the website?</a>'
+                
+            })
         }
         target = 0;
         $("#searcher").val("");
