@@ -9,7 +9,7 @@
         "name": "Lex",
         "ref": "https://aws.amazon.com/lex/",
         "icon": "aws.png",
-        "location": "none"
+        "location": "SAO01;DAL13"
       },
       {
         "name": "Comprehend",
