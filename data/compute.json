@@ -242,7 +242,7 @@
         "name": "Elastic Container Service for Kubernetes (EKS)",
         "ref": "https://aws.amazon.com/eks/",
         "icon": "Compute_AmazonECS.png",
-        "location": "none"
+        "location": "Asia Pacific (Mumbai);Asia Pacific (Seoul);Asia Pacific (Tokyo);Asia Pacific (Singapore);Asia Pacific (Sydney);EU (Stockholm);EU (Paris);EU (London);EU (Ireland);EU (Frankfurt);US East (N. Virginia);US East (Ohio);US West (Oregon)"
       }
     ],
     "azure": [{
